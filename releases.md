@@ -1,19 +1,19 @@
 # Released projects
 
-Listing <!-- releases_count starts -->170<!-- releases_count ends --> releases across <!-- project_count starts -->23<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->168<!-- releases_count ends --> releases across <!-- project_count starts -->23<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[iamai](https://github.com/retrofor/iamai)**: [v5.0.6 🌈](https://github.com/retrofor/iamai/releases/tag/untagged-87283b79c5943de1e215) - ([18 releases total](https://github.com/retrofor/iamai/releases))  - Near Future
-<br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
+* **[retrofor.github.io](https://github.com/retrofor/retrofor.github.io)**: [v2023.0.4 🌈](https://github.com/retrofor/retrofor.github.io/releases/tag/v2023.0.4) - ([88 releases total](https://github.com/retrofor/retrofor.github.io/releases))  - 2023-02-28
+<br />None
 * **[OlivaGithub](https://github.com/HsiangNianian/OlivaGithub)**: [v3.1415 🐱‍👤](https://github.com/HsiangNianian/OlivaGithub/releases/tag/v3.1415) - ([2 releases total](https://github.com/HsiangNianian/OlivaGithub/releases))  - 2023-02-28
 <br />基于OlivOS框架的利用webhook实时监控你的Github仓库的插件
+* **[iamai](https://github.com/retrofor/iamai)**: [v3.1 🌈](https://github.com/retrofor/iamai/releases/tag/v3.1) - ([15 releases total](https://github.com/retrofor/iamai/releases))  - 2023-02-20
+<br />Cross-platform robot framework, mainly used for machine learning | 跨平台机器人框架+深度学习框架
 * **[flarum-post-formatter](https://github.com/HsiangNianian/flarum-post-formatter)**: [v0.0.4✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.4) - ([4 releases total](https://github.com/HsiangNianian/flarum-post-formatter/releases))  - 2023-02-17
 <br />Flarum plugin that allows posts to be formatted and rendered with a subset of BBCode and HTML
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [v3](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/untagged-8bf4ca6c48e6c3164a42) - ([14 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - 2023-02-12
 <br />可插件化管理的B站直播间机器人
 * **[retro_pkg_test](https://github.com/retrofor/retro_pkg_test)**: [v3.1415 🌈](https://github.com/retrofor/retro_pkg_test/releases/tag/v3.1415) - ([5 releases total](https://github.com/retrofor/retro_pkg_test/releases))  - 2023-02-01
-<br />None
-* **[retrofor.github.io](https://github.com/retrofor/retrofor.github.io)**: [v2023.0.3 🌈](https://github.com/retrofor/retrofor.github.io/releases/tag/v2023.0.3) - ([87 releases total](https://github.com/retrofor/retrofor.github.io/releases))  - 2023-02-01
 <br />None
 * **[Oliva_Plugin_GPT](https://github.com/retrofor/Oliva_Plugin_GPT)**: [release-v0.1.0](https://github.com/retrofor/Oliva_Plugin_GPT/releases/tag/v0.1.0)  - 2023-01-24
 <br />GPT calling plug-in based on ovo framework ,supports multi-platforms.
