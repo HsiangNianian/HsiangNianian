@@ -36,7 +36,7 @@ GPG Keys: <i@jyunko.cn>([5DE2131FAD104AEBA3D36BDF519BB8194D892FD0](https://keys.
 <table style="border-color: transparent;" cellspacing=0 ><td valign="top" width="80%">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C145%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C145%20hrs%2057%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -78,7 +78,7 @@ Linux                    3 hrs 25 mins       ███████████�
 ```
 
 
- Last Updated on 29/01/2025 13:34:03 UTC
+ Last Updated on 29/01/2025 14:34:07 UTC
 <!--END_SECTION:waka-->
 
 </td>
