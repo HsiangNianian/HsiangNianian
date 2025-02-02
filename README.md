@@ -9,7 +9,9 @@ I have always had an absurd idea-composing music in a programming language and p
 
 I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understanding of the expressiveness and emotion of music. I also have a peculiar idea, which is to compose music in a programming language and program in a music language. I think this can create a new connection between music and programming, and also allow music and programming enthusiasts to learn and communicate with each other. 
 
-GPG Keys: <i@jyunko.cn>([5DE2131FAD104AEBA3D36BDF519BB8194D892FD0](https://keys.openpgp.org/search?q=5DE2131FAD104AEBA3D36BDF519BB8194D892FD0))
+**GPG Keys**  
+<i@jyunko.cn>([5DE2131FAD104AEBA3D36BDF519BB8194D892FD0](https://keys.openpgp.org/search?q=5DE2131FAD104AEBA3D36BDF519BB8194D892FD0))  
+<admin@asynth.in>([9814C1FF82E740C790AD76C8EFBDC9B298AFED05](https://keys.openpgp.org/vks/v1/by-fingerprint/9814C1FF82E740C790AD76C8EFBDC9B298AFED05))
 
 </td>
 </td><td valign="top" width="50%">
