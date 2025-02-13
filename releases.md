@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->187<!-- releases_count ends --> releases across <!-- project_count starts -->22<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->188<!-- releases_count ends --> releases across <!-- project_count starts -->23<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2025-02-13
+<br />Unofficial swi-prolog docs for Chinese
 * **[iamai](https://github.com/retrofor/iamai)**: [nightly](https://github.com/retrofor/iamai/releases/tag/nightly) - ([17 releases total](https://github.com/retrofor/iamai/releases))  - 2025-02-01
 <br />A rule-driven comprehensive AI toolkit emphasizing simultaneous support for multimodal machine learning and the ability to construct cross-platform robots using logic.（规则驱动式的综合性人工智能工具库，强调同时支持多模态机器学习和利用逻辑构建跨平台机器人的能力）
 * **[online-judge](https://github.com/swpu-acm/online-judge)**: [algohub-server v0.1.17](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.17) - ([19 releases total](https://github.com/swpu-acm/online-judge/releases))  - 2024-12-17
