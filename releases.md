@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->188<!-- releases_count ends --> releases across <!-- project_count starts -->23<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->189<!-- releases_count ends --> releases across <!-- project_count starts -->24<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[GetPlayerCard](https://github.com/HsiangNianian/GetPlayerCard)**: [v0.0.3](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.0.3)  - 2025-02-17
+<br />Experimentally get your character card through an object-oriented program
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2025-02-17
 <br />Unofficial swi-prolog docs for Chinese
 * **[iamai](https://github.com/retrofor/iamai)**: [nightly](https://github.com/retrofor/iamai/releases/tag/nightly) - ([17 releases total](https://github.com/retrofor/iamai/releases))  - 2025-02-01

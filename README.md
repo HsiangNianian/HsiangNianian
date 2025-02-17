@@ -158,6 +158,8 @@ Linux                    5 hrs 30 mins       ███████████�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
+[GetPlayerCard v0.0.3](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.0.3) - 2025-02-17
+
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-02-17
 
 [iamai nightly](https://github.com/retrofor/iamai/releases/tag/nightly) - 2025-02-01
@@ -175,8 +177,6 @@ Linux                    5 hrs 30 mins       ███████████�
 [Flexirobo v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - 2023-04-11
 
 [AO3Search v0406.post2](https://github.com/HsiangNianian/AO3Search/releases/tag/0406.post2) - 2023-04-06
-
-[Civilian-SealDice v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - 2023-04-03
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
