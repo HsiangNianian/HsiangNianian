@@ -158,9 +158,9 @@ Linux                    6 hrs 44 mins       ███████████�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[GetPlayerCard v0.0.3](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.0.3) - 2025-02-17
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-02-18
 
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-02-17
+[GetPlayerCard v0.0.3](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.0.3) - 2025-02-17
 
 [iamai nightly](https://github.com/retrofor/iamai/releases/tag/nightly) - 2025-02-01
 
