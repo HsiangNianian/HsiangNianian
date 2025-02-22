@@ -938,7 +938,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Snaipe/python-rst2ansi</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A python utility for rendering RST in the terminal</div>
@@ -991,7 +991,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rstcheck/rstcheck</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Checks syntax of reStructuredText and code blocks nested within it</div>
@@ -1044,7 +1044,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rst2pdf/rst2pdf</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use a text editor.  Make a PDF.</div>
@@ -1507,7 +1507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2025, 18:30:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Feb 2025, 19:26:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
