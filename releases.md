@@ -3,7 +3,7 @@
 Listing <!-- releases_count starts -->191<!-- releases_count ends --> releases across <!-- project_count starts -->24<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2025-02-27
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2025-02-28
 <br />Unofficial swi-prolog docs for Chinese
 * **[GetPlayerCard](https://github.com/HsiangNianian/GetPlayerCard)**: [v0.4.4](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.4.4) - ([3 releases total](https://github.com/HsiangNianian/GetPlayerCard/releases))  - 2025-02-18
 <br />Experimentally get your character card through an object-oriented program
