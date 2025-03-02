@@ -948,7 +948,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Rigellute/spotify-tui</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Spotify for the terminal written in Rust 🚀</div>
@@ -1001,7 +1001,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mopidy/mopidy-spotify</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mopidy extension for playing music from Spotify</div>
@@ -1054,7 +1054,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mierak/rmpc</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A configurable, terminal based Media Player Client with album art support via various terminal image protocols</div>
@@ -1107,7 +1107,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jstkdng/ueberzugpp</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Drop in replacement for ueberzug written in C++</div>
@@ -1496,7 +1496,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Mar 2025, 01:25:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Mar 2025, 02:37:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
