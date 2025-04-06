@@ -38,7 +38,7 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 <table style="border-color: transparent;" cellspacing=0 ><td valign="top" width="80%">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C183%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C184%20hrs%201%20min-blue)
 
 **I'm a Night 🦉** 
 
@@ -65,17 +65,18 @@ Sunday                   4652 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████████████   100.00 % 
+Text                     2 mins              ███████████████████████░░   92.86 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+Neovim                   2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2025 16:33:32 UTC
+ Last Updated on 06/04/2025 17:25:57 UTC
 <!--END_SECTION:waka-->
 
 </td>
