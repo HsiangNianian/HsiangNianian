@@ -158,13 +158,13 @@ Linux                    5 hrs               ███████████�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-02-28
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-06-06
+
+[online-judge algohub-server v0.1.18](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.18) - 2025-03-26
 
 [GetPlayerCard v0.4.4](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.4.4) - 2025-02-18
 
 [iamai nightly](https://github.com/retrofor/iamai/releases/tag/nightly) - 2025-02-01
-
-[online-judge algohub-server v0.1.17](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.17) - 2024-12-17
 
 [testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
 

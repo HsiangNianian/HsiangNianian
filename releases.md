@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->191<!-- releases_count ends --> releases across <!-- project_count starts -->24<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->192<!-- releases_count ends --> releases across <!-- project_count starts -->24<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2025-02-28
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2025-06-06
 <br />Unofficial swi-prolog docs for Chinese
+* **[online-judge](https://github.com/swpu-acm/online-judge)**: [algohub-server v0.1.18](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.18) - ([20 releases total](https://github.com/swpu-acm/online-judge/releases))  - 2025-03-26
+<br />Extremely fast async online judge backend based on Rust
 * **[GetPlayerCard](https://github.com/HsiangNianian/GetPlayerCard)**: [v0.4.4](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.4.4) - ([3 releases total](https://github.com/HsiangNianian/GetPlayerCard/releases))  - 2025-02-18
 <br />Experimentally get your character card through an object-oriented program
 * **[iamai](https://github.com/retrofor/iamai)**: [nightly](https://github.com/retrofor/iamai/releases/tag/nightly) - ([17 releases total](https://github.com/retrofor/iamai/releases))  - 2025-02-01
 <br />A rule-driven comprehensive AI toolkit emphasizing simultaneous support for multimodal machine learning and the ability to construct cross-platform robots using logic.（规则驱动式的综合性人工智能工具库，强调同时支持多模态机器学习和利用逻辑构建跨平台机器人的能力）
-* **[online-judge](https://github.com/swpu-acm/online-judge)**: [algohub-server v0.1.17](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.17) - ([19 releases total](https://github.com/swpu-acm/online-judge/releases))  - 2024-12-17
-<br />Extremely fast async online judge backend based on Rust
 * **[testforchangelog](https://github.com/retrofor/testforchangelog)**: [v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - ([3 releases total](https://github.com/retrofor/testforchangelog/releases))  - 2024-01-29
 <br />None
 * **[unpredictableFate](https://github.com/HsiangNianian/unpredictableFate)**: [v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - ([5 releases total](https://github.com/HsiangNianian/unpredictableFate/releases))  - 2023-10-19
