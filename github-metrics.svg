@@ -180,7 +180,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    20k added, 3.79k removed
+                                    16.7k added, 3.33k removed
                                 </div>
                             </section>
                             <section>
@@ -381,33 +381,33 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 120mb of code in 23333 edited files across 3074 commits</small>
+                <small>estimation from 120mb of code in 23356 edited files across 3078 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="250.07253214389192" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="250.07253214389192" y="0" width="172.59537000131448" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="422.6679021452064" y="0" width="142.10533582176654" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="564.7732379669729" y="0" width="122.96972224576643" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="687.7429602127394" y="0" width="75.701573262833" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="763.4445334755724" y="0" width="56.39553255420625" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="819.8400660297787" y="0" width="44.226529975105265" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="864.0665960048839" y="0" width="26.43664762560057" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="890.5032436304845" y="0" width="11.068920703473792" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="901.5721643339583" y="0" width="6.926301075368144" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="908.4984654093264" y="0" width="3.561743322967081" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="912.0602087322935" y="0" width="2.266428209155715" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="914.3266369414492" y="0" width="1.9027201707267234" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="916.229357112176" y="0" width="1.5849493648116555" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="917.8143064769877" y="0" width="1.3034689725825874" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="919.1177754495702" y="0" width="0.32799184014941585" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="919.4457672897196" y="0" width="0.2698812410193023" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="919.7156485307389" y="0" width="0.17674350209732176" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="919.8923920328361" y="0" width="0.05133485733430983" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="919.9437268901705" y="0" width="0.048119251058335165" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="919.9918461412288" y="0" width="0.008153858771221474" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.79712228655126" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="249.79712228655126" y="0" width="172.38422924160517" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="422.1813515281564" y="0" width="141.9314943765185" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="564.1128459046749" y="0" width="122.81928993361339" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="686.9321358382883" y="0" width="75.60896540382855" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="762.5411012421168" y="0" width="56.32654231659087" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="818.8676435587078" y="0" width="44.17242641984664" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="863.0400699785544" y="0" width="26.404306932661974" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="889.4443769112164" y="0" width="11.055379782147364" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="900.4997566933638" y="0" width="6.917827936888141" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="907.4175846302519" y="0" width="4.652337071515694" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="912.0699217017676" y="0" width="2.2636556239241177" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="914.3335773256916" y="0" width="1.900392519745365" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="916.2339698454371" y="0" width="1.5830104517748544" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="917.816980297212" y="0" width="1.3018744024088542" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="919.1188546996209" y="0" width="0.32759059852684475" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="919.4464452981476" y="0" width="0.2695510877234191" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="919.7159963858711" y="0" width="0.17652728681120938" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="919.8925236726824" y="0" width="0.05127205796270994" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="919.943795730645" y="0" width="0.048060385428133026" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="919.9918561160731" y="0" width="0.008143883926962877" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -419,7 +419,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>70.7k lines</div>
+                                <div>70.8k lines</div>
                                 <div>2.18 MB</div>
                             </small>
                         </div>
@@ -579,8 +579,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>1.39k lines</div>
-                                <div>31 kB</div>
+                                <div>1.83k lines</div>
+                                <div>40.5 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1025,7 +1025,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ibhagwan/fzf-lua</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Improved fzf.vim written in lua</div>
@@ -1078,7 +1078,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>junegunn/vim-plug</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1134,7 +1134,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nvim-lua/plenary.nvim</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.</div>
@@ -1187,7 +1187,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pwntester/octo.nvim</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Edit and review GitHub issues and pull requests from the comfort of your favorite editor</div>
@@ -1601,7 +1601,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2025, 17:36:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jun 2025, 18:38:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
