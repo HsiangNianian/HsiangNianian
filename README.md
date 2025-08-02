@@ -149,7 +149,7 @@ Linux                    0 secs              ███████████�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-07-31
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-08-01
 
 [online-judge algohub-server v0.1.18](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.18) - 2025-03-26
 
