@@ -1173,7 +1173,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Eugeny/tabby</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A terminal for a more modern age</div>
@@ -1226,7 +1226,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cia-foundation/TempleOS</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Talk to God on up to 64 cores. Final snapshot of the Third Temple.</div>
@@ -1658,7 +1658,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Sept 2025, 01:25:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Sept 2025, 02:22:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
