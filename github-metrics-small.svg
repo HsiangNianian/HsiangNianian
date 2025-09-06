@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2912" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2895" class="">
     <defs>
         <style/>
     </defs>
@@ -1128,7 +1128,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YUZHEthefool/lifegame_gui</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1425,6 +1425,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#41ba09c</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HsiangNianian/HsiangNianian</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#8817bd7</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
@@ -1477,46 +1497,6 @@
                                     <div class="content">
                                         Starred
                                         <span class="repo">YUZHEthefool/lifegame_gui</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">HydroRoll-Team/infini</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v3</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#178f8fb</div>
-                                        <div class="message">Merge pull request #68 from HydroRoll-Team/dependabot/github_actions/ncipollo/release-action-1.20.0
-
-chore(deps): bump ncipollo/release-action from 1.18.0 to 1.20.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5802a1a</div>
-                                        <div class="message">chore(deps): bump ncipollo/release-action from 1.18.0 to 1.20.0
-
-Bumps [ncipollo/release-action](https://github.com/ncipollo/release-action) from 1.18.0 to 1.20.0.
-- [Release notes](https://github.com/ncipollo/release-action/releases)
-- [Commits](https://github.com/ncipollo/release-action/compare/v1.18.0...v1.20.0)
-
----
-updated-dependencies:
-- dependency-name: ncipollo/release-action
-  dependency-version: 1.20.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1686,7 +1666,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Sept 2025, 14:23:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Sept 2025, 15:20:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
