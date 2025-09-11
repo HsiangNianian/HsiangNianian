@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="3104" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2824" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style>h2 {
  padding-top: 20px;
  border-top: 1px #AAA8 solid;
@@ -180,7 +180,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    16.4k added, 6.86k removed
+                                    26.9k added, 8.42k removed
                                 </div>
                             </section>
                             <section>
@@ -748,7 +748,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 168 commits)</small>
+                    <small class="h-details">(computed from last 167 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1143,7 +1143,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KDE/rolisteam-diceparser</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rolisteam Dice Handling Components</div>
@@ -1196,7 +1196,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cargo-bins/cargo-binstall</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Binary installation for rust projects</div>
@@ -1249,7 +1249,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HydroRoll-Team/OneRoll</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OneRoll: An efficient dice expression parsing tool, based on Rust and PEG grammar | 高效的骰子表达式解析工具, 基于 Rust 与 PEG 文法</div>
@@ -1302,7 +1302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaPanel/BillionMail</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</div>
@@ -1435,214 +1435,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">HydroRoll-Team/ergo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#92f0698</div>
-                                        <div class="message">Merge pull request #2290 from slingamn/goupgrade
-
-upgrade to go 1.25</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8913bd7</div>
-                                        <div class="message">upgrade to go 1.25</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#064291e</div>
-                                        <div class="message">add an explicit note covering #2289</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 50 commits in
-                                        <span class="repo">HydroRoll-Team/OlivaDiceCore</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#84bc91c</div>
-                                        <div class="message">Merge pull request #120 from Desom-fu/main
-
-rav增加技能名敏感词判断+数字检测去除</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76d939f</div>
-                                        <div class="message">rav增加技能名敏感词判断+数字检测去除</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b87396</div>
-                                        <div class="message">Merge pull request #119 from Desom-fu/main
-
-让en自动检定显示技能列表</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee51b6e</div>
-                                        <div class="message">让en自动检定显示技能列表</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1206086</div>
-                                        <div class="message">Merge pull request #118 from Desom-fu/main
-
-给 .st rec/note 里面加上特殊属性的提示（db，体格等）</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#655306f</div>
-                                        <div class="message">给team at增加alias：team call</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8171211</div>
-                                        <div class="message">给 .st rec 里面加上特殊属性的提示（db，体格等）</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73ac2c9</div>
-                                        <div class="message">Merge pull request #117 from Desom-fu/main
-
-sc默认显示带斜杠后的数值</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b96e38</div>
-                                        <div class="message">优化一个小地方</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b9f4f0</div>
-                                        <div class="message">加上upper</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45c882a</div>
-                                        <div class="message">优化默认回复</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5febcd2</div>
-                                        <div class="message">sc默认显示带斜杠后的数值</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#75c3c00</div>
-                                        <div class="message">Merge pull request #116 from Desom-fu/main
-
-增加team r的功能</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#229af77</div>
-                                        <div class="message">优化小队解析位置</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ee7cab</div>
-                                        <div class="message">增加team r的功能</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3b3bb1</div>
-                                        <div class="message">Merge pull request #115 from Desom-fu/main
-
-team_ra，team_st，ra三个部分加上对'D'作为技能名的特殊处理，以及对技能加上了敏感词替换</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab2d013</div>
-                                        <div class="message">小修复（忘记判断none了有猪）</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#adc299c</div>
-                                        <div class="message">帮助文档小优化</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2e8dc6</div>
-                                        <div class="message">优化st temp自动切换群名片</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#74b2a41</div>
-                                        <div class="message">team_ra，team_st，ra三个部分加上对'D'作为技能名的特殊处理，以及对技能加上了敏感词替换</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">HydroRoll-Team/Dice</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">newdev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7e17e65</div>
-                                        <div class="message">feat(vcpkg):win sdk</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10a85ee</div>
-                                        <div class="message">fix(game): filename
-
-修复保存文件的字符编码问题</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3767e2</div>
-                                        <div class="message">fix(lua): set
-
-修复set类取ipairs死循环的问题</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b28343</div>
-                                        <div class="message">fix(AttrObject): from_json
-
-修复json::array到AttrObject的转换bug</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94939be</div>
-                                        <div class="message">fix: format
-
-优化{}嵌套的处理</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9476ab2</div>
-                                        <div class="message">fix(session): deck_draw
-
-修复Session内抽取公共牌堆的异常</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e803a91</div>
-                                        <div class="message">feat(rc): BRP roll
-
-支持BRP成功等级规则
-rc支持简单难度
-setcoc优先设置给game</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4e0d63</div>
-                                        <div class="message">feat(format): len &amp; expired
-
-新增len&amp;expired
-优化&amp;=键值对识别对嵌套的影响</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cacc31a</div>
-                                        <div class="message">fix(mod): install
-
-恢复.mod get远程获取功能</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a765da8</div>
-                                        <div class="message">fix: readUntilTab
-
-清理readUntilTab对GBK编码的特化补丁
-rename: strCharacterTooBig-&gt;strBuildTooMany</div>
+                                        Created new
+                      tag
+                                        <span class="code">v1.0.2</span>
+                                        in
+                                        <span class="repo">HydroRoll-Team/OneRoll</span>
                                     </div>
                                 </div>
                             </section>
@@ -1661,8 +1461,120 @@ rename: strCharacterTooBig-&gt;strBuildTooMany</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0288d09</div>
-                                        <div class="message">feat: initial basic roll features</div>
+                                        <div class="sha">#d7cf805</div>
+                                        <div class="message">chore: update version to 1.0.2 and enhance documentation</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 161 commits in
+                                        <span class="repo">HydroRoll-Team/deadlines</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">gh-pages</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0c9f536</div>
+                                        <div class="message">Fixed AIA 2024 title</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41315a0</div>
+                                        <div class="message">Added KR 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87c8793</div>
+                                        <div class="message">Added AIA 2024 Symposium</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41c2225</div>
+                                        <div class="message">Update conferences.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8668ae5</div>
+                                        <div class="message">Merge pull request #622 from mononitogoswami/gh-pages
+
+Update conferences.yml with symposium details</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#636da7b</div>
+                                        <div class="message">Merge branch 'gh-pages' into gh-pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bbd5c6b</div>
+                                        <div class="message">Merge pull request #621 from skywalker023/gh-pages
+
+Update COLM deadline</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50ab96a</div>
+                                        <div class="message">Merge pull request #620 from jungtaekkim/gh-pages
+
+Update IJCAI 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67faeba</div>
+                                        <div class="message">Merge pull request #619 from bertjiazheng/gh-pages
+
+add SIGGRAPH 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6463f16</div>
+                                        <div class="message">Update conferences.yml with symposium details</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9f1aa6</div>
+                                        <div class="message">Update COLM deadline</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e614921</div>
+                                        <div class="message">Update IJCAI 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa1e877</div>
+                                        <div class="message">add SIGGRAPH 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c21ec8f</div>
+                                        <div class="message">Merge pull request #618 from cwallraven/gh-pages
+
+Update conferences.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab00ca4</div>
+                                        <div class="message">Merge pull request #617 from pulkitverma25/gh-pages
+
+Added UAI 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#104669b</div>
+                                        <div class="message">Merge branch 'gh-pages' into gh-pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16802fc</div>
+                                        <div class="message">Merge pull request #616 from qfournier/patch-3
+
+Add CoLLAs 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71f4e3b</div>
+                                        <div class="message">Update conferences.yml
+
+deadline extension ICPRAI2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ba62c2</div>
+                                        <div class="message">Added UAI 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec8d8c6</div>
+                                        <div class="message">Add CoLLAs 2024 to conferences.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -1681,8 +1593,36 @@ rename: strCharacterTooBig-&gt;strBuildTooMany</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8104a60</div>
+                                        <div class="sha">#7a991ce</div>
                                         <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">HydroRoll-Team/Norn_Dice</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2417c0b</div>
+                                        <div class="message">1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d2e340</div>
+                                        <div class="message">Update dependencies and fix bugs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cdff021</div>
+                                        <div class="message">Update package.json with new contributors and homepage</div>
                                     </div>
                                 </div>
                             </section>
@@ -1862,7 +1802,7 @@ rename: strCharacterTooBig-&gt;strBuildTooMany</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Sept 2025, 05:15:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Sept 2025, 06:15:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
