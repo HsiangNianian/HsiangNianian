@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4008" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3309" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style>h2 {
  padding-top: 20px;
  border-top: 1px #AAA8 solid;
@@ -180,7 +180,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    27k added, 9.08k removed
+                                    24.9k added, 7.87k removed
                                 </div>
                             </section>
                             <section>
@@ -740,12 +740,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 168 commits)</small>
+                    <small class="h-details">(computed from last 167 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Mostly pushes code around 04:00</li>
-                        <li>Mostly active on Wednesday</li>
+                        <li>Mostly active on Friday</li>
                     </ul>
                 </div>
             </section>
@@ -1135,7 +1135,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KDE/rolisteam-diceparser</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rolisteam Dice Handling Components</div>
@@ -1188,7 +1188,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cargo-bins/cargo-binstall</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Binary installation for rust projects</div>
@@ -1241,7 +1241,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HydroRoll-Team/OneRoll</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OneRoll: An efficient dice expression parsing tool, based on Rust and PEG grammar | 高效的骰子表达式解析工具, 基于 Rust 与 PEG 文法</div>
@@ -1294,7 +1294,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aaPanel/BillionMail</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</div>
@@ -1430,97 +1430,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 412 commits in
-                                        <span class="repo">HydroRoll-Team/WebODM</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">HydroRoll-Team/OneRoll</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f1e6b3a</div>
-                                        <div class="message">Fix tab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c9dd4e</div>
-                                        <div class="message">Fix tab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24ba939</div>
-                                        <div class="message">Update locale</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f1e4a3</div>
-                                        <div class="message">Cleanup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#921cfa3</div>
-                                        <div class="message">Propagate publicEdit flag</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d83fb0</div>
-                                        <div class="message">Add migration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c103db</div>
-                                        <div class="message">Update locale</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6dc5d96</div>
-                                        <div class="message">Potree scene edit permission checks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a1473a</div>
-                                        <div class="message">Add public_edit field, controls</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eaf0db9</div>
-                                        <div class="message">Merge pull request #1561 from pierotofy/bigfix
-
-Hide Add Project button when user doesn't have permissions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#249869e</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1e9f02</div>
-                                        <div class="message">Fix test</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d6846d</div>
-                                        <div class="message">Hide Add Project button when user doesn't have permissions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66594b2</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#208af69</div>
-                                        <div class="message">Merge pull request #1559 from pierotofy/bigfix
-
-Create BIGTIFF output during export if needed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9868ba</div>
-                                        <div class="message">Hide quota field when adding new users</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ee1474</div>
-                                        <div class="message">Delink console text on duplication</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0cc4be5</div>
-                                        <div class="message">Create BIGTIFF output during export if needed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31f9399</div>
-                                        <div class="message">Merge pull request #1557 from pierotofy/unitbackfix
-
-unitBackward fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6edf82</div>
-                                        <div class="message">unitBackward fix</div>
+                                        <div class="sha">#b5d9371</div>
+                                        <div class="message">chore: update CI configuration for maturin v1.8.6 and enhance wheel building steps</div>
                                     </div>
                                 </div>
                             </section>
@@ -1529,573 +1447,14 @@ unitBackward fix</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">HydroRoll-Team/Rust</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f2a23e9</div>
-                                        <div class="message">chore(deps): bump actions/stale from 9 to 10 in /.github/workflows (#909)
-
-Bumps [actions/stale](https://github.com/actions/stale) from 9 to 10.
-- [Release notes](https://github.com/actions/stale/releases)
-- [Changelog](https://github.com/actions/stale/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/actions/stale/compare/v9...v10)
-
----
-updated-dependencies:
-- dependency-name: actions/stale
-  dependency-version: '10'
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9fc5520</div>
-                                        <div class="message">chore(deps): bump actions/setup-python from 5 to 6 in /.github/workflows (#910)
-
-Bumps [actions/setup-python](https://github.com/actions/setup-python) from 5 to 6.
-- [Release notes](https://github.com/actions/setup-python/releases)
-- [Commits](https://github.com/actions/setup-python/compare/v5...v6)
-
----
-updated-dependencies:
-- dependency-name: actions/setup-python
-  dependency-version: '6'
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e39ec9b</div>
-                                        <div class="message">chore: remove @vil02 from `CODEOWNERS` (#908)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4eec0b7</div>
-                                        <div class="message">chore: suppress new clippy lints (#905)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbef3d6</div>
-                                        <div class="message">chore(deps): bump actions/checkout from 4 to 5 in /.github/workflows (#902)
-
-Bumps [actions/checkout](https://github.com/actions/checkout) from 4 to 5.
-- [Release notes](https://github.com/actions/checkout/releases)
-- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/actions/checkout/compare/v4...v5)
-
----
-updated-dependencies:
-- dependency-name: actions/checkout
-  dependency-version: '5'
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbb20e9</div>
-                                        <div class="message">chore(deps): update nalgebra requirement from 0.33.0 to 0.34.0 (#900)
-
-* chore(deps): update nalgebra requirement from 0.33.0 to 0.34.0
-
-Updates the requirements on [nalgebra](https://github.com/dimforge/nalgebra) to permit the latest version.
-- [Changelog](https://github.com/dimforge/nalgebra/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/dimforge/nalgebra/commits)
-
----
-updated-dependencies:
-- dependency-name: nalgebra
-  dependency-version: 0.34.0
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-* fix: allow duplicated versions of `glam`
-
----------
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-Co-authored-by: vil02 &lt;65706193+vil02@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99e33d1</div>
-                                        <div class="message">chore: suppress new clippy lints (#895)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff55eda</div>
-                                        <div class="message">chore: set permissions (#893)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5dfa123</div>
-                                        <div class="message">chore: scan actions with Code QL (#892)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#731ea21</div>
-                                        <div class="message">fix(logistic_regression): typo in comment (#891)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05ee005</div>
-                                        <div class="message">Update DIRECTORY.md [skip actions]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1147b6b</div>
-                                        <div class="message">optimal binary search tree added in dynamic_programming (#890)
-
-* optimal search binary tree added
-
-* obst link in DIRECTORY.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3b116d</div>
-                                        <div class="message">Add euler totient function (#882)
-
-* Add Euler's totient function implementation - Implements φ(n) using prime factorization method
-- Includes comprehensive tests for small numbers, primes, prime powers, and larger values
-- All tests pass and follows project naming conventions
-
-* add to DIRECTORY.md
-
-* Add parameterized tests for Euler totient with 100% coverage
-
-* Add parameterized tests for Euler totient with 100% coverage
-
-* Add parameterized tests for Euler totient with 100% coverage
-
-* Add parameterized tests for Euler totient with 100% coverage / after echo
-
-* code syntaxe fixing
-
-* run cargo clippy and cargo fmt
-
-* re-test and make sure branch is up to date
-
-* Update src/number_theory/euler_totient.rs
-
-Co-authored-by: Piotr Idzik &lt;65706193+vil02@users.noreply.github.com&gt;
-
-* Update src/number_theory/euler_totient.rs
-
-Co-authored-by: Piotr Idzik &lt;65706193+vil02@users.noreply.github.com&gt;
-
-* add all remainning cases
-
-* add suggestion and add other cases
-
-* Update euler_totient.rs
-
-Co-authored-by: Piotr Idzik &lt;65706193+vil02@users.noreply.github.com&gt;
-
-* before merge
-
-* re-test
-
----------
-
-Co-authored-by: Piotr Idzik &lt;65706193+vil02@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba3f671</div>
-                                        <div class="message">style: include `needless_lifetimes` (#889)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9ed3ed</div>
-                                        <div class="message">style: include `enum_glob_use` (#888)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b639d14</div>
-                                        <div class="message">style: include `elidable_lifetime_names` (#887)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ff817b</div>
-                                        <div class="message">style: incldue `uninlined_format_args` (#886)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#306f624</div>
-                                        <div class="message">style: include `string_to_string` (#885)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5839fb4</div>
-                                        <div class="message">style: include `manual_midpoint` (#884)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc3ef17</div>
-                                        <div class="message">chore: suppress new clippy lints (#883)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 50 commits in
-                                        <span class="repo">HydroRoll-Team/Python</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#060fd8e</div>
-                                        <div class="message">Fix reverse_bits.py: correct 32-bit reversal and improve docstrings (#12924)
-
-* Fix reverse_bits.py (#12868)
-
-* Update reverse_bits.py
-
-* Update reverse_bits.py
-
-* Update reverse_bits.py
-
-* Update reverse_bits.py
-
-* Update reverse_bits.py
-
----------
-
-Co-authored-by: Maxim Smolskiy &lt;mithridatus@mail.ru&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ddb027</div>
-                                        <div class="message">Adding doctest for md_prefix function in build_directory_md.py (#12874)
-
-* Adding doctests for md_prefix function in build_directory_md.py
-
-* Update build_directory_md.py
-
-* Update build_directory_md.py
-
-* Update build_directory_md.py
-
----------
-
-Co-authored-by: Maxim Smolskiy &lt;mithridatus@mail.ru&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2b9003</div>
-                                        <div class="message">Fix code style in README.md (#12843)
-
-* Fix #12840 code style
-
-* Update README.md
-
----------
-
-Co-authored-by: Maxim Smolskiy &lt;mithridatus@mail.ru&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a8c5616</div>
-                                        <div class="message">Simplify Capitalize Function (#12879)
-
-* Simplify the capitalize function using ASCII arithmetic to make the algorithm five times faster.
-
-* [pre-commit.ci] auto fixes from pre-commit.com hooks
-
-for more information, see https://pre-commit.ci
-
-* Update capitalize.py
-
-* Update capitalize.py
-
----------
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
-Co-authored-by: Maxim Smolskiy &lt;mithridatus@mail.ru&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e224532</div>
-                                        <div class="message">Bump actions/upload-pages-artifact from 3 to 4 (#12922)
-
-Bumps [actions/upload-pages-artifact](https://github.com/actions/upload-pages-artifact) from 3 to 4.
-- [Release notes](https://github.com/actions/upload-pages-artifact/releases)
-- [Commits](https://github.com/actions/upload-pages-artifact/compare/v3...v4)
-
----
-updated-dependencies:
-- dependency-name: actions/upload-pages-artifact
-  dependency-version: '4'
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#beb3cfd</div>
-                                        <div class="message">[pre-commit.ci] pre-commit autoupdate (#12900)
-
-* [pre-commit.ci] pre-commit autoupdate
-
-updates:
-- [github.com/astral-sh/ruff-pre-commit: v0.12.8 → v0.12.9](https://github.com/astral-sh/ruff-pre-commit/compare/v0.12.8...v0.12.9)
-- [github.com/pre-commit/mirrors-mypy: v1.15.0 → v1.17.1](https://github.com/pre-commit/mirrors-mypy/compare/v1.15.0...v1.17.1)
-
-* Apply suggestion from @cclauss
-
----------
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
-Co-authored-by: Christian Clauss &lt;cclauss@me.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f662b63</div>
-                                        <div class="message">Bump actions/checkout from 4 to 5 (#12891)
-
-Bumps [actions/checkout](https://github.com/actions/checkout) from 4 to 5.
-- [Release notes](https://github.com/actions/checkout/releases)
-- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/actions/checkout/compare/v4...v5)
-
----
-updated-dependencies:
-- dependency-name: actions/checkout
-  dependency-version: '5'
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d05f5d2</div>
-                                        <div class="message">[pre-commit.ci] pre-commit autoupdate (#12880)
-
-* [pre-commit.ci] pre-commit autoupdate
-
-updates:
-- [github.com/pre-commit/pre-commit-hooks: v5.0.0 → v6.0.0](https://github.com/pre-commit/pre-commit-hooks/compare/v5.0.0...v6.0.0)
-- [github.com/astral-sh/ruff-pre-commit: v0.12.5 → v0.12.8](https://github.com/astral-sh/ruff-pre-commit/compare/v0.12.5...v0.12.8)
-- [github.com/pre-commit/mirrors-mypy: v1.15.0 → v1.17.1](https://github.com/pre-commit/mirrors-mypy/compare/v1.15.0...v1.17.1)
-
-* Apply suggestion from @cclauss
-
----------
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
-Co-authored-by: Christian Clauss &lt;cclauss@me.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a0fee4</div>
-                                        <div class="message">[pre-commit.ci] pre-commit autoupdate (#12864)
-
-* [pre-commit.ci] pre-commit autoupdate
-
-updates:
-- [github.com/astral-sh/ruff-pre-commit: v0.12.4 → v0.12.5](https://github.com/astral-sh/ruff-pre-commit/compare/v0.12.4...v0.12.5)
-- [github.com/pre-commit/mirrors-mypy: v1.15.0 → v1.17.0](https://github.com/pre-commit/mirrors-mypy/compare/v1.15.0...v1.17.0)
-
-* Apply suggestion from @cclauss
-
-* --ignore=web_programming/current_stock_price.py
-
----------
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
-Co-authored-by: Christian Clauss &lt;cclauss@me.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e1a104</div>
-                                        <div class="message">[pre-commit.ci] pre-commit autoupdate (#12846)
-
-* [pre-commit.ci] pre-commit autoupdate
-
-updates:
-- [github.com/astral-sh/ruff-pre-commit: v0.12.3 → v0.12.4](https://github.com/astral-sh/ruff-pre-commit/compare/v0.12.3...v0.12.4)
-- [github.com/pre-commit/mirrors-mypy: v1.15.0 → v1.17.0](https://github.com/pre-commit/mirrors-mypy/compare/v1.15.0...v1.17.0)
-
-* Apply suggestion from @cclauss
-
----------
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
-Co-authored-by: Christian Clauss &lt;cclauss@me.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1a9486</div>
-                                        <div class="message">[pre-commit.ci] pre-commit autoupdate (#12781)
-
-* [pre-commit.ci] pre-commit autoupdate
-
-updates:
-- [github.com/astral-sh/ruff-pre-commit: v0.11.11 → v0.12.2](https://github.com/astral-sh/ruff-pre-commit/compare/v0.11.11...v0.12.2)
-- [github.com/pre-commit/mirrors-mypy: v1.15.0 → v1.16.1](https://github.com/pre-commit/mirrors-mypy/compare/v1.15.0...v1.16.1)
-
-* Update .pre-commit-config.yaml
-
----------
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
-Co-authored-by: Christian Clauss &lt;cclauss@me.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a4a6a5</div>
-                                        <div class="message">Update .pre-commit-config.yaml to reflect current linting and formatt… (#12841)
-
-* Update .pre-commit-config.yaml to reflect current linting and formatting setup
-
-- Replaced outdated references to `black` with the actual tools used in the repo: `ruff` and `ruff-format`.
-- Ensured all configured hooks are up to date and relevant to Python development.
-- This aligns the linting and formatting setup with the project's actual pre-commit pipeline.
-- Improves consistency for contributors by preventing confusion between formatting tools.
-
-* [pre-commit.ci] auto fixes from pre-commit.com hooks
-
-for more information, see https://pre-commit.ci
-
-* We use httpx, not requests
-
-* response = httpx.get(request_url, timeout=10).raise_for_status()
-
----------
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
-Co-authored-by: Christian Clauss &lt;cclauss@me.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed7c9b5</div>
-                                        <div class="message">Fix devcontainer build failure (#12837)
-
-* add post-installation script
-
-* set zsh as default terminal and make post-install execution on postcreate
-
-* rename file
-
-* rename script
-
-* Create devcontainers_ci.yml
-
-* Update devcontainer.json
-
-* Update devcontainers_ci.yml
-
-Never push image built here. It's for build testing purpose only.
-
-* postCreateCommand update to reflect that the shell script has been renamed.
-
-* update devcontainer readme file
-
-* trigger workflow only on devcontainer/** changes
-
-* prettier refactor</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c05335</div>
-                                        <div class="message">hill_cipher.py: Use `int()` to gracefully deal with float input (#12833)
-
-* https://github.com/TheAlgorithms/Python/pull/12821#discussion_r2186998710</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd3c3c3</div>
-                                        <div class="message">Various ruff fixes (#12821)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7665ba5</div>
-                                        <div class="message">Add unit tests for factorial.py (#12815)
-
-* Add unit tests for factorial.py
-
-* [pre-commit.ci] auto fixes from pre-commit.com hooks
-
-for more information, see https://pre-commit.ci
-
-* uvx --python=3.12 unittest2pytest --write test_factorial.py
-
-* Update error message in current_stock_price.py
-
----------
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
-Co-authored-by: Christian Clauss &lt;cclauss@me.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3d4b9e</div>
-                                        <div class="message">Add doctests for the boyer_moore_search algorithm. (#12769)
-
-* Add doctests for the boyer_moore_search algorithm.
-
-* Update boyer_moore_search.py
-
-* [pre-commit.ci] auto fixes from pre-commit.com hooks
-
-for more information, see https://pre-commit.ci
-
-* Update boyer_moore_search.py
-
-* Update boyer_moore_search.py
-
----------
-
-Co-authored-by: Maxim Smolskiy &lt;mithridatus@mail.ru&gt;
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b077c0</div>
-                                        <div class="message">feat: create straight_line_depreciation (#12377)
-
-Co-authored-by: Jeonghyun Min &lt;20122791@tafe.wa.edu.au&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0d7f0b</div>
-                                        <div class="message">maths/radix2_fft.py: Fix calculation for Python 3.14 (#12772)
-
-* maths/radix2_fft.py: Fix calculation for Python 3.14
-
-As suggested at:
-* https://github.com/TheAlgorithms/Python/issues/12729#issuecomment-2878608477
-* https://github.com/TheAlgorithms/Python/pull/12710#discussion_r2080117333
-
-@MaximSmolskiy @KirilBangachev @skirpichev Careful review, please.  I am just implementing the suggestion, but I do not have any expertise in this area.
-
-* [pre-commit.ci] auto fixes from pre-commit.com hooks
-
-for more information, see https://pre-commit.ci
-
-* Change test results
-
-* GitHub Actions: Rename job from build to directory_writer
-
-It is confusing to have two jobs named `build`.
-
----------
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e26c388</div>
-                                        <div class="message">[pre-commit.ci] pre-commit autoupdate (#12760)
-
-* [pre-commit.ci] pre-commit autoupdate
-
-updates:
-- [github.com/astral-sh/ruff-pre-commit: v0.11.9 → v0.11.11](https://github.com/astral-sh/ruff-pre-commit/compare/v0.11.9...v0.11.11)
-- [github.com/tox-dev/pyproject-fmt: v2.5.1 → v2.6.0](https://github.com/tox-dev/pyproject-fmt/compare/v2.5.1...v2.6.0)
-
-* updating DIRECTORY.md
-
----------
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;
-Co-authored-by: pre-commit-ci[bot] &lt;pre-commit-ci[bot]@users.noreply.github.com&gt;</div>
+                                        Created new
+                      tag
+                                        <span class="code">v1.0.2</span>
+                                        in
+                                        <span class="repo">HydroRoll-Team/OneRoll</span>
                                     </div>
                                 </div>
                             </section>
@@ -2108,14 +1467,14 @@ Co-authored-by: pre-commit-ci[bot] &lt;pre-commit-ci[bot]@users.noreply.github.c
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">HydroRoll-Team/Repo-Sync</span>
+                                        <span class="repo">HydroRoll-Team/OneRoll</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1f919a4</div>
-                                        <div class="message">Change cron schedule to run monthly</div>
+                                        <div class="sha">#d7cf805</div>
+                                        <div class="message">chore: update version to 1.0.2 and enhance documentation</div>
                                     </div>
                                 </div>
                             </section>
@@ -2127,25 +1486,127 @@ Co-authored-by: pre-commit-ci[bot] &lt;pre-commit-ci[bot]@users.noreply.github.c
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">HydroRoll-Team/ergo</span>
+                                        Pushed 161 commits in
+                                        <span class="repo">HydroRoll-Team/deadlines</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">gh-pages</span></div>
                                     <div class="commit">
-                                        <div class="sha">#92f0698</div>
-                                        <div class="message">Merge pull request #2290 from slingamn/goupgrade
+                                        <div class="sha">#0c9f536</div>
+                                        <div class="message">Fixed AIA 2024 title</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41315a0</div>
+                                        <div class="message">Added KR 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87c8793</div>
+                                        <div class="message">Added AIA 2024 Symposium</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41c2225</div>
+                                        <div class="message">Update conferences.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8668ae5</div>
+                                        <div class="message">Merge pull request #622 from mononitogoswami/gh-pages
 
-upgrade to go 1.25</div>
+Update conferences.yml with symposium details</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8913bd7</div>
-                                        <div class="message">upgrade to go 1.25</div>
+                                        <div class="sha">#636da7b</div>
+                                        <div class="message">Merge branch 'gh-pages' into gh-pages</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#064291e</div>
-                                        <div class="message">add an explicit note covering #2289</div>
+                                        <div class="sha">#bbd5c6b</div>
+                                        <div class="message">Merge pull request #621 from skywalker023/gh-pages
+
+Update COLM deadline</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50ab96a</div>
+                                        <div class="message">Merge pull request #620 from jungtaekkim/gh-pages
+
+Update IJCAI 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67faeba</div>
+                                        <div class="message">Merge pull request #619 from bertjiazheng/gh-pages
+
+add SIGGRAPH 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6463f16</div>
+                                        <div class="message">Update conferences.yml with symposium details</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9f1aa6</div>
+                                        <div class="message">Update COLM deadline</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e614921</div>
+                                        <div class="message">Update IJCAI 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa1e877</div>
+                                        <div class="message">add SIGGRAPH 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c21ec8f</div>
+                                        <div class="message">Merge pull request #618 from cwallraven/gh-pages
+
+Update conferences.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab00ca4</div>
+                                        <div class="message">Merge pull request #617 from pulkitverma25/gh-pages
+
+Added UAI 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#104669b</div>
+                                        <div class="message">Merge branch 'gh-pages' into gh-pages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16802fc</div>
+                                        <div class="message">Merge pull request #616 from qfournier/patch-3
+
+Add CoLLAs 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71f4e3b</div>
+                                        <div class="message">Update conferences.yml
+
+deadline extension ICPRAI2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ba62c2</div>
+                                        <div class="message">Added UAI 2024</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec8d8c6</div>
+                                        <div class="message">Add CoLLAs 2024 to conferences.yml</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HsiangNianian/HsiangNianian</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7a991ce</div>
+                                        <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
                             </section>
@@ -2325,7 +1786,7 @@ upgrade to go 1.25</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Sept 2025, 05:20:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Sept 2025, 06:21:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
