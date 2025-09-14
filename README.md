@@ -154,13 +154,13 @@ Mac                      1 hr 2 mins         ███████████�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
+[iamai v0.2.2-alpha.1-dev.2](https://github.com/retrofor/iamai/releases/tag/v0.2.2-alpha.1-dev.2) - 2025-09-14
+
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-09-12
 
 [online-judge algohub-server v0.1.18](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.18) - 2025-03-26
 
 [GetPlayerCard v0.4.4](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.4.4) - 2025-02-18
-
-[iamai nightly](https://github.com/retrofor/iamai/releases/tag/nightly) - 2025-02-01
 
 [testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
 
