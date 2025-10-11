@@ -1176,7 +1176,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iDvel/rime-ice</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rime 配置：雾凇拼音 | 长期维护的简体词库</div>
@@ -1229,7 +1229,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meshery/meshery</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Meshery, the cloud native manager</div>
@@ -1282,7 +1282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sempitern0/indie-blueprint-docs</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Indie Blueprint is a comprehensive Godot project template designed to streamline your development process. It includes essential features, optimized settings, and best practices to help you create amazing indie game</div>
@@ -1329,7 +1329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mohsenph69/Godot-MTerrain-plugin</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GDExtension plugin which give godot the ability to produce highly optimized Terrain for Open world games</div>
@@ -1649,7 +1649,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Oct 2025, 08:50:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Oct 2025, 09:56:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
