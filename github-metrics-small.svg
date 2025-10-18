@@ -1185,7 +1185,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NtskwK/dns-benchmarkGo</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">dns-benchmarkGo 是一个批量 DNS 服务器基准测试工具，用于在本地环境中测试 DNS 服务器的可访问性与性能并生成可视化图表。dnspy is a bulk DNS server benchmarking tool used to measure the local accessibility and performance of DNS servers worldwide, then generates visual charts.</div>
@@ -1659,7 +1659,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2025, 08:52:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Oct 2025, 09:57:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
