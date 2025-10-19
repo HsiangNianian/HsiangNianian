@@ -1186,7 +1186,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mli/autocut</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">用文本编辑器剪视频</div>
@@ -1239,7 +1239,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HsiangNianian/SRT-Gen</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一个基于 funASR 的干声音频字幕文件生成器, 由多个小模型耦合而成, 本地即可推理 | A funASR-based dry audio subtitle generator, built by coupling multiple small models and capable of local inference</div>
@@ -1292,7 +1292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PantsuDango/Dango-Translator</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器</div>
@@ -1345,7 +1345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>a15355447898a/mt-photos-ai-rk</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">mt photos AI相关的独立服务 , 移植rk</div>
@@ -1665,7 +1665,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Oct 2025, 03:17:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Oct 2025, 04:22:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
