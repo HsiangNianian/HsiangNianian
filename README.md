@@ -154,7 +154,7 @@ Mac                      2 mins              ░░░░░░░░░░░�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-10-23
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-10-24
 
 [iamai v0.2.2-alpha.1-dev.2](https://github.com/retrofor/iamai/releases/tag/v0.2.2-alpha.1-dev.2) - 2025-09-14
 
