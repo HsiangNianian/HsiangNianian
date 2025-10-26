@@ -1203,7 +1203,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ExistentialAudio/BlackHole</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.</div>
@@ -1666,7 +1666,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Oct 2025, 16:18:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Oct 2025, 16:24:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
