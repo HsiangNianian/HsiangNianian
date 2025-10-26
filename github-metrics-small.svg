@@ -1195,7 +1195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ExistentialAudio/BlackHole</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.</div>
@@ -1354,7 +1354,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nusr/hacker-laws-zh</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)</div>
@@ -1658,7 +1658,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2025, 06:19:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2025, 07:20:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
