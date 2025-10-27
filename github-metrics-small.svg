@@ -1198,7 +1198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>henryjeff/portfolio-website</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1252,7 +1252,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pacifica/python-jsonpath2</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A JSONPath implementation for Python (but better than jsonpath).</div>
@@ -1305,7 +1305,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alexpovel/srgn</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A grep-like tool which understands source code syntax and allows for manipulation in addition to search</div>
@@ -1358,7 +1358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cxOrz/dotfiles-hyprland</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hyprland dotfiles on Arch Linux.</div>
@@ -1662,7 +1662,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2025, 13:23:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2025, 14:28:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
