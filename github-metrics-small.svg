@@ -1200,7 +1200,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thunlp/THULAC-Python</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Efficient Lexical Analyzer for Chinese</div>
@@ -1306,7 +1306,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cli/gh-webhook</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1360,7 +1360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YaoFANGUK/video-subtitle-generator</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">视频音频生成字幕，生成srt文件。无需申请第三方API，本地实现音频转文本。基于Transformer的视频字幕生成框架。A GUI tool for generating subtitle from videos and generating srt files.</div>
@@ -1680,7 +1680,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2025, 06:27:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2025, 07:21:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
