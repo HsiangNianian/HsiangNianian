@@ -154,7 +154,7 @@ Mac                      23 mins             █░░░░░░░░░░�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[iamai v0.2.2-alpha.1-dev.3](https://github.com/retrofor/iamai/releases/tag/v0.2.2-alpha.1-dev.3) - 2025-11-02
+[iamai v0.2.2-beta.1](https://github.com/retrofor/iamai/releases/tag/v0.2.2-beta.1) - 2025-11-02
 
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-10-31
 

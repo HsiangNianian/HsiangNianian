@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->196<!-- releases_count ends --> releases across <!-- project_count starts -->24<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->197<!-- releases_count ends --> releases across <!-- project_count starts -->24<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[iamai](https://github.com/retrofor/iamai)**: [v0.2.2-alpha.1-dev.3](https://github.com/retrofor/iamai/releases/tag/v0.2.2-alpha.1-dev.3) - ([21 releases total](https://github.com/retrofor/iamai/releases))  - 2025-11-02
+* **[iamai](https://github.com/retrofor/iamai)**: [v0.2.2-beta.1](https://github.com/retrofor/iamai/releases/tag/v0.2.2-beta.1) - ([22 releases total](https://github.com/retrofor/iamai/releases))  - 2025-11-02
 <br />A rule-driven comprehensive AI toolkit emphasizing simultaneous support for multimodal machine learning and the ability to construct cross-platform robots using logic.（规则驱动式的综合性人工智能工具库，强调同时支持多模态机器学习和利用逻辑构建跨平台机器人的能力）
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2025-10-31
 <br />Unofficial swi-prolog docs for Chinese
