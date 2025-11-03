@@ -154,9 +154,9 @@ Mac                      46 mins             ██░░░░░░░░░�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[iamai v0.2.2-beta.1](https://github.com/retrofor/iamai/releases/tag/v0.2.2-beta.1) - 2025-11-02
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-11-03
 
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-10-31
+[iamai v0.2.2-beta.1](https://github.com/retrofor/iamai/releases/tag/v0.2.2-beta.1) - 2025-11-02
 
 [online-judge algohub-server v0.1.18](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.18) - 2025-03-26
 
