@@ -180,7 +180,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    31.8k added, 9.08k removed
+                                    28.1k added, 8.43k removed
                                 </div>
                             </section>
                             <section>
@@ -1215,7 +1215,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HydroRoll-Team/conventional_role_play</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">结构化任何文本(大到指令解析, 小到 RolePlay 文案与跑团日志), 并提供规则匹配, 获取任何数据</div>
@@ -1268,7 +1268,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HydroRoll-Team/HydroRoll</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">跨平台、多任务、高度自定义的骰系开发框架。</div>
@@ -1321,7 +1321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RapidAI/RapidOCR</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.</div>
@@ -1374,7 +1374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ddlBoJack/emotion2vec</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[ACL 2024] Official PyTorch code for extracting features and training downstream models with emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation</div>
@@ -1629,27 +1629,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">funasr-api</span>
-                                <div class="bar" style="width: 43.16%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">54%</span>
+                                <div class="bar" style="width: 42.392%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">53%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">semifold</span>
-                                <div class="bar" style="width: 17.84%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 17.671999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 8.36%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">conventional_role_play</span>
-                                <div class="bar" style="width: 5.263999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 6.368%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">whisper-learn</span>
-                                <div class="bar" style="width: 3.392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.3200000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
@@ -1659,27 +1659,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 47.751999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 48.104000000000006%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">60%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Rust</span>
-                                <div class="bar" style="width: 13.296000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">17%</span>
+                                <div class="bar" style="width: 13.008000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 5.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.824%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TOML</span>
-                                <div class="bar" style="width: 4.736000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.632%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">kdl</span>
-                                <div class="bar" style="width: 3.304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.2319999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
@@ -1688,7 +1688,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2025, 01:18:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Nov 2025, 02:22:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
