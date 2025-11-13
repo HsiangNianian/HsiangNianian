@@ -1227,7 +1227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sinomor/delta-shell</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A shell for for niri and hyprland</div>
@@ -1280,7 +1280,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>faervan/bar-rs</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple status bar for hyprland, niri and wayfire, written in rust using iced-rs</div>
@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saltnpepper97/stasis</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight, feature rich Wayland idle manager written in Rust</div>
@@ -1386,7 +1386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kiki-Bouba-Team/niri-switch</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Provides task switcher for Niri compositor.</div>
@@ -1706,7 +1706,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2025, 01:20:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2025, 02:22:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
