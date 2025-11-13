@@ -1219,7 +1219,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sst/opentui</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenTUI is a library for building terminal user interfaces (TUIs)</div>
@@ -1272,7 +1272,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ionic-team/capacitor</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️</div>
@@ -1325,7 +1325,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Schweber/ndrop</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Emulate 'tdrop' in niri (run, show and hide programs via keybind - similar to a dropdown terminal)</div>
@@ -1698,7 +1698,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2025, 13:23:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2025, 14:30:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
