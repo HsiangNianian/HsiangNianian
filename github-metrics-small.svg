@@ -1220,7 +1220,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kennylevinsen/greetd</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[mirror] A generic greeter daemon (https://sr.ht/~kennylevinsen/greetd)</div>
@@ -1326,7 +1326,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sinomor/delta-shell</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A shell for for niri and hyprland</div>
@@ -1379,7 +1379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>faervan/bar-rs</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple status bar for hyprland, niri and wayfire, written in rust using iced-rs</div>
@@ -1699,7 +1699,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2025, 11:50:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2025, 12:28:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
