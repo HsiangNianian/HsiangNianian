@@ -1233,7 +1233,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webui-dev/webui</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.</div>
@@ -1286,7 +1286,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>donnie4w/tklog</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">lightweight and efficient rust structured log library with support for log levels, file segmentation, compressed archiving</div>
@@ -1339,7 +1339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>timminator/VideOCR</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extract hardcoded subtitles from videos via a simple GUI using machine learning</div>
@@ -1712,7 +1712,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2025, 02:22:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2025, 03:10:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
