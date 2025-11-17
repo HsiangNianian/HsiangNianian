@@ -116,7 +116,7 @@ Linux                    27 hrs 4 mins       ███████████�
       <i>HydroRoll</i>
       <a href="https://docs.hydroroll.team">[docs]</a>
       <br />
-      <a href="https://githun.com/HydroRoll-Team"><img align="center" width="60" src="https://files.hydroroll.team/hotlink-ok/files/image/logo.png"></a>
+      <a href="https://github.com/HydroRoll-Team"><img align="center" width="60" src="https://files.hydroroll.team/hotlink-ok/files/image/logo.png"></a>
     </td>
   </tr>
   <tr>
