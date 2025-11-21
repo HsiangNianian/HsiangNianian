@@ -154,7 +154,7 @@ Linux                    22 hrs 22 mins      ███████████�
   
 ### 🏷Recent releases
 <!-- recent_releases starts -->
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-11-20
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2025-11-21
 
 [iamai v0.2.2](https://github.com/retrofor/iamai/releases/tag/v0.2.2) - 2025-11-04
 
