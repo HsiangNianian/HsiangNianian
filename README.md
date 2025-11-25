@@ -11,7 +11,6 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 
 **GPG Keys**  
 <i@jyunko.cn>([5DE2131FAD104AEBA3D36BDF519BB8194D892FD0](https://keys.openpgp.org/search?q=5DE2131FAD104AEBA3D36BDF519BB8194D892FD0))  
-<admin@asynth.in>([9814C1FF82E740C790AD76C8EFBDC9B298AFED05](https://keys.openpgp.org/vks/v1/by-fingerprint/9814C1FF82E740C790AD76C8EFBDC9B298AFED05))
 
 </td>
 </td><td valign="top" width="50%">
