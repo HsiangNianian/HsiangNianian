@@ -1235,7 +1235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MHSanaei/3x-ui</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Xray panel supporting multi-protocol multi-user expire day &amp; traffic &amp; IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP)</div>
@@ -1288,7 +1288,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>amantus-ai/vibetunnel</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Turn any browser into your terminal &amp; command your agents on the go.</div>
@@ -1341,7 +1341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sugyan/claude-code-webui</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web-based interface for Claude CLI with streaming chat responses</div>
@@ -1394,7 +1394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>siteboon/claudecodeui</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely</div>
@@ -1714,7 +1714,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2025, 18:26:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2025, 19:23:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
