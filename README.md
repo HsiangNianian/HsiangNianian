@@ -124,7 +124,7 @@ Linux                    34 hrs 5 mins       ███████████�
       <br />
       <a href="https://anthology.aicmu.ac.cn">[anthology]</a>
       <br />
-      <a href="https://github.com/AICMUniversity"><img align="center" width="60" src="https://mirror.ghproxy.com/github.com/AICMUniversity/.github/blob/main/profile/logo.svg"></a>
+      <a href="https://github.com/AICMUniversity"><img align="center" width="60" src="https://github.com/AICMUniversity/.github/blob/main/profile/logo.svg"></a>
     </td>
   </tr>
   <tr>
