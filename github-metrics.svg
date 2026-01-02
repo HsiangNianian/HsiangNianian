@@ -822,7 +822,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samcaicn/gewechaty</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GeweBot是基于Gewechat项目的二次封装，提供了更方便的使用方式。它参考wechaty的api实现，以满足更快速开发的需求。</div>
@@ -875,7 +875,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hanfangyuan4396/gewechat-python</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">gewechat python client</div>
@@ -928,7 +928,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Devo919/Gewechat</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">微信机器人框架，个人微信二次开发，最简单易用的免费二开框架,微信ipad登录（非HOOK破解桌面端）</div>
@@ -981,7 +981,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wechaty/python-wechaty</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python Wechaty is a Conversational RPA SDK for Chatbot Makers written in Python</div>
@@ -1291,7 +1291,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jan 2026, 15:22:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jan 2026, 16:21:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
