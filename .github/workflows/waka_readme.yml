@@ -45,7 +45,7 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LINES_OF_CODE: "Ture"
           SHOW_LOC_CHART: "False"
-          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_TOTAL_CODE_TIME: "False"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "True"
           SHOW_TIMEZONE: "False"
