@@ -35,10 +35,10 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 </tr></table>
 
 <table style="border-color: transparent;" cellspacing=0 ><td valign="top" width="80%">
-  
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C495%20hrs%2054%20mins-blue?style=flat)
 
+[![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
+
+<!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
 ```text
