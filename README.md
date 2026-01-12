@@ -153,9 +153,9 @@ Linux                    6 hrs 27 mins       ███████████�
   
 ### Recent releases
 <!-- recent_releases starts -->
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-01-12
+[hacktyper 🚀 v0.2.3](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.3) - 2026-01-12
 
-[hacktyper v0.1.1](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.1.1) - 2026-01-12
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-01-12
 
 [iamai v0.2.2](https://github.com/retrofor/iamai/releases/tag/v0.2.2) - 2025-11-04
 
