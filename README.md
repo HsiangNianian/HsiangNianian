@@ -153,7 +153,9 @@ Linux                    6 hrs 27 mins       ███████████�
   
 ### Recent releases
 <!-- recent_releases starts -->
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-01-09
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-01-12
+
+[hacktyper v0.1.1](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.1.1) - 2026-01-12
 
 [iamai v0.2.2](https://github.com/retrofor/iamai/releases/tag/v0.2.2) - 2025-11-04
 
@@ -170,8 +172,6 @@ Linux                    6 hrs 27 mins       ███████████�
 [BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/v0.1.0) - 2023-04-21
 
 [Flexirobo v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - 2023-04-11
-
-[AO3Search v0406.post2](https://github.com/HsiangNianian/AO3Search/releases/tag/0406.post2) - 2023-04-06
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
