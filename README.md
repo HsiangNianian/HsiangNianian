@@ -1,11 +1,11 @@
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="70%">
   
-**🤖Artificial Intelligence** 
+**Artificial Intelligence** 
 
 There’s going to be something more academic and something that fascinates me. 
 I have always had an absurd idea-composing music in a programming language and programming in a music language([~~Maybe we can really try for it~~](https://github.com/AICMUniversity/aria)).
 
-**🎹Music Theories**
+**Music Theories**
 
 I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understanding of the expressiveness and emotion of music. I also have a peculiar idea, which is to compose music in a programming language and program in a music language. I think this can create a new connection between music and programming, and also allow music and programming enthusiasts to learn and communicate with each other. 
 
@@ -86,7 +86,7 @@ Linux                    6 hrs 27 mins       ███████████�
 </td>
 <td valign="top" width="80%">
   
-**⏱️Currently**
+**Currently**
 
 > Projects & Researchs
 
@@ -151,7 +151,7 @@ Linux                    6 hrs 27 mins       ███████████�
 
 <table><tr><td valign="top" width="33%">
   
-### 🏷Recent releases
+### Recent releases
 <!-- recent_releases starts -->
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-01-09
 
@@ -177,7 +177,7 @@ Linux                    6 hrs 27 mins       ███████████�
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
 </td><td valign="top" width="33%">
 
-### 📰Academic site
+### Academic site
 <!-- blog starts -->
 <details><summary>2025-10-08 <a href="https://academic.jyunko.cn/2025/10/08/Maillard-Reaction">Maillard Reaction</a></summary><p>The Maillard reaction, a complex series of chemical reactions between amino acids and reducing sugars, is responsible for the browning and flavor development in cooked foods. This reaction typically occurs at elevated temperatures, such as during frying, baking, or roasting.</p></details>
 
