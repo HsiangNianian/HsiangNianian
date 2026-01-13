@@ -153,6 +153,8 @@ Linux                    9 hrs 27 mins       ███████████�
   
 ### Recent releases
 <!-- recent_releases starts -->
+[DropOut v0.1.3](https://github.com/HsiangNianian/DropOut/releases/tag/v0.1.3) - 2026-01-13
+
 [hacktyper 🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) - 2026-01-13
 
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-01-12
@@ -170,8 +172,6 @@ Linux                    9 hrs 27 mins       ███████████�
 [flarum-post-formatter v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - 2023-05-19
 
 [BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/v0.1.0) - 2023-04-21
-
-[Flexirobo v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - 2023-04-11
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->205<!-- releases_count ends --> releases across <!-- project_count starts -->25<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->207<!-- releases_count ends --> releases across <!-- project_count starts -->26<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[DropOut](https://github.com/HsiangNianian/DropOut)**: [v0.1.3](https://github.com/HsiangNianian/DropOut/releases/tag/v0.1.3) - ([2 releases total](https://github.com/HsiangNianian/DropOut/releases))  - 2026-01-13
+<br />None
 * **[hacktyper](https://github.com/HsiangNianian/hacktyper)**: [🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) - ([7 releases total](https://github.com/HsiangNianian/hacktyper/releases))  - 2026-01-13
 <br />一个用于pran(装逼)的复杂命令行工具 | A sophisticated CLI tool for pranking or acting like a Hollywood hacker | talk is cheap, show me your code :D
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-01-12
