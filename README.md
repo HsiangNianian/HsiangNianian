@@ -153,9 +153,9 @@ Linux                    9 hrs 27 mins       ███████████�
   
 ### Recent releases
 <!-- recent_releases starts -->
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-01-13
+[DropOut v0.1.11](https://github.com/HsiangNianian/DropOut/releases/tag/v0.1.11) - 2026-01-13
 
-[DropOut v0.1.8](https://github.com/HsiangNianian/DropOut/releases/tag/v0.1.8) - 2026-01-13
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-01-13
 
 [hacktyper 🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) - 2026-01-13
 
