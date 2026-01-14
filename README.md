@@ -153,7 +153,7 @@ Linux                    13 hrs 59 mins      ███████████�
   
 ### Recent releases
 <!-- recent_releases starts -->
-[DropOut v0.1.16](https://github.com/HsiangNianian/DropOut/releases/tag/untagged-b33a749dec65a798726e) - Near Future
+[DropOut v0.1.17](https://github.com/HsiangNianian/DropOut/releases/tag/v0.1.17) - 2026-01-14
 
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-01-14
 
