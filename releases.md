@@ -3,10 +3,10 @@
 Listing <!-- releases_count starts -->226<!-- releases_count ends --> releases across <!-- project_count starts -->26<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-01-16
+<br />Unofficial swi-prolog docs for Chinese
 * **[DropOut](https://github.com/HsiangNianian/DropOut)**: [v0.1.25](https://github.com/HsiangNianian/DropOut/releases/tag/v0.1.25) - ([21 releases total](https://github.com/HsiangNianian/DropOut/releases))  - 2026-01-16
 <br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Pure Rust.
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-01-15
-<br />Unofficial swi-prolog docs for Chinese
 * **[hacktyper](https://github.com/HsiangNianian/hacktyper)**: [🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) - ([7 releases total](https://github.com/HsiangNianian/hacktyper/releases))  - 2026-01-13
 <br />一个用于pran的复杂命令行工具 | A sophisticated CLI tool for pranking or acting like a Hollywood hacker | talk is cheap, show me your code :D
 * **[iamai](https://github.com/retrofor/iamai)**: [v0.2.2](https://github.com/retrofor/iamai/releases/tag/v0.2.2) - ([23 releases total](https://github.com/retrofor/iamai/releases))  - 2025-11-04
