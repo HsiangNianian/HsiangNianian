@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->224<!-- releases_count ends --> releases across <!-- project_count starts -->26<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->225<!-- releases_count ends --> releases across <!-- project_count starts -->26<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[DropOut](https://github.com/HsiangNianian/DropOut)**: [v0.1.23](https://github.com/HsiangNianian/DropOut/releases/tag/v0.1.23) - ([19 releases total](https://github.com/HsiangNianian/DropOut/releases))  - 2026-01-15
+* **[DropOut](https://github.com/HsiangNianian/DropOut)**: [v0.1.24](https://github.com/HsiangNianian/DropOut/releases/tag/untagged-fc8f02bbd6fc93e9abba) - ([20 releases total](https://github.com/HsiangNianian/DropOut/releases))  - Near Future
 <br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Pure Rust.
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-01-15
 <br />Unofficial swi-prolog docs for Chinese
