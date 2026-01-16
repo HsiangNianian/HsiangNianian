@@ -4,7 +4,7 @@ Listing <!-- releases_count starts -->224<!-- releases_count ends --> releases a
 
 <!-- recent_releases starts -->
 * **[DropOut](https://github.com/HsiangNianian/DropOut)**: [v0.1.23](https://github.com/HsiangNianian/DropOut/releases/tag/v0.1.23) - ([19 releases total](https://github.com/HsiangNianian/DropOut/releases))  - 2026-01-15
-<br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher for Minecraft. It is written in Pure Rust.
+<br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Pure Rust.
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-01-15
 <br />Unofficial swi-prolog docs for Chinese
 * **[hacktyper](https://github.com/HsiangNianian/hacktyper)**: [🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) - ([7 releases total](https://github.com/HsiangNianian/hacktyper/releases))  - 2026-01-13
