@@ -855,7 +855,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fuma-nama/fumadocs</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The beautiful &amp; flexible React.js docs framework.</div>
@@ -908,7 +908,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sadmann7/diceui</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.</div>
@@ -961,7 +961,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HydroRoll-Team/DropOut</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Pure Rust.</div>
@@ -1335,7 +1335,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2026, 17:19:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jan 2026, 18:18:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
