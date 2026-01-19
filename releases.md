@@ -6,7 +6,7 @@ Listing <!-- releases_count starts -->229<!-- releases_count ends --> releases a
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-01-19
 <br />Unofficial swi-prolog docs for Chinese
 * **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [dropout v0.2.0-alpha.1](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-alpha.1) - ([24 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-01-18
-<br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Rust. Aims not be a simple Launcher but a Reproducible Minecraft Workspace Manager.
+<br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Rust. Aims to be a Reproducible Minecraft Workspace Manager.
 * **[hacktyper](https://github.com/HsiangNianian/hacktyper)**: [🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) - ([7 releases total](https://github.com/HsiangNianian/hacktyper/releases))  - 2026-01-13
 <br />一个用于pran的复杂命令行工具 | A sophisticated CLI tool for pranking or acting like a Hollywood hacker | talk is cheap, show me your code :D
 * **[iamai](https://github.com/retrofor/iamai)**: [v0.2.2](https://github.com/retrofor/iamai/releases/tag/v0.2.2) - ([23 releases total](https://github.com/retrofor/iamai/releases))  - 2025-11-04
