@@ -152,9 +152,9 @@ Linux                    36 hrs 16 mins      ███████████�
   
 ### Recent releases
 <!-- recent_releases starts -->
-[DropOut dropout v0.2.0-alpha.1](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-alpha.1) - 2026-01-18
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-01-19
 
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-01-16
+[DropOut dropout v0.2.0-alpha.1](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-alpha.1) - 2026-01-18
 
 [hacktyper 🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) - 2026-01-13
 
