@@ -72,7 +72,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6418 Commits
+                            6420 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -381,35 +381,35 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 123mb of code in 24396 edited files across 3582 commits</small>
+                <small>estimation from 123mb of code in 24408 edited files across 3584 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.7902151689334" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="259.7902151689334" y="0" width="130.68743621445947" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="390.4776513833928" y="0" width="118.79733159756303" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="509.2749829809558" y="0" width="79.60188409141264" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="588.8768670723684" y="0" width="79.47958116505545" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="668.3564482374238" y="0" width="67.34075168497147" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="735.6971999223954" y="0" width="53.603957372603986" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="789.3011572949993" y="0" width="34.671612234425425" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="823.9727695294247" y="0" width="33.91455923258748" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="857.8873287620122" y="0" width="24.312512125710178" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="882.1998408877223" y="0" width="10.023559178631658" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="892.223400066354" y="0" width="8.84319863893567" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="901.0665987052897" y="0" width="7.04266298389476" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="908.1092616891845" y="0" width="4.863812059241197" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="912.9730737484256" y="0" width="2.084324915076979" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="915.0573986635027" y="0" width="2.0375371807278984" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="917.0949358442305" y="0" width="0.9985960006107341" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="918.0935318448412" y="0" width="0.7134337370836075" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="918.8069655819248" y="0" width="0.37092217389158094" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="919.1778877558164" y="0" width="0.24819678492175834" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="919.4260845407381" y="0" width="0.24112053616015927" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="919.6672050768983" y="0" width="0.17025243289101039" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="919.8374575097894" y="0" width="0.16254249021046213" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.1726041127914" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="259.1726041127914" y="0" width="130.37674704761608" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="389.5493511604075" y="0" width="118.51490931546473" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="508.06426047587223" y="0" width="79.41264292360107" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="587.4769033994733" y="0" width="79.29063075353532" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="666.7675341530086" y="0" width="69.36781717140113" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="736.1353513244097" y="0" width="53.47652225460019" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="789.6118735790099" y="0" width="34.589185838818786" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="824.2010594178287" y="0" width="33.83393261340319" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="858.0349920312318" y="0" width="24.254712888423043" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="882.2897049196548" y="0" width="9.999729716977027" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="892.2894346366319" y="0" width="8.822175301903846" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="901.1116099385357" y="0" width="7.0259201419031685" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="908.1375300804389" y="0" width="4.852249098331255" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="912.9897791787702" y="0" width="2.0793697549632437" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="915.0691489337335" y="0" width="2.032693251216159" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="917.1018421849496" y="0" width="0.9962219930670114" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="918.0980641780166" y="0" width="0.7117376587168336" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="918.8098018367334" y="0" width="0.3700403637917868" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="919.1798422005253" y="0" width="0.24760673545293252" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="919.4274489359782" y="0" width="0.24054730937831695" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="919.6679962453566" y="0" width="0.1698476840638839" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="919.8378439294204" y="0" width="0.16215607057960132" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -507,8 +507,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>22.9k lines</div>
-                                <div>637 kB</div>
+                                <div>23.5k lines</div>
+                                <div>658 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -872,7 +872,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LSPosed/LSPosed</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LSPosed Framework</div>
@@ -925,7 +925,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>longbridge/gpui-component</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</div>
@@ -978,7 +978,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HydroRoll-Team/DropOut</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Rust. Aims to be a Reproducible Minecraft Workspace Manager.</div>
@@ -1031,7 +1031,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juce-framework/JUCE</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.</div>
@@ -1352,7 +1352,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2026, 16:23:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jan 2026, 17:33:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
