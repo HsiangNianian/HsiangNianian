@@ -884,7 +884,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>imaiwork/IMAI.WORK-AI-Phone</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AI数字员工开源版，AI获客手机项目，基于无障碍模式，RPA，比豆包AI手机更强大。集成AI自动获客、微信机器人、微信群发、朋友圈营销、数字人混剪、AI矩阵自动发布（抖音、小红书、快手、视频号）、截流获客等全流程营销功能。支持视频号搜索、自动加微、智能对话、SOP跟进、人机协同转化，打造完整的AI营销自动化解决方案。</div>
@@ -937,7 +937,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RICwang/docker-wechat</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">在docker里运行wechat，可以通过web或者VNC访问wechat</div>
@@ -990,7 +990,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HydroRoll-Team/DropIn</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DropIn is a CLI tool which can lock minecraft instances(java, mods, configs, etc) as a lock file for DropOut launcher</div>
@@ -1043,7 +1043,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhayujie/bot-on-anything</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A large model-based chatbot builder that can quickly integrate AI models (including ChatGPT, Claude, Gemini) into various software applications (such as Telegram, Gmail, Slack, and websites).</div>
@@ -1364,7 +1364,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jan 2026, 14:41:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jan 2026, 15:40:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
