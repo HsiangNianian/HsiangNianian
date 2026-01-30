@@ -212,7 +212,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    2.65k views in last two weeks
+                                    2.09k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -884,7 +884,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>imaiwork/IMAI.WORK-AI-Phone</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AI数字员工开源版，AI获客手机项目，基于无障碍模式，RPA，比豆包AI手机更强大。集成AI自动获客、微信机器人、微信群发、朋友圈营销、数字人混剪、AI矩阵自动发布（抖音、小红书、快手、视频号）、截流获客等全流程营销功能。支持视频号搜索、自动加微、智能对话、SOP跟进、人机协同转化，打造完整的AI营销自动化解决方案。</div>
@@ -937,7 +937,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RICwang/docker-wechat</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">在docker里运行wechat，可以通过web或者VNC访问wechat</div>
@@ -990,7 +990,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HydroRoll-Team/DropIn</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DropIn is a CLI tool which can lock minecraft instances(java, mods, configs, etc) as a lock file for DropOut launcher</div>
@@ -1043,7 +1043,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhayujie/bot-on-anything</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A large model-based chatbot builder that can quickly integrate AI models (including ChatGPT, Claude, Gemini) into various software applications (such as Telegram, Gmail, Slack, and websites).</div>
@@ -1364,7 +1364,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jan 2026, 13:08:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jan 2026, 14:41:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
