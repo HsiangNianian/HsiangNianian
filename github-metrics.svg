@@ -885,7 +885,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>star-history/star-history</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The missing star history graph of GitHub repos - https://star-history.com</div>
@@ -938,7 +938,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anomalyco/opencode-anthropic-auth</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -992,7 +992,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TeamNewPipe/NewPipe</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A libre lightweight streaming front-end for Android.</div>
@@ -1045,7 +1045,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/playwright-cli</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.</div>
@@ -1360,7 +1360,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Feb 2026, 06:17:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Feb 2026, 07:28:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
