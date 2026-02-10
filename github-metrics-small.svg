@@ -891,7 +891,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Jw-23/pipe-it</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple pipeline library, which can composite function easily.</div>
@@ -944,7 +944,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>numba/llvmlite</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight LLVM python binding for writing JIT compilers</div>
@@ -997,7 +997,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Turbo1123/roubao</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Android Automation Tool Based on Vision-Language Models</div>
@@ -1371,7 +1371,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2026, 16:15:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Feb 2026, 16:55:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
