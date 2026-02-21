@@ -179,6 +179,8 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 
 ### Academic site
 <!-- blog starts -->
+<details><summary>2026-02-21 <a href="https://academic.jyunko.cn/2026/02/21/New-Album-Malkuth">New Album: Malkuth</a></summary><p>Info</p></details>
+
 <details><summary>2025-10-08 <a href="https://academic.jyunko.cn/2025/10/08/Maillard-Reaction">Maillard Reaction</a></summary><p>The Maillard reaction, a complex series of chemical reactions between amino acids and reducing sugars, is responsible for the browning and flavor development in cooked foods. This reaction typically occurs at elevated temperatures, such as during frying, baking, or roasting.</p></details>
 
 <details><summary>2025-02-01 <a href="https://academic.jyunko.cn/2025/02/01/Interval-Algebra">Interval Algebra: When Category Theory Reshapes Musical DNA</a></summary><p>While debugging an AI composition system at dawn, I encountered the 42nd "parallel fifth paradox": when optimizing harmonic consonance, the model persistently generated intervals forbidden by classical theory. The monitoring log revealed: ...</p></details>
@@ -190,8 +192,6 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 <details><summary>2024-01-05 <a href="https://academic.jyunko.cn/2024/01/05/Build-An-Audio-Programming-Language">Build An Audio Programming Language</a></summary><p>aria</p></details>
 
 <details><summary>2023-12-27 <a href="https://academic.jyunko.cn/2023/12/27/Build-A-Script-Language">Build A Script Language</a></summary><p>Poly-paradigm Scripting Interface</p></details>
-
-<details><summary>2023-06-12 <a href="https://academic.jyunko.cn/2023/06/12/Reading-Attention-Is-All-You-Need">Reading “Attention Is All You Need”</a></summary><p>The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder.</p></details>
 <!-- blog ends -->
 
 _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
