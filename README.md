@@ -154,6 +154,8 @@ Linux                    8 hrs 30 mins       ███████████�
   
 ### Recent releases
 <!-- recent_releases starts -->
+[soon v0.1.8](https://github.com/HsiangNianian/soon/releases/tag/v0.1.8) - 2026-02-24
+
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-02-23
 
 [DropOut dropout v0.2.0-alpha.1](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-alpha.1) - 2026-01-18
@@ -171,8 +173,6 @@ Linux                    8 hrs 30 mins       ███████████�
 [unpredictableFate v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - 2023-10-19
 
 [flarum-post-formatter v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - 2023-05-19
-
-[BlackJack v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/v0.1.0) - 2023-04-21
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
