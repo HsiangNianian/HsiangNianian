@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->231<!-- releases_count ends --> releases across <!-- project_count starts -->27<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->232<!-- releases_count ends --> releases across <!-- project_count starts -->27<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[soon](https://github.com/HsiangNianian/soon)**: [v0.1.8](https://github.com/HsiangNianian/soon/releases/tag/v0.1.8) - ([2 releases total](https://github.com/HsiangNianian/soon/releases))  - 2026-02-24
+* **[soon](https://github.com/HsiangNianian/soon)**: [v0.1.9](https://github.com/HsiangNianian/soon/releases/tag/v0.1.9) - ([3 releases total](https://github.com/HsiangNianian/soon/releases))  - 2026-02-24
 <br />🤖 Predict your next shell command based on history — like shell autocomplete, but MORE stupid
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-02-23
 <br />Unofficial swi-prolog docs for Chinese
