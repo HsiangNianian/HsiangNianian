@@ -154,6 +154,8 @@ Linux                    13 hrs 6 mins       ███████████�
   
 ### Recent releases
 <!-- recent_releases starts -->
+[AMonItor v0.1.3](https://github.com/HsiangNianian/AMonItor/releases/tag/v0.1.3) - 2026-02-26
+
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-02-25
 
 [DropOut dropout v0.2.0-alpha.3](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-alpha.3) - 2026-02-25
@@ -171,8 +173,6 @@ Linux                    13 hrs 6 mins       ███████████�
 [testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
 
 [unpredictableFate v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - 2023-10-19
-
-[flarum-post-formatter v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - 2023-05-19
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
