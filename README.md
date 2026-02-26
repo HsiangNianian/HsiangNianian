@@ -154,7 +154,7 @@ Linux                    13 hrs 6 mins       ███████████�
   
 ### Recent releases
 <!-- recent_releases starts -->
-[AMonItor v0.1.3](https://github.com/HsiangNianian/AMonItor/releases/tag/v0.1.3) - 2026-02-26
+[AMonItor v0.1.4](https://github.com/HsiangNianian/AMonItor/releases/tag/v0.1.4) - 2026-02-26
 
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-02-25
 

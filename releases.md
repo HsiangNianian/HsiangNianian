@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->237<!-- releases_count ends --> releases across <!-- project_count starts -->28<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->238<!-- releases_count ends --> releases across <!-- project_count starts -->28<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[AMonItor](https://github.com/HsiangNianian/AMonItor)**: [v0.1.3](https://github.com/HsiangNianian/AMonItor/releases/tag/v0.1.3)  - 2026-02-26
+* **[AMonItor](https://github.com/HsiangNianian/AMonItor)**: [v0.1.4](https://github.com/HsiangNianian/AMonItor/releases/tag/v0.1.4) - ([2 releases total](https://github.com/HsiangNianian/AMonItor/releases))  - 2026-02-26
 <br />None
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-02-25
 <br />Unofficial swi-prolog docs for Chinese
