@@ -3,10 +3,10 @@
 Listing <!-- releases_count starts -->241<!-- releases_count ends --> releases across <!-- project_count starts -->28<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-02-27
+<br />Unofficial swi-prolog docs for Chinese
 * **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [dropout v0.2.0-alpha.4](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-alpha.4) - ([31 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-02-26
 <br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Rust. Aims to be a Reproducible Minecraft Workspace Manager.
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-02-26
-<br />Unofficial swi-prolog docs for Chinese
 * **[AMonItor](https://github.com/HsiangNianian/AMonItor)**: [v0.1.4](https://github.com/HsiangNianian/AMonItor/releases/tag/v0.1.4) - ([2 releases total](https://github.com/HsiangNianian/AMonItor/releases))  - 2026-02-26
 <br />None
 * **[soon](https://github.com/HsiangNianian/soon)**: [v0.1.9](https://github.com/HsiangNianian/soon/releases/tag/v0.1.9) - ([3 releases total](https://github.com/HsiangNianian/soon/releases))  - 2026-02-24
