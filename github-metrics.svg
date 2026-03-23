@@ -952,7 +952,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BACNext/BACNext</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BACNext | bilibili API Collect Next | 本项目与 BAC 没有从属关系</div>
@@ -1432,7 +1432,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2026, 02:59:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2026, 04:02:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
