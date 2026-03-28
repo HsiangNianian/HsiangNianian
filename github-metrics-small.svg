@@ -949,7 +949,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Isrothy/neominimap.nvim</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extensible and performant Neovim minimap plugin that helps you visualize code structure, diagnostics, git changes, and more at a glance.</div>
@@ -1002,7 +1002,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linto-ai/whisper-timestamped</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multilingual Automatic Speech Recognition with word-level timestamps and confidence</div>
@@ -1055,7 +1055,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>amitds1997/remote-nvim.nvim</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Remote development in Neovim 🔥</div>
@@ -1409,7 +1409,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Mar 2026, 04:28:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Mar 2026, 05:40:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
