@@ -150,7 +150,7 @@ Linux                    3 hrs 6 mins        ███████████�
   
 ### Recent releases
 <!-- recent_releases starts -->
-[DropOut @dropout/ui v0.1.0-alpha.4](https://github.com/HydroRoll-Team/DropOut/releases/tag/%40dropout/ui-v0.1.0-alpha.4) - 2026-03-29
+[DropOut dropout v0.2.0-alpha.6](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-alpha.6) - 2026-03-29
 
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-03-27
 
