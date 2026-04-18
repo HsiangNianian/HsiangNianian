@@ -39,8 +39,47 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 [![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 18/04/2026 01:29:17 UTC
+```text
+🌞 Morning                8176 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+🌆 Daytime                14490 commits       █████████░░░░░░░░░░░░░░░░   34.03 % 
+🌃 Evening                9750 commits        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+🌙 Night                  10167 commits       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   6101 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Tuesday                  5133 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Wednesday                7965 commits        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Thursday                 5574 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Friday                   5753 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Saturday                 4690 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Sunday                   7367 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   6 hrs 15 mins       ██████████████░░░░░░░░░░░   56.97 % 
+Java                     1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+
+🔥 Editors: 
+Neovim                   9 hrs 56 mins       ███████████████████████░░   90.36 % 
+Vim                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+
+💻 Operating System: 
+Linux                    10 hrs 59 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/04/2026 04:41:10 UTC
 <!--END_SECTION:waka-->
 
 </td>
