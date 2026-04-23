@@ -983,7 +983,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Wei-Shaw/sub2api</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</div>
@@ -1036,7 +1036,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codeking-ai/cligate</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-protocol AI proxy server for Claude Code, Codex CLI, Gemini CLI &amp; OpenClaw. Account pooling, API key management, free model routing, and visual dashboard.</div>
@@ -1089,7 +1089,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juzeon/poe-openai-proxy</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A wrapper that lets you use the reverse-engineered Python library poe-api library as if it was the OpenAI API for ChatGPT. You can connect your favorite OpenAI API based apps to this proxy and enjoy the ChatGPT API for free!</div>
@@ -1463,7 +1463,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2026, 04:37:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Apr 2026, 05:20:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
