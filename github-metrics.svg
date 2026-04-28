@@ -998,7 +998,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0xPlaygrounds/rig</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚙️🦀 Build modular and scalable LLM Applications in Rust</div>
@@ -1051,7 +1051,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QL-Win/QuickLook</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bring macOS “Quick Look” feature to Windows</div>
@@ -1104,7 +1104,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>boldsoftware/shelley</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Shelley is a coding agent</div>
@@ -1157,7 +1157,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mpmath/mpmath</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python library for arbitrary-precision floating-point arithmetic</div>
@@ -1478,7 +1478,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Apr 2026, 19:51:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Apr 2026, 20:49:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
