@@ -39,8 +39,50 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 [![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 05/05/2026 16:51:49 UTC
+```text
+🌞 Morning                8394 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+🌆 Daytime                14675 commits       ████████░░░░░░░░░░░░░░░░░   33.97 % 
+🌃 Evening                9878 commits        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+🌙 Night                  10252 commits       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   6204 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Tuesday                  5233 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Wednesday                8010 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Thursday                 5710 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Friday                   5817 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Saturday                 4771 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Sunday                   7454 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               25 hrs 7 mins       ██████████████░░░░░░░░░░░   55.05 % 
+Other                    9 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+CSS                      7 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Python                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Bash                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+
+🔥 Editors: 
+Neovim                   30 hrs 9 mins       █████████████████░░░░░░░░   66.09 % 
+VS Code                  12 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+Unknown Editor           2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Vim                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+
+💻 Operating System: 
+Mac                      30 hrs 14 mins      █████████████████░░░░░░░░   66.28 % 
+Linux                    15 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   33.72 % 
+```
+
+
+ Last Updated on 05/05/2026 17:52:51 UTC
 <!--END_SECTION:waka-->
 
 </td>
