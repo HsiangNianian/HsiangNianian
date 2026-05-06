@@ -1,12 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->245<!-- releases_count ends --> releases across <!-- project_count starts -->27<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->246<!-- releases_count ends --> releases across <!-- project_count starts -->27<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - ([2 releases total](https://github.com/HsiangNianian/swi-prolog-docs/releases))  - 2026-05-06
+<br />Unofficial swi-prolog docs for Chinese
 * **[iamai](https://github.com/retrofor/iamai)**: [v0.2.3](https://github.com/retrofor/iamai/releases/tag/v0.2.3) - ([24 releases total](https://github.com/retrofor/iamai/releases))  - 2026-05-06
 <br />A rule-driven comprehensive AI toolkit emphasizing simultaneous support for multimodal machine learning and the ability to construct cross-platform robots using logic.（规则驱动式的综合性人工智能工具库，强调同时支持多模态机器学习和利用逻辑构建跨平台机器人的能力）
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-05-05
-<br />Unofficial swi-prolog docs for Chinese
 * **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [dropout v0.2.0-alpha.6](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-alpha.6) - ([36 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-03-29
 <br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Rust. Aims to be a Reproducible Minecraft Workspace Manager.
 * **[soon](https://github.com/HsiangNianian/soon)**: [v0.1.9](https://github.com/HsiangNianian/soon/releases/tag/v0.1.9) - ([3 releases total](https://github.com/HsiangNianian/soon/releases))  - 2026-02-24
