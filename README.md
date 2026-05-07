@@ -37,6 +37,7 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 <table style="border-color: transparent;" cellspacing=0 ><td valign="top" width="80%">
 
 [![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
+[![License Persona](https://lcti.hydroroll.team/badge/wtfpl.svg)](https://lcti.hydroroll.team)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
