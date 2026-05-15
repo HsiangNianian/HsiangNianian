@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->245<!-- releases_count ends --> releases across <!-- project_count starts -->27<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->247<!-- releases_count ends --> releases across <!-- project_count starts -->28<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[deadpan](https://github.com/HsiangNianian/deadpan)**: [v0.1.3](https://github.com/HsiangNianian/deadpan/releases/tag/v0.1.3) - ([2 releases total](https://github.com/HsiangNianian/deadpan/releases))  - 2026-05-15
+<br />None
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-05-15
 <br />Unofficial swi-prolog docs for Chinese
 * **[iamai](https://github.com/retrofor/iamai)**: [v0.2.3](https://github.com/retrofor/iamai/releases/tag/v0.2.3) - ([24 releases total](https://github.com/retrofor/iamai/releases))  - 2026-05-06
