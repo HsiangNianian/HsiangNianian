@@ -156,7 +156,7 @@ Linux                    7 hrs 48 mins       ███████░░░░�
   
 ### Recent releases
 <!-- recent_releases starts -->
-[deadpan v0.1.3](https://github.com/HsiangNianian/deadpan/releases/tag/v0.1.3) - 2026-05-15
+[deadpan v0.1.8](https://github.com/HsiangNianian/deadpan/releases/tag/v0.1.8) - 2026-05-16
 
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-05-15
 
