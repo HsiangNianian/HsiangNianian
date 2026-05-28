@@ -40,8 +40,48 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 [![License Persona](https://lcti.hydroroll.team/badge/wtfpl.svg)](https://lcti.hydroroll.team)
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 28/05/2026 18:23:59 UTC
+```text
+🌞 Morning                9415 commits        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+🌆 Daytime                16311 commits       █████████░░░░░░░░░░░░░░░░   34.15 % 
+🌃 Evening                10850 commits       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+🌙 Night                  11182 commits       ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   6846 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Tuesday                  5736 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Wednesday                8886 commits        █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Thursday                 6219 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Friday                   6416 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Saturday                 5301 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Sunday                   8354 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   38.39 % 
+Markdown                 3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.34 % 
+JSON                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+INI                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Image (png)              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+
+🔥 Editors: 
+Neovim                   9 hrs 56 mins       ████████████████████████░   97.43 % 
+Vim                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+
+💻 Operating System: 
+Linux                    5 hrs 56 mins       ███████████████░░░░░░░░░░   58.25 % 
+Mac                      4 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.75 % 
+```
+
+
+ Last Updated on 28/05/2026 19:27:44 UTC
 <!--END_SECTION:waka-->
 
 </td>
