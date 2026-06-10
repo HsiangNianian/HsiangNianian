@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 */1 * * *"}]
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["main"]}
 jobs:
