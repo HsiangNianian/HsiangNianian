@@ -40,48 +40,8 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 [![License Persona](https://lcti.hydroroll.team/badge/wtfpl.svg)](https://lcti.hydroroll.team)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                9342 commits        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-🌆 Daytime                15557 commits       █████████░░░░░░░░░░░░░░░░   34.31 % 
-🌃 Evening                10350 commits       ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-🌙 Night                  10092 commits       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   6476 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Tuesday                  5808 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Wednesday                8005 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Thursday                 5985 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Friday                   6345 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 5192 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Sunday                   7530 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   35.96 % 
-Markdown                 52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-JSON                     48 mins             █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-Bash                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-
-🔥 Editors: 
-Neovim                   3 hrs 38 mins       ████████████████████████░   96.44 % 
-Vim                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-
-💻 Operating System: 
-Linux                    2 hrs 7 mins        ██████████████░░░░░░░░░░░   56.51 % 
-Mac                      1 hr 38 mins        ███████████░░░░░░░░░░░░░░   43.49 % 
-```
-
-
- Last Updated on 24/06/2026 15:59:31 UTC
+ Last Updated on 24/06/2026 16:21:54 UTC
 <!--END_SECTION:waka-->
 
 </td>
