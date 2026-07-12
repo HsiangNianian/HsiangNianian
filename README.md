@@ -154,6 +154,8 @@ Linux                    4 hrs 39 mins       █████████░░�
   
 ### Recent releases
 <!-- recent_releases starts -->
+[GlyphWeave v0.1.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.1.0) - 2026-07-12
+
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-07-10
 
 [iamai v0.2.3](https://github.com/retrofor/iamai/releases/tag/v0.2.3) - 2026-05-06
@@ -171,8 +173,6 @@ Linux                    4 hrs 39 mins       █████████░░�
 [testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
 
 [unpredictableFate v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - 2023-10-19
-
-[flarum-post-formatter v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - 2023-05-19
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_

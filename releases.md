@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->245<!-- releases_count ends --> releases across <!-- project_count starts -->27<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->246<!-- releases_count ends --> releases across <!-- project_count starts -->28<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[GlyphWeave](https://github.com/HsiangNianian/GlyphWeave)**: [v0.1.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.1.0)  - 2026-07-12
+<br />Infinite-canvas ASCII roguelike tilemap editor. Paint dungeons, weave glyphs. Multi-layer editing, preset rooms, dual themes, minimap, render API.
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-07-10
 <br />Unofficial swi-prolog docs for Chinese
 * **[iamai](https://github.com/retrofor/iamai)**: [v0.2.3](https://github.com/retrofor/iamai/releases/tag/v0.2.3) - ([24 releases total](https://github.com/retrofor/iamai/releases))  - 2026-05-06
