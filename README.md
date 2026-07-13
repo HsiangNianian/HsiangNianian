@@ -154,9 +154,9 @@ Linux                    11 mins             █░░░░░░░░░░�
   
 ### Recent releases
 <!-- recent_releases starts -->
-[GlyphWeave v0.1.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.1.0) - 2026-07-12
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-07-13
 
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-07-10
+[GlyphWeave v0.1.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.1.0) - 2026-07-12
 
 [iamai v0.2.3](https://github.com/retrofor/iamai/releases/tag/v0.2.3) - 2026-05-06
 
