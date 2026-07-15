@@ -154,13 +154,13 @@ Linux                    12 mins             █░░░░░░░░░░�
   
 ### Recent releases
 <!-- recent_releases starts -->
+[iamai v0.3.0](https://github.com/retrofor/iamai/releases/tag/untagged-bea6d4f6eef32dc21fa8) - Near Future
+
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-07-14
 
 [DropOut @dropout/docs v0.1.0-alpha.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/%40dropout/docs-v0.1.0-alpha.2) - 2026-07-13
 
 [GlyphWeave v0.1.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.1.0) - 2026-07-12
-
-[iamai v0.2.3](https://github.com/retrofor/iamai/releases/tag/v0.2.3) - 2026-05-06
 
 [soon v0.1.9](https://github.com/HsiangNianian/soon/releases/tag/v0.1.9) - 2026-02-24
 

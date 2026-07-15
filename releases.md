@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->247<!-- releases_count ends --> releases across <!-- project_count starts -->28<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->248<!-- releases_count ends --> releases across <!-- project_count starts -->28<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[iamai](https://github.com/retrofor/iamai)**: [v0.3.0](https://github.com/retrofor/iamai/releases/tag/untagged-bea6d4f6eef32dc21fa8) - ([25 releases total](https://github.com/retrofor/iamai/releases))  - Near Future
+<br />Cross-platform AI agent and chatbot runtime with a Rust core, Python plugins, and normalized adapters.
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-07-14
 <br />Unofficial swi-prolog docs for Chinese
 * **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [@dropout/docs v0.1.0-alpha.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/%40dropout/docs-v0.1.0-alpha.2) - ([37 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-07-13
 <br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Rust. Aims to be a Reproducible Minecraft Workspace Manager.
 * **[GlyphWeave](https://github.com/HsiangNianian/GlyphWeave)**: [v0.1.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.1.0)  - 2026-07-12
 <br />Infinite-canvas ASCII roguelike tilemap editor. Paint dungeons, weave glyphs. Multi-layer editing, preset rooms, dual themes, minimap, render API.
-* **[iamai](https://github.com/retrofor/iamai)**: [v0.2.3](https://github.com/retrofor/iamai/releases/tag/v0.2.3) - ([24 releases total](https://github.com/retrofor/iamai/releases))  - 2026-05-06
-<br />Cross-platform AI agent and chatbot runtime with a Rust core, Python plugins, and normalized adapters.
 * **[soon](https://github.com/HsiangNianian/soon)**: [v0.1.9](https://github.com/HsiangNianian/soon/releases/tag/v0.1.9) - ([3 releases total](https://github.com/HsiangNianian/soon/releases))  - 2026-02-24
 <br />🤖 Predict your next shell command based on history — like shell autocomplete, but MORE stupid
 * **[hacktyper](https://github.com/HsiangNianian/hacktyper)**: [🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) - ([7 releases total](https://github.com/HsiangNianian/hacktyper/releases))  - 2026-01-13
