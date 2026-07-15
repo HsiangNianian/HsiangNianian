@@ -10,7 +10,7 @@ Listing <!-- releases_count starts -->247<!-- releases_count ends --> releases a
 * **[GlyphWeave](https://github.com/HsiangNianian/GlyphWeave)**: [v0.1.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.1.0)  - 2026-07-12
 <br />Infinite-canvas ASCII roguelike tilemap editor. Paint dungeons, weave glyphs. Multi-layer editing, preset rooms, dual themes, minimap, render API.
 * **[iamai](https://github.com/retrofor/iamai)**: [v0.2.3](https://github.com/retrofor/iamai/releases/tag/v0.2.3) - ([24 releases total](https://github.com/retrofor/iamai/releases))  - 2026-05-06
-<br />A rule-driven comprehensive AI toolkit emphasizing simultaneous support for multimodal machine learning and the ability to construct cross-platform robots using logic.（规则驱动式的综合性人工智能工具库，强调同时支持多模态机器学习和利用逻辑构建跨平台机器人的能力）
+<br />Cross-platform AI agent and chatbot runtime with a Rust core, Python plugins, and normalized adapters.
 * **[soon](https://github.com/HsiangNianian/soon)**: [v0.1.9](https://github.com/HsiangNianian/soon/releases/tag/v0.1.9) - ([3 releases total](https://github.com/HsiangNianian/soon/releases))  - 2026-02-24
 <br />🤖 Predict your next shell command based on history — like shell autocomplete, but MORE stupid
 * **[hacktyper](https://github.com/HsiangNianian/hacktyper)**: [🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) - ([7 releases total](https://github.com/HsiangNianian/hacktyper/releases))  - 2026-01-13
