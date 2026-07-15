@@ -3,10 +3,10 @@
 Listing <!-- releases_count starts -->248<!-- releases_count ends --> releases across <!-- project_count starts -->28<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-07-15
+<br />Unofficial swi-prolog docs for Chinese
 * **[iamai](https://github.com/retrofor/iamai)**: [v0.3.0](https://github.com/retrofor/iamai/releases/tag/v0.3.0) - ([25 releases total](https://github.com/retrofor/iamai/releases))  - 2026-07-15
 <br />Cross-platform AI agent and chatbot runtime with a Rust core, Python plugins, and normalized adapters.
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-07-14
-<br />Unofficial swi-prolog docs for Chinese
 * **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [@dropout/docs v0.1.0-alpha.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/%40dropout/docs-v0.1.0-alpha.2) - ([37 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-07-13
 <br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Rust. Aims to be a Reproducible Minecraft Workspace Manager.
 * **[GlyphWeave](https://github.com/HsiangNianian/GlyphWeave)**: [v0.1.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.1.0)  - 2026-07-12

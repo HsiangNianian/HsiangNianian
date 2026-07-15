@@ -154,9 +154,9 @@ Linux                    12 mins             █░░░░░░░░░░�
   
 ### Recent releases
 <!-- recent_releases starts -->
-[iamai v0.3.0](https://github.com/retrofor/iamai/releases/tag/v0.3.0) - 2026-07-15
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-07-15
 
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-07-14
+[iamai v0.3.0](https://github.com/retrofor/iamai/releases/tag/v0.3.0) - 2026-07-15
 
 [DropOut @dropout/docs v0.1.0-alpha.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/%40dropout/docs-v0.1.0-alpha.2) - 2026-07-13
 
