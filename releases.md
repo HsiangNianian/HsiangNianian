@@ -3,7 +3,7 @@
 Listing <!-- releases_count starts -->248<!-- releases_count ends --> releases across <!-- project_count starts -->28<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-07-15
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-07-16
 <br />Unofficial swi-prolog docs for Chinese
 * **[iamai](https://github.com/retrofor/iamai)**: [v0.3.0](https://github.com/retrofor/iamai/releases/tag/v0.3.0) - ([25 releases total](https://github.com/retrofor/iamai/releases))  - 2026-07-15
 <br />Cross-platform AI agent and chatbot runtime with a Rust core, Python plugins, and normalized adapters.
