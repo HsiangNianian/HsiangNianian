@@ -154,6 +154,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
   
 ### Recent releases
 <!-- recent_releases starts -->
+[proof-pr v0.1.0](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.0) - 2026-07-18
+
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-07-17
 
 [iamai v0.3.0](https://github.com/retrofor/iamai/releases/tag/v0.3.0) - 2026-07-15
@@ -171,8 +173,6 @@ Linux                    0 secs              ░░░░░░░░░░░�
 [GetPlayerCard v0.4.4](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.4.4) - 2025-02-18
 
 [testforchangelog v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - 2024-01-29
-
-[unpredictableFate v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - 2023-10-19
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
