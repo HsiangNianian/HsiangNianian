@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->249<!-- releases_count ends --> releases across <!-- project_count starts -->29<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->250<!-- releases_count ends --> releases across <!-- project_count starts -->29<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[proof-pr](https://github.com/HsiangNianian/proof-pr)**: [v0.1.0](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.0)  - 2026-07-18
+* **[proof-pr](https://github.com/HsiangNianian/proof-pr)**: [v0.1.1](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.1) - ([2 releases total](https://github.com/HsiangNianian/proof-pr/releases))  - 2026-07-18
 <br />Commit-bound verification evidence for pull requests
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-07-17
 <br />Unofficial swi-prolog docs for Chinese
