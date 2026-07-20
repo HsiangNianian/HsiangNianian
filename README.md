@@ -154,9 +154,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
   
 ### Recent releases
 <!-- recent_releases starts -->
-[proof-pr v0.1.1](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.1) - 2026-07-18
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-07-20
 
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-07-17
+[proof-pr v0.1.1](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.1) - 2026-07-18
 
 [iamai v0.3.0](https://github.com/retrofor/iamai/releases/tag/v0.3.0) - 2026-07-15
 

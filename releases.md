@@ -3,10 +3,10 @@
 Listing <!-- releases_count starts -->250<!-- releases_count ends --> releases across <!-- project_count starts -->29<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-07-20
+<br />Unofficial swi-prolog docs for Chinese
 * **[proof-pr](https://github.com/HsiangNianian/proof-pr)**: [v0.1.1](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.1) - ([2 releases total](https://github.com/HsiangNianian/proof-pr/releases))  - 2026-07-18
 <br />Commit-bound verification evidence for pull requests
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-07-17
-<br />Unofficial swi-prolog docs for Chinese
 * **[iamai](https://github.com/retrofor/iamai)**: [v0.3.0](https://github.com/retrofor/iamai/releases/tag/v0.3.0) - ([25 releases total](https://github.com/retrofor/iamai/releases))  - 2026-07-15
 <br />Cross-platform AI agent and chatbot runtime with a Rust core, Python plugins, and normalized adapters.
 * **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [@dropout/docs v0.1.0-alpha.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/%40dropout/docs-v0.1.0-alpha.2) - ([37 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-07-13
