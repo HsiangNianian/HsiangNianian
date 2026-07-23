@@ -153,7 +153,7 @@ Mac                      1 hr 36 mins        ███████████�
   
 ### Recent releases
 <!-- recent_releases starts -->
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-07-22
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-07-23
 
 [proof-pr v0.1.1](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.1) - 2026-07-18
 
