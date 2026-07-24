@@ -149,7 +149,11 @@ Mac                      2 hrs 4 mins        ███████████�
 
 </td></table>
 
-<table><tr><td valign="top" width="33%">
+<table>
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=steipete&hide_border=true)
+  
+<tr><td valign="top" width="33%">
   
 ### Recent releases
 <!-- recent_releases starts -->
