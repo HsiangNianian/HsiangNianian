@@ -84,7 +84,9 @@ Mac                      2 hrs 4 mins        ███████████�
 <!--END_SECTION:waka-->
 
 </td>
-
+<td valign="top" width="25%">
+  <img src="./github-metrics.svg">
+</td>
 <table>
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=HsiangNianian&hide_border=true)
@@ -135,9 +137,6 @@ _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main
 <!-- blog ends -->
 
 _More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
-</td>
-<td valign="top" width="25%">
-  <img src="./github-metrics.svg">
 </td>
 </table>
 
