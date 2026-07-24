@@ -14,7 +14,7 @@ Listing <!-- releases_count starts -->250<!-- releases_count ends --> releases a
 * **[GlyphWeave](https://github.com/HsiangNianian/GlyphWeave)**: [v0.1.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.1.0)  - 2026-07-12
 <br />Infinite-canvas ASCII roguelike tilemap editor. Paint dungeons, weave glyphs. Multi-layer editing, preset rooms, dual themes, minimap, render API.
 * **[soon](https://github.com/HsiangNianian/soon)**: [v0.1.9](https://github.com/HsiangNianian/soon/releases/tag/v0.1.9) - ([3 releases total](https://github.com/HsiangNianian/soon/releases))  - 2026-02-24
-<br />🤖 Predict your next shell command based on history — like shell autocomplete, but MORE stupid
+<br />A local-first personal terminal agent that learns your routines and predicts the next full command.
 * **[hacktyper](https://github.com/HsiangNianian/hacktyper)**: [🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) - ([7 releases total](https://github.com/HsiangNianian/hacktyper/releases))  - 2026-01-13
 <br />一个用于pran的复杂命令行工具 | A sophisticated CLI tool for pranking or acting like a Hollywood hacker | talk is cheap, show me your code :D
 * **[online-judge](https://github.com/swpu-acm/online-judge)**: [algohub-server v0.1.18](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.18) - ([20 releases total](https://github.com/swpu-acm/online-judge/releases))  - 2025-03-26
