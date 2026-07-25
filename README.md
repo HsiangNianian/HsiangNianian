@@ -43,21 +43,21 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4728 commits        ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-🌆 Daytime                9129 commits        ███████████░░░░░░░░░░░░░░   43.20 % 
-🌃 Evening                4391 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-🌙 Night                  2885 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+🌞 Morning                2423 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+🌆 Daytime                6231 commits        █████████████░░░░░░░░░░░░   50.50 % 
+🌃 Evening                2587 commits        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+🌙 Night                  1097 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2772 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Tuesday                  3088 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Wednesday                3462 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Thursday                 3007 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Friday                   3600 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Saturday                 2135 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Sunday                   3069 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Monday                   1314 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Tuesday                  1699 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Wednesday                2088 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Thursday                 2120 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Friday                   2090 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Saturday                 1045 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Sunday                   1982 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 ```
 
 
@@ -65,22 +65,21 @@ Sunday                   3069 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 25 mins        █████████████████░░░░░░░░   68.69 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+TypeScript               1 hr 25 mins        ██████████████████░░░░░░░   70.04 % 
+Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+gitignore                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 1 min         █████████████████████████   98.08 % 
-Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Neovim                   2 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/07/2026 16:42:41 UTC
+ Last Updated on 25/07/2026 17:09:25 UTC
 <!--END_SECTION:waka-->
 
 </td>
