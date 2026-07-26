@@ -65,21 +65,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 25 mins        ██████████████████░░░░░░░   70.04 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-gitignore                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+TypeScript               47 mins             ██████████████░░░░░░░░░░░   56.55 % 
+Markdown                 20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Python                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+gitignore                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 1 min         █████████████████████████   100.00 % 
+Neovim                   1 hr 23 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/07/2026 16:02:33 UTC
+ Last Updated on 26/07/2026 16:04:28 UTC
 <!--END_SECTION:waka-->
 
 </td>
