@@ -45,18 +45,18 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4810 commits        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+🌞 Morning                4809 commits        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
 🌆 Daytime                9243 commits        ███████████░░░░░░░░░░░░░░   43.14 % 
-🌃 Evening                4463 commits        █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+🌃 Evening                4462 commits        █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
 🌙 Night                  2911 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2838 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Monday                   2838 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 Tuesday                  3120 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Wednesday                3500 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Thursday                 3087 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Wednesday                3500 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Thursday                 3085 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 Friday                   3632 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
 Saturday                 2176 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
 Sunday                   3074 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
@@ -67,17 +67,17 @@ Sunday                   3074 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               47 mins             ██████████████░░░░░░░░░░░   56.55 % 
-Markdown                 20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-Python                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-gitignore                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Other                    51 mins             ████████░░░░░░░░░░░░░░░░░   32.28 % 
+TypeScript               47 mins             ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🔥 Editors: 
-Neovim                   1 hr 23 mins        █████████████████████████   100.00 % 
+Neovim                   2 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 23 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,7 +87,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 18:34:07 UTC
+ Last Updated on 27/07/2026 19:53:33 UTC
 <!--END_SECTION:waka-->
 
 </td>
