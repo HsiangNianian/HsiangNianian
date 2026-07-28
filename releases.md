@@ -3,7 +3,7 @@
 Listing <!-- releases_count starts -->252<!-- releases_count ends --> releases across <!-- project_count starts -->29<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-07-27
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-07-28
 <br />Unofficial swi-prolog docs for Chinese
 * **[soon](https://github.com/HsiangNianian/soon)**: [v0.4.1](https://github.com/HsiangNianian/soon/releases/tag/v0.4.1) - ([5 releases total](https://github.com/HsiangNianian/soon/releases))  - 2026-07-27
 <br />A local-first personal terminal agent that learns your routines and predicts the next full command.
