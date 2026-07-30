@@ -102,9 +102,9 @@ No AI Coding Activity Tracked This Week
   
 ### Recent releases
 <!-- recent_releases starts -->
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-07-30
+[soon v0.5.0](https://github.com/HsiangNianian/soon/releases/tag/v0.5.0) - 2026-07-30
 
-[soon v0.4.2](https://github.com/HsiangNianian/soon/releases/tag/v0.4.2) - 2026-07-29
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-07-30
 
 [proof-pr v0.1.1](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.1) - 2026-07-18
 
