@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->260<!-- releases_count ends --> releases across <!-- project_count starts -->29<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->263<!-- releases_count ends --> releases across <!-- project_count starts -->29<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [dropout v0.2.0-alpha.8](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-alpha.8) - ([43 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-08-03
+* **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [dropout v0.2.0-alpha.9](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-alpha.9) - ([46 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-08-03
 <br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Rust. Aims to be a Reproducible Minecraft Workspace Manager.
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-08-03
 <br />Unofficial swi-prolog docs for Chinese
