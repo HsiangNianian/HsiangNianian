@@ -38,6 +38,7 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 
 [![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
 [![License Persona](https://lcti.hydroroll.team/badge/wtfpl.svg)](https://lcti.hydroroll.team)
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/hsiangnianian?lang=zh)](https://ghfind.com/u/hsiangnianian?ref=badge)
 
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2043%20mins-blue?style=flat)
