@@ -46,21 +46,21 @@ I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understan
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9854 commits        █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-🌆 Daytime                16900 commits       █████████░░░░░░░░░░░░░░░░   37.04 % 
-🌃 Evening                10704 commits       ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-🌙 Night                  8166 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+🌞 Morning                4174 commits        █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+🌆 Daytime                9197 commits        ███████████░░░░░░░░░░░░░░   45.69 % 
+🌃 Evening                4185 commits        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+🌙 Night                  2573 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   6023 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Tuesday                  6684 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Wednesday                7206 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Thursday                 6893 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Friday                   7274 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Saturday                 5254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Sunday                   6290 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Monday                   2417 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Tuesday                  2867 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Wednesday                3670 commits        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Thursday                 3233 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Friday                   3308 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Saturday                 1678 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Sunday                   2956 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 ```
 
 
@@ -68,17 +68,15 @@ Sunday                   6290 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   37.51 % 
-Other                    51 mins             ████████░░░░░░░░░░░░░░░░░   30.55 % 
-Markdown                 34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-reStructuredText         7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+TypeScript               1 hr 2 mins         █████████████████░░░░░░░░   68.30 % 
+Markdown                 29 mins             ████████░░░░░░░░░░░░░░░░░   31.50 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 47 mins       █████████████████████████   100.00 % 
+Neovim                   1 hr 32 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -88,7 +86,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 03/08/2026 13:00:34 UTC
+ Last Updated on 04/08/2026 13:13:32 UTC
 <!--END_SECTION:waka-->
 
 </td>
