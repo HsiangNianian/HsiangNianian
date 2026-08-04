@@ -103,7 +103,7 @@ No AI Coding Activity Tracked This Week
   
 ### Recent releases
 <!-- recent_releases starts -->
-[DropOut dropout v0.2.0-alpha.9](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-alpha.9) - 2026-08-03
+[DropOut dropout v0.2.0-beta.1](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-beta.1) - 2026-08-04
 
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-08-03
 
