@@ -103,7 +103,7 @@ No AI Coding Activity Tracked This Week
   
 ### Recent releases
 <!-- recent_releases starts -->
-[dsh-auto-continue v0.2.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.2.2) - 2026-08-14
+[dsh-auto-continue v0.3.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.3.2) - 2026-08-14
 
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-08-13
 

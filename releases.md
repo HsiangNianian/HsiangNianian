@@ -1,10 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->275<!-- releases_count ends --> releases across <!-- project_count starts -->30<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->278<!-- releases_count ends --> releases across <!-- project_count starts -->30<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.2.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.2.2) - ([3 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-08-14
-<br />DSH Web UI plugin: automatically sends "继续" (continue) when a request is interrupted by network errors or other non-human causes
+* **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.3.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.3.2) - ([6 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-08-14
+<br />DSH Web UI plugin: auto-sends 「继续」 to resume requests interrupted by network errors or other non-human causes — error classification, adaptive backoff, templated continue text, browser notifications, all configurable from the settings card
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-08-13
 <br />Unofficial swi-prolog docs for Chinese
 * **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [dropout v0.2.0-rc.1](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.1) - ([55 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-08-04
