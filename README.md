@@ -104,6 +104,8 @@ No AI Coding Activity Tracked This Week
   
 ### Recent releases
 <!-- recent_releases starts -->
+[dsh-war-report v0.1.0](https://github.com/HsiangNianian/dsh-war-report/releases/tag/v0.1.0) - 2026-08-18
+
 [dsh-auto-continue v0.6.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.6.2) - 2026-08-18
 
 [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-08-17
@@ -121,8 +123,6 @@ No AI Coding Activity Tracked This Week
 [hacktyper 🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) - 2026-01-13
 
 [online-judge algohub-server v0.1.18](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.18) - 2025-03-26
-
-[GetPlayerCard v0.4.4](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.4.4) - 2025-02-18
 <!-- recent_releases ends -->
 
 _More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
