@@ -104,9 +104,9 @@ No AI Coding Activity Tracked This Week
   
 ### Recent releases
 <!-- recent_releases starts -->
-[dsh-auto-continue v0.6.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.6.2) - 2026-08-18
+[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-08-18
 
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-08-17
+[dsh-auto-continue v0.6.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.6.2) - 2026-08-18
 
 [DropOut dropout v0.2.0-rc.1](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.1) - 2026-08-04
 
