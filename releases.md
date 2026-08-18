@@ -1,10 +1,8 @@
 # Released projects
 
-Listing <!-- releases_count starts -->295<!-- releases_count ends --> releases across <!-- project_count starts -->31<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->294<!-- releases_count ends --> releases across <!-- project_count starts -->30<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[dsh-war-report](https://github.com/HsiangNianian/dsh-war-report)**: [v0.1.0](https://github.com/HsiangNianian/dsh-war-report/releases/tag/v0.1.0)  - 2026-08-18
-<br />None
 * **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.6.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.6.2) - ([22 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-08-18
 <br />DSH Web UI plugin: auto-sends 「继续」 to resume requests interrupted by network errors or other non-human causes — error classification, adaptive backoff, templated continue text, browser notifications, all configurable from the settings card
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-08-17
