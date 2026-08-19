@@ -93,7 +93,3 @@ No AI Coding Activity Tracked This Week
 ## Contact
 
 PGP [`5DE2131F AD104AEB A3D36BDF 519BB819 4D892FD0`](https://keys.openpgp.org/search?q=5DE2131FAD104AEBA3D36BDF519BB8194D892FD0) · mail `i@jyunko.cn`
-
-> 人类对科技，一比零
-
-_Assembled automatically — [build_readme.py](build_readme.py) plus GitHub Actions keep the releases and posts fresh._
