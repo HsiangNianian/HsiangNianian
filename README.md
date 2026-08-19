@@ -6,8 +6,6 @@ Game developer and CS student, working at the seam between artificial intelligen
 [![GitHub](https://img.shields.io/badge/-HsiangNianian-57606a?style=flat-square&logo=github&logoColor=white)](https://github.com/HsiangNianian)
 [![X / Twitter](https://img.shields.io/badge/-@HsiangNianian-57606a?style=flat-square&logo=x&logoColor=white)](https://twitter.com/HsiangNianian)
 [![Academic](https://img.shields.io/badge/-academic.jyunko.cn-57606a?style=flat-square&logo=googlescholar&logoColor=white)](https://academic.jyunko.cn)
-[![FM](https://img.shields.io/badge/-fm.jyunko.cn-57606a?style=flat-square&logo=applemusic&logoColor=white)](https://fm.jyunko.cn)
-[![aria](https://img.shields.io/badge/-aria-57606a?style=flat-square&logo=rust&logoColor=white)](https://github.com/AICMUniversity/aria)
 
 > On the score, we learn the theory; but only through interacting with others do we understand the music.
 
