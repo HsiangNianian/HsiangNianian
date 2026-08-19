@@ -31,6 +31,36 @@ I've always had one absurd idea — compose music in a programming language, and
 ## This week
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C922%20hrs%2054%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2043%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 1 hr 2 mins         ███████████░░░░░░░░░░░░░░   43.11 % 
+Python                   54 mins             █████████░░░░░░░░░░░░░░░░   37.32 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+env                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+
+🔥 Editors: 
+Neovim                   2 hrs 24 mins       █████████████████████████   99.67 % 
+Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+
+💻 Operating System: 
+Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 19/08/2026 08:25:25 UTC
 <!--END_SECTION:waka-->
 
 ## Recent releases
