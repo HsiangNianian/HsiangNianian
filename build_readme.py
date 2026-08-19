@@ -16,7 +16,7 @@ TOKEN = os.environ.get("TOKEN", "")
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
-        f"<!\-\- {marker} starts \-\->.*<!\-\- {marker} ends \-\->", re.DOTALL
+        rf"<!-- {marker} starts -->.*<!-- {marker} ends -->", re.DOTALL
     )
     if not inline:
         chunk = f"\n{chunk}\n"
@@ -183,7 +183,6 @@ def fetch_fm_entries():
 
 def fetch_diary_entries():
     entries = feedparser.parse("https://diary.jyunko.cn/feed.xml")["entries"]
-    print(entries)
     return [
         {
             "title": entry["title"],
@@ -195,51 +194,69 @@ def fetch_diary_entries():
     ]
 
 
+def clean_summary(raw, limit=160):
+    """Strip HTML and truncate a feed summary to one readable line."""
+    import html as _html
+
+    text = _html.unescape(re.sub(r"<[^>]+>", " ", raw or ""))
+    text = re.sub(r"\s+", " ", text).strip()
+    return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
+
+
 if __name__ == "__main__":
     readme = root / "README.md"
     project_releases = root / "releases.md"
-    releases = fetch_releases(TOKEN)
-    releases.sort(key=lambda r: r["published_at"], reverse=True)
-    md = "\n\n".join(
-        [
-            "[{repo} {release}]({url}) - {published_day}".format(**release)
-            for release in releases[:10]
-        ]
-    )
     readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "recent_releases", md)
+    rewritten = readme_contents
+
+    try:
+        releases = fetch_releases(TOKEN)
+    except Exception as exc:  # bad token / API down -> keep previous content
+        print("release fetch failed:", exc)
+        releases = []
+
+    if releases:
+        releases.sort(key=lambda r: r["published_at"], reverse=True)
+        md = "\n".join(
+            "- [{repo} {release}]({url}) · {published_day}".format(**release)
+            for release in releases[:10]
+        )
+        rewritten = replace_chunk(rewritten, "recent_releases", md)
+    else:
+        print("no releases fetched, keeping previous releases section")
 
     #     Write out full project-releases.md file
-    project_releases_md = "\n".join(
-        [
-            (
+    if releases:
+        project_releases_md = "\n".join(
+            [
                 (
-                    "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md} - {published_day}\n"
-                    "<br />{description}"
-                ).format(
-                    total_releases_md=f'- ([{release["total_releases"]} releases total]({release["repo_url"]}/releases)) '
-                    if release["total_releases"] > 1
-                    else "",
-                    **release,
+                    (
+                        "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md} - {published_day}\n"
+                        "<br />{description}"
+                    ).format(
+                        total_releases_md=f'- ([{release["total_releases"]} releases total]({release["repo_url"]}/releases)) '
+                        if release["total_releases"] > 1
+                        else "",
+                        **release,
+                    )
                 )
-            )
-            for release in releases
-        ]
-    )
-    project_releases_content = project_releases.open().read()
-    project_releases_content = replace_chunk(
-        project_releases_content, "recent_releases", project_releases_md
-    )
-    project_releases_content = replace_chunk(
-        project_releases_content, "project_count", str(len(releases)), inline=True
-    )
-    project_releases_content = replace_chunk(
-        project_releases_content,
-        "releases_count",
-        str(sum(r["total_releases"] for r in releases)),
-        inline=True,
-    )
-    project_releases.open("w").write(project_releases_content)
+                for release in releases
+            ]
+        )
+        project_releases_content = project_releases.open().read()
+        project_releases_content = replace_chunk(
+            project_releases_content, "recent_releases", project_releases_md
+        )
+        project_releases_content = replace_chunk(
+            project_releases_content, "project_count", str(len(releases)), inline=True
+        )
+        project_releases_content = replace_chunk(
+            project_releases_content,
+            "releases_count",
+            str(sum(r["total_releases"] for r in releases)),
+            inline=True,
+        )
+        project_releases.open("w").write(project_releases_content)
 
     #     tils = fetch_tils()
     #     tils_md = "\n\n".join(
@@ -255,46 +272,47 @@ if __name__ == "__main__":
     #     )
     #     rewritten = replace_chunk(rewritten, "tils", tils_md)
     # blog
-    entries = fetch_blog_entries()[:7]
-    entries_md = "\n\n".join(
-        [
+    try:
+        entries = fetch_blog_entries()[:7]
+        entries_md = "\n\n".join(
             '<details><summary>{published} <a href="{url}">{title}</a></summary><p>{summary}</p></details>'.format(
-                **entry
+                published=entry["published"],
+                url=entry["url"],
+                title=entry["title"],
+                summary=clean_summary(entry["summary"]),
             )
             for entry in entries
-        ]
-    )
-    print()
-    print(entries_md)
-    print()
-    rewritten = replace_chunk(rewritten, "blog", entries_md)
-    # fm
-    fm_entries = fetch_fm_entries()[:6]
-    fm_entries_md = "\n\n".join(
-        [
-            '<details open="true"><summary>{published} {categlory}</summary><li><a href="{url}">{title}</a></li></details>'.format(
-                **entry
-            )
-            for entry in fm_entries
-        ]
-    )
-    print()
-    print(fm_entries_md)
-    print()
-    rewritten = replace_chunk(rewritten, "fm", fm_entries_md)
-    # diary
-    diary_entries = fetch_diary_entries()[:5]
-    diary_entries_md = "\n\n".join(
-        [
-            '<details open="true"><summary>{published}</summary><li><a href="{url}">{title}</a></li></details>'.format(
-                **entry
-            )
-            for entry in diary_entries
-        ]
-    )
-    print()
-    print(diary_entries_md)
-    print()
-    rewritten = replace_chunk(rewritten, "diary", diary_entries_md)
+        )
+        rewritten = replace_chunk(rewritten, "blog", entries_md)
+    except Exception as exc:
+        print("blog fetch failed:", exc)
+    # fm (README currently has no fm markers; kept safe for future use)
+    try:
+        fm_entries = fetch_fm_entries()[:6]
+        fm_entries_md = "\n\n".join(
+            [
+                '<details><summary>{published} {categlory}</summary><li><a href="{url}">{title}</a></li></details>'.format(
+                    **entry
+                )
+                for entry in fm_entries
+            ]
+        )
+        rewritten = replace_chunk(rewritten, "fm", fm_entries_md)
+    except Exception as exc:
+        print("fm fetch failed:", exc)
+    # diary (README currently has no diary markers; kept safe for future use)
+    try:
+        diary_entries = fetch_diary_entries()[:5]
+        diary_entries_md = "\n\n".join(
+            [
+                '<details><summary>{published}</summary><li><a href="{url}">{title}</a></li></details>'.format(
+                    **entry
+                )
+                for entry in diary_entries
+            ]
+        )
+        rewritten = replace_chunk(rewritten, "diary", diary_entries_md)
+    except Exception as exc:
+        print("diary fetch failed:", exc)
 
     readme.open("w").write(rewritten)

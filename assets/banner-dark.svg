@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="banner-title">
+  <title id="banner-title">简律纯 · HsiangNianian</title>
+  <g stroke="#e6edf3" stroke-opacity="0.5" stroke-width="1.5">
+    <line x1="56" y1="120" x2="1144" y2="120"/>
+    <line x1="56" y1="136" x2="1144" y2="136"/>
+    <line x1="56" y1="152" x2="1144" y2="152"/>
+    <line x1="56" y1="168" x2="1144" y2="168"/>
+    <line x1="56" y1="184" x2="1144" y2="184"/>
+  </g>
+  <text x="78" y="152" font-family="Georgia,'Songti SC','Noto Serif CJK SC','Source Han Serif SC',SimSun,serif" font-size="92" font-weight="700" letter-spacing="8" fill="#e6edf3">简律纯</text>
+  <text x="78" y="230" font-family="-apple-system,'Helvetica Neue','Segoe UI',Helvetica,Arial,sans-serif" font-size="33" font-weight="700" letter-spacing="9" fill="#e6edf3">HSIANGNIANIAN</text>
+  <text x="78" y="268" font-family="-apple-system,'Helvetica Neue','Segoe UI',Helvetica,Arial,sans-serif" font-size="23" letter-spacing="1.5" fill="#8b949e">music × code × artificial intelligence</text>
+  <g stroke="#e06c5f" stroke-width="3" stroke-linecap="round">
+    <line x1="1098" y1="160" x2="1095" y2="92"/>
+    <line x1="1134" y1="144" x2="1131" y2="76"/>
+    <line x1="1095" y1="97" x2="1132" y2="81" stroke-width="11"/>
+  </g>
+  <g fill="#e06c5f">
+    <ellipse cx="1086" cy="164" rx="13" ry="9" transform="rotate(-16 1086 164)"/>
+    <ellipse cx="1122" cy="148" rx="13" ry="9" transform="rotate(-16 1122 148)"/>
+  </g>
+</svg>

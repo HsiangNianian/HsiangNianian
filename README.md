@@ -1,152 +1,65 @@
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="center" width="70%">
-  
-**Artificial Intelligence** 
+<img src="assets/banner-light.svg#gh-light-mode-only" width="100%" alt="简律纯 · HsiangNianian">
+<img src="assets/banner-dark.svg#gh-dark-mode-only" width="100%" alt="简律纯 · HsiangNianian">
 
-There’s going to be something more academic and something that fascinates me. 
-I have always had an absurd idea-composing music in a programming language and programming in a music language([~~Maybe we can really try for it~~](https://github.com/AICMUniversity/aria)).
+**简律纯 (HsiangNianian)** — game developer and CS student, working at the seam between artificial intelligence and music theory.
 
-**Music Theories**
+> On the score, we learn the theory; but only through interacting with others do we understand the music.
 
-I like to write [some tiny songs](https://fm.jyunko.cn). I have a deep understanding of the expressiveness and emotion of music. I also have a peculiar idea, which is to compose music in a programming language and program in a music language. I think this can create a new connection between music and programming, and also allow music and programming enthusiasts to learn and communicate with each other. 
+I've always had one absurd idea — compose music in a programming language, and program in a music language. It turns out we can really try it: **[aria](https://github.com/AICMUniversity/aria)**. Beyond that I'm active in [HydroRoll-Team](https://github.com/HydroRoll-Team), and I keep up terminal agents, chatbot runtimes, game tooling, and Chinese documentation for languages I care about.
 
-**GPG Keys**  
-<i@jyunko.cn>([5DE2131FAD104AEBA3D36BDF519BB8194D892FD0](https://keys.openpgp.org/search?q=5DE2131FAD104AEBA3D36BDF519BB8194D892FD0))  
+[academic.jyunko.cn](https://academic.jyunko.cn) · [fm.jyunko.cn](https://fm.jyunko.cn) · [X / Twitter](https://twitter.com/HsiangNianian) · [mail](mailto:i@jyunko.cn) · [PGP](https://keys.openpgp.org/search?q=5DE2131FAD104AEBA3D36BDF519BB8194D892FD0)
 
-</td>
-</td><td valign="top" width="50%">
-<p align="right">
+## Research
 
-  ***
-  
-  > 人类对科技，一比零 :s
-  
-  ***
-  
-<img width="900" align="center" src="profile-3d-contrib/profile-night-rainbow.svg">
+- **aria** — a music DSL in Rust: compose in code, program in music ([AICMUniversity](https://github.com/AICMUniversity))
+- **Interval algebra** — formalizing interval relations with category theory ([notes](https://academic.jyunko.cn/2025/02/01/Interval-Algebra))
+- **Compiler front-end** — from MIDI to music-theory logic
+- **Audio synthesis** — a real-time backend, targetable to WebAssembly
+- **Game engines** — formal verification through the Rust type system
 
-  ***
-  
-  > Human Vs. AI (1:0) :s
-  
-  ***
-  
-</p>
-</td>
-</tr></table>
+## Projects
 
-<table style="border-color: transparent;" cellspacing=0 ><td valign="top" width="80%">
+- **[soon](https://github.com/HsiangNianian/soon)** — local-first terminal agent that learns your routines and predicts the next full command
+- **[iamai](https://github.com/retrofor/iamai)** — cross-platform AI agent & chatbot runtime with a Rust core and Python plugins
+- **[DropOut](https://github.com/HydroRoll-Team/DropOut)** — modern, fast Rust Minecraft launcher; a reproducible Minecraft workspace manager
+- **[GlyphWeave](https://github.com/HsiangNianian/GlyphWeave)** — infinite-canvas ASCII roguelike tilemap editor
+- **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)** — DSH Web UI plugin that auto-resumes requests interrupted by non-human causes
+- **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)** — unofficial SWI-Prolog documentation in Chinese
 
-[![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
-[![License Persona](https://lcti.hydroroll.team/badge/wtfpl.svg)](https://lcti.hydroroll.team)
-[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/hsiangnianian?lang=zh)](https://ghfind.com/u/hsiangnianian?ref=badge)
+…and more in [released projects](releases.md).
+
+## This week
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2043%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 1 hr 2 mins         ███████████░░░░░░░░░░░░░░   43.11 % 
-Python                   54 mins             █████████░░░░░░░░░░░░░░░░   37.32 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-env                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-
-🔥 Editors: 
-Neovim                   2 hrs 24 mins       █████████████████████████   99.67 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-
-💻 Operating System: 
-Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 19/08/2026 05:54:26 UTC
 <!--END_SECTION:waka-->
 
-</td>
-<td valign="top" width="25%">
-  <img src="./github-metrics.svg">
-</td>
-<table>
+## Recent releases
 
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=HsiangNianian&hide_border=true)
-  
-<tr><td valign="top" width="33%">
-  
-### Recent releases
 <!-- recent_releases starts -->
-[dsh-auto-continue v0.7.1](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.7.1) - 2026-08-19
-
-[swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) - 2026-08-18
-
-[DropOut dropout v0.2.0-rc.1](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.1) - 2026-08-04
-
-[soon v0.5.0](https://github.com/HsiangNianian/soon/releases/tag/v0.5.0) - 2026-07-30
-
-[proof-pr v0.1.1](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.1) - 2026-07-18
-
-[iamai v0.3.0](https://github.com/retrofor/iamai/releases/tag/v0.3.0) - 2026-07-15
-
-[GlyphWeave v0.1.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.1.0) - 2026-07-12
-
-[hacktyper 🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) - 2026-01-13
-
-[online-judge algohub-server v0.1.18](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.18) - 2025-03-26
-
-[GetPlayerCard v0.4.4](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.4.4) - 2025-02-18
 <!-- recent_releases ends -->
 
-_More [recent releases](https://github.com/HsiangNianian/HsiangNianian/blob/main/releases.md)_
-</td><td valign="top" width="33%">
+## Recent posts
 
-### Academic site
 <!-- blog starts -->
 <details><summary>2026-02-21 <a href="https://academic.jyunko.cn/2026/02/21/New-Album-Malkuth">New Album: Malkuth</a></summary><p>Info</p></details>
 
-<details><summary>2025-10-08 <a href="https://academic.jyunko.cn/2025/10/08/Maillard-Reaction">Maillard Reaction</a></summary><p>The Maillard reaction, a complex series of chemical reactions between amino acids and reducing sugars, is responsible for the browning and flavor development in cooked foods. This reaction typically occurs at elevated temperatures, such as during frying, baking, or roasting.</p></details>
+<details><summary>2025-10-08 <a href="https://academic.jyunko.cn/2025/10/08/Maillard-Reaction">Maillard Reaction</a></summary><p>The Maillard reaction, a complex series of chemical reactions between amino acids and reducing sugars, is responsible for the browning and flavor development i…</p></details>
 
-<details><summary>2025-02-01 <a href="https://academic.jyunko.cn/2025/02/01/Interval-Algebra">Interval Algebra: When Category Theory Reshapes Musical DNA</a></summary><p>While debugging an AI composition system at dawn, I encountered the 42nd "parallel fifth paradox": when optimizing harmonic consonance, the model persistently generated intervals forbidden by classical theory. The monitoring log revealed: ...</p></details>
+<details><summary>2025-02-01 <a href="https://academic.jyunko.cn/2025/02/01/Interval-Algebra">Interval Algebra: When Category Theory Reshapes Musical DNA</a></summary><p>While debugging an AI composition system at dawn, I encountered the 42nd "parallel fifth paradox": when optimizing harmonic consonance, the model persistently…</p></details>
 
-<details><summary>2024-05-25 <a href="https://academic.jyunko.cn/2024/05/25/Can-KAN-beat-MLPs">Can Kolmogorov–Arnold Networks (KAN) beat MLPs?</a></summary><p>Lately, it seems that the entire AI community has become about one and one thing only, LLMs. They are cool in their own way, but they are not the entire AI field. In all the LLMs and AI agent hype a paper like Kolmogorov–Arnold Networks is a breath of fresh air. This paper seems quite groundbreaking and might completely change the field. Rarely do we see papers challenging the fundamentals of AI, but this one seems to do it.</p></details>
+<details><summary>2024-05-25 <a href="https://academic.jyunko.cn/2024/05/25/Can-KAN-beat-MLPs">Can Kolmogorov–Arnold Networks (KAN) beat MLPs?</a></summary><p>Lately, it seems that the entire AI community has become about one and one thing only, LLMs. They are cool in their own way, but they are not the entire AI fie…</p></details>
 
-<details><summary>2024-01-19 <a href="https://academic.jyunko.cn/2024/01/19/Empowering-Python-Developers-A-Comprehensive-Exploration-of-Remote-Package-Imports">Empowering Python Developers: A Comprehensive Exploration of Remote Package Imports</a></summary><p>In the expansive world of Python programming, the advent of remote package imports has emerged as a transformative and influential feature. This dynamic capability not only streamlines code management but also unlocks innovative avenues for collaboration and modular development. This blog post aims to delve deep into the significance of remote package imports, unravel the underlying mechanisms, and provide in-depth examples to illustrate their practical applications.</p></details>
+<details><summary>2024-01-19 <a href="https://academic.jyunko.cn/2024/01/19/Empowering-Python-Developers-A-Comprehensive-Exploration-of-Remote-Package-Imports">Empowering Python Developers: A Comprehensive Exploration of Remote Package Imports</a></summary><p>In the expansive world of Python programming, the advent of remote package imports has emerged as a transformative and influential feature. This dynamic capabi…</p></details>
 
 <details><summary>2024-01-05 <a href="https://academic.jyunko.cn/2024/01/05/Build-An-Audio-Programming-Language">Build An Audio Programming Language</a></summary><p>aria</p></details>
 
 <details><summary>2023-12-27 <a href="https://academic.jyunko.cn/2023/12/27/Build-A-Script-Language">Build A Script Language</a></summary><p>Poly-paradigm Scripting Interface</p></details>
 <!-- blog ends -->
 
-_More on [academic.jyunko.cn](https://academic.jyunko.cn/)_
-</td>
-</table>
+## Contact
 
-<p align="right">Welcome to <a href="https://twitter.com/HsiangNianian">follow @HsiangNianian on Twitter<a></p>
+PGP [`5DE2131F AD104AEB A3D36BDF 519BB819 4D892FD0`](https://keys.openpgp.org/search?q=5DE2131FAD104AEBA3D36BDF519BB8194D892FD0) · mail `i@jyunko.cn`
+
+> 人类对科技，一比零
+
+_Assembled automatically — [build_readme.py](build_readme.py) plus GitHub Actions keep the releases and posts fresh._

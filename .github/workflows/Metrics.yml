@@ -1,9 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 */1 * * *"}]
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["main"]}
+  # The README no longer embeds github-metrics.svg; regenerate by hand only.
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest

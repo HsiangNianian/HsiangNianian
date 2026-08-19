@@ -4,19 +4,20 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 */1 * * *"
+    # daily, 02:30 UTC+8
+    - cron: "30 18 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - name: Check out repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
-        python-version: "3.10"
-    - uses: actions/cache@v3
+        python-version: "3.11"
+    - uses: actions/cache@v4
       name: Configure pip caching
       with:
         path: ~/.cache/pip
@@ -29,14 +30,15 @@ jobs:
     - name: Update README
       env:
         TOKEN: ${{ secrets.TOKEN }}
-      run: |-
-        python build_readme.py
-        cat README.md
+      run: python build_readme.py
     - name: Commit and push if changed
-      run: |-
-        git diff
-        git config --global user.email "actions@users.noreply.github.com"
-        git config --global user.name "README-bot"
+      run: |
+        git config user.email "actions@users.noreply.github.com"
+        git config user.name "README-bot"
         git add -A
-        git commit -m "Updated content" || exit 0
-        git push
+        if git diff --cached --quiet; then
+          echo "No changes"
+        else
+          git commit -m "Updated content"
+          git push
+        fi
