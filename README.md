@@ -64,6 +64,16 @@ No AI Coding Activity Tracked This Week
 ## Recent releases
 
 <!-- recent_releases starts -->
+- [dsh-auto-continue v0.7.1](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.7.1) · 2026-08-19
+- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-08-18
+- [DropOut dropout v0.2.0-rc.1](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.1) · 2026-08-04
+- [soon v0.5.0](https://github.com/HsiangNianian/soon/releases/tag/v0.5.0) · 2026-07-30
+- [proof-pr v0.1.1](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.1) · 2026-07-18
+- [iamai v0.3.0](https://github.com/retrofor/iamai/releases/tag/v0.3.0) · 2026-07-15
+- [GlyphWeave v0.1.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.1.0) · 2026-07-12
+- [hacktyper 🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) · 2026-01-13
+- [online-judge algohub-server v0.1.18](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.18) · 2025-03-26
+- [GetPlayerCard v0.4.4](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.4.4) · 2025-02-18
 <!-- recent_releases ends -->
 
 ## Recent posts

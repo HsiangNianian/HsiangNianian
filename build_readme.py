@@ -1,17 +1,18 @@
-import json
 import os
 import pathlib
 import re
+import time
+import urllib.request
 
 import feedparser
 import httpx
-from python_graphql_client import GraphqlClient
 
 root = pathlib.Path(__file__).parent.resolve()
-client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
 TOKEN = os.environ.get("TOKEN", "")
+
+_http = httpx.Client(timeout=30)  # shared client: reuses connections
 
 
 def replace_chunk(content, marker, chunk, inline=False):
@@ -24,123 +25,93 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
-organization_graphql = """
-  organization(login: "retrofor") {
-    repositories(first: 100, privacy: PUBLIC) {
-      pageInfo {
-        hasNextPage
-        endCursor
-      }
-      nodes {
-        name
-        description
-        url
-        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 1) {
-          totalCount
-          nodes {
-            name
-            publishedAt
-            url
-          }
-        }
-      }
+def gh_get(path, token, params=None):
+    """One authenticated REST call with retry-on-throttle; raises on final failure."""
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28",
     }
-  }
-"""
+    url = f"https://api.github.com{path}"
+    for attempt in range(4):
+        try:
+            r = _http.get(url, headers=headers, params=params)
+        except httpx.HTTPError as exc:
+            print(f"  retry {attempt + 1} for {path}: {exc}")
+            time.sleep(1.5 * (attempt + 1))
+            continue
+        if r.status_code < 500 and r.status_code not in (401, 403, 429):
+            return r
+        time.sleep(1.5 * (attempt + 1))
+    r.raise_for_status()
+    return r
 
 
-def make_query(after_cursor=None, include_organization=False):
-    return (
-        """
-query {
-  ORGANIZATION
-  viewer {
-    repositories(first: 100, privacy: PUBLIC, after: AFTER) {
-      pageInfo {
-        hasNextPage
-        endCursor
-      }
-      nodes {
-        name
-        description
-        url
-        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 1) {
-          totalCount
-          nodes {
-            name
-            publishedAt
-            url
-          }
-        }
-      }
-    }
-  }
-}
-""".replace(
-            "AFTER", f'"{after_cursor}"' if after_cursor else "null"
-        )
-    ).replace("ORGANIZATION", organization_graphql if include_organization else "")
+def parse_feed(url):
+    """feedparser without a timeout can hang forever on dead hosts."""
+    with urllib.request.urlopen(url, timeout=20) as f:
+        return feedparser.parse(f.read())
 
 
 def fetch_releases(oauth_token):
-    repos = []
-    releases = []
+    """Latest release per repository, via the REST API.
+
+    GraphQL is deliberately avoided: fine-grained PATs cannot talk to it,
+    which is exactly how this section silently died for a long time.
+    """
     repo_names = {"playing-with-actions"}  # Skip this one
-    has_next_page = True
-    after_cursor = None
+    repos = []
 
-    first = True
+    def collect_repos(path):
+        page = 1
+        while True:
+            nodes = gh_get(path, oauth_token, {"per_page": 100, "page": page}).json()
+            if not nodes:
+                return
+            for repo in nodes:
+                if repo["name"] not in repo_names:
+                    repo_names.add(repo["name"])
+                    repos.append(repo)
+            page += 1
 
-    while has_next_page:
-        data = client.execute(
-            query=make_query(after_cursor, include_organization=first),
-            headers={"Authorization": f"Bearer {oauth_token}"},
-        )
-        first = False
-        print()
-        print(json.dumps(data, indent=4))
-        print()
-        repo_nodes = data["data"]["viewer"]["repositories"]["nodes"]
-        if "organization" in data["data"]:
-            repo_nodes += data["data"]["organization"]["repositories"]["nodes"]
-        for repo in repo_nodes:
-            if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
-                repos.append(repo)
-                repo_names.add(repo["name"])
-                try:
-                    releases.append(
-                        {
-                            "repo": repo["name"],
-                            "repo_url": repo["url"],
-                            "description": repo["description"],
-                            "release": repo["releases"]["nodes"][0]["name"]
-                            .replace(repo["name"], "")
-                            .strip(),
-                            "published_at": repo["releases"]["nodes"][0]["publishedAt"],
-                            "published_day": repo["releases"]["nodes"][0][
-                                "publishedAt"
-                            ].split("T")[0],
-                            "url": repo["releases"]["nodes"][0]["url"],
-                            "total_releases": repo["releases"]["totalCount"],
-                        }
-                    )
-                except:
-                    releases.append(
-                        {
-                            "repo": repo["name"],
-                            "repo_url": repo["url"],
-                            "description": repo["description"],
-                            "release": repo["releases"]["nodes"][0]["name"]
-                            .replace(repo["name"], "")
-                            .strip(),
-                            "published_at": "Near Future",
-                            "published_day": "Near Future",
-                            "url": repo["releases"]["nodes"][0]["url"],
-                            "total_releases": repo["releases"]["totalCount"],
-                        }
-                    )
-        after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
-        has_next_page = after_cursor
+    try:
+        me = gh_get("/user", oauth_token).json()
+    except Exception as exc:
+        raise RuntimeError(
+            f"token rejected by GitHub ({exc}) — check the TOKEN secret"
+        ) from exc
+    collect_repos(f"/users/{me['login']}/repos")
+    collect_repos("/orgs/retrofor/repos")
+
+    releases = []
+    for repo in repos:
+        try:
+            r = gh_get(f"/repos/{repo['full_name']}/releases", {"per_page": 1})
+            nodes = r.json()
+            if not nodes:
+                continue
+            rel = nodes[0]
+            total = 1
+            m = re.search(r'[?&]page=(\d+)>;\s*rel="last"', r.headers.get("Link", ""))
+            if m:
+                total = int(m.group(1))
+            published = rel.get("published_at") or rel.get("created_at")
+            releases.append(
+                {
+                    "repo": repo["name"],
+                    "repo_url": repo["html_url"],
+                    "description": repo.get("description"),
+                    "release": (rel.get("name") or rel.get("tag_name") or "")
+                    .replace(repo["name"], "")
+                    .strip(),
+                    "published_at": published or "Near Future",
+                    "published_day": published.split("T")[0] if published else "Near Future",
+                    "url": rel["html_url"],
+                    "total_releases": total,
+                }
+            )
+        except Exception as exc:
+            print(f"  release fetch failed for {repo['full_name']}: {exc}")
     return releases
 
 
@@ -156,7 +127,7 @@ def fetch_releases(oauth_token):
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://academic.jyunko.cn/feed.xml")["entries"]
+    entries = parse_feed("https://academic.jyunko.cn/feed.xml")["entries"]
     return [
         {
             "title": entry["title"],
@@ -169,7 +140,7 @@ def fetch_blog_entries():
 
 
 def fetch_fm_entries():
-    entries = feedparser.parse("https://fm.jyunko.cn/feed.xml")["entries"]
+    entries = parse_feed("https://fm.jyunko.cn/feed.xml")["entries"]
     return [
         {
             "title": entry["title"],
@@ -182,7 +153,7 @@ def fetch_fm_entries():
 
 
 def fetch_diary_entries():
-    entries = feedparser.parse("https://diary.jyunko.cn/feed.xml")["entries"]
+    entries = parse_feed("https://diary.jyunko.cn/feed.xml")["entries"]
     return [
         {
             "title": entry["title"],
