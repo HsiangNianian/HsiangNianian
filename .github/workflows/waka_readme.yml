@@ -33,3 +33,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           LOCALE: "en"
+          SHOW_AI_CODE_TIME: "False"
