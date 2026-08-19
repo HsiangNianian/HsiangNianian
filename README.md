@@ -1,6 +1,4 @@
-# 简律纯 · HsiangNianian
-
-Game developer and CS student, working at the seam between artificial intelligence and music theory.
+Game developer and FDE, working at the seam between artificial intelligence and music theory.
 
 [![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
 [![GitHub](https://img.shields.io/badge/-HsiangNianian-57606a?style=flat-square&logo=github&logoColor=white)](https://github.com/HsiangNianian)
