@@ -5,7 +5,8 @@ on:
     # daily, 02:00 UTC+8
     - cron: '0 18 * * *'
   workflow_dispatch:
-  push:
+  # No push trigger: the action commits with a PAT, and PAT commits re-trigger
+  # push workflows — that combination caused an infinite run loop.
 
 jobs:
   update-readme:
