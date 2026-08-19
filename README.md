@@ -1,13 +1,17 @@
-<img src="assets/banner-light.svg#gh-light-mode-only" width="100%" alt="简律纯 · HsiangNianian">
-<img src="assets/banner-dark.svg#gh-dark-mode-only" width="100%" alt="简律纯 · HsiangNianian">
+# 简律纯 · HsiangNianian
 
-**简律纯 (HsiangNianian)** — game developer and CS student, working at the seam between artificial intelligence and music theory.
+Game developer and CS student, working at the seam between artificial intelligence and music theory.
+
+[![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
+[![GitHub](https://img.shields.io/badge/-HsiangNianian-57606a?style=flat-square&logo=github&logoColor=white)](https://github.com/HsiangNianian)
+[![X / Twitter](https://img.shields.io/badge/-@HsiangNianian-57606a?style=flat-square&logo=x&logoColor=white)](https://twitter.com/HsiangNianian)
+[![Academic](https://img.shields.io/badge/-academic.jyunko.cn-57606a?style=flat-square&logo=googlescholar&logoColor=white)](https://academic.jyunko.cn)
+[![FM](https://img.shields.io/badge/-fm.jyunko.cn-57606a?style=flat-square&logo=applemusic&logoColor=white)](https://fm.jyunko.cn)
+[![aria](https://img.shields.io/badge/-aria-57606a?style=flat-square&logo=rust&logoColor=white)](https://github.com/AICMUniversity/aria)
 
 > On the score, we learn the theory; but only through interacting with others do we understand the music.
 
 I've always had one absurd idea — compose music in a programming language, and program in a music language. It turns out we can really try it: **[aria](https://github.com/AICMUniversity/aria)**. Beyond that I'm active in [HydroRoll-Team](https://github.com/HydroRoll-Team), and I keep up terminal agents, chatbot runtimes, game tooling, and Chinese documentation for languages I care about.
-
-[academic.jyunko.cn](https://academic.jyunko.cn) · [fm.jyunko.cn](https://fm.jyunko.cn) · [X / Twitter](https://twitter.com/HsiangNianian) · [mail](mailto:i@jyunko.cn) · [PGP](https://keys.openpgp.org/search?q=5DE2131FAD104AEBA3D36BDF519BB8194D892FD0)
 
 ## Research
 
