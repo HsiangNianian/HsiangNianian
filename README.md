@@ -62,13 +62,13 @@ No AI Coding Activity Tracked This Week
 ## Recent releases
 
 <!-- recent_releases starts -->
-- [dsh-auto-continue v0.7.1](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.7.1) · 2026-08-19
-- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-08-18
+- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-08-27
+- [GlyphWeave v0.2.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.2.0) · 2026-08-27
+- [dsh-auto-continue v0.8.1](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.8.1) · 2026-08-21
 - [DropOut dropout v0.2.0-rc.1](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.1) · 2026-08-04
 - [soon v0.5.0](https://github.com/HsiangNianian/soon/releases/tag/v0.5.0) · 2026-07-30
 - [proof-pr v0.1.1](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.1) · 2026-07-18
 - [iamai v0.3.0](https://github.com/retrofor/iamai/releases/tag/v0.3.0) · 2026-07-15
-- [GlyphWeave v0.1.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.1.0) · 2026-07-12
 - [hacktyper 🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) · 2026-01-13
 - [online-judge algohub-server v0.1.18](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.18) · 2025-03-26
 - [GetPlayerCard v0.4.4](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.4.4) · 2025-02-18
@@ -77,19 +77,19 @@ No AI Coding Activity Tracked This Week
 ## Recent posts
 
 <!-- blog starts -->
-<details><summary>2026-02-21 <a href="https://academic.jyunko.cn/2026/02/21/New-Album-Malkuth">New Album: Malkuth</a></summary><p>Info</p></details>
+<details><summary>2026-02-21 <a href="https://academic.jyunko.cn/2026/02/21/New-Album-Malkuth.html">New Album: Malkuth</a></summary><p>Info</p></details>
 
-<details><summary>2025-10-08 <a href="https://academic.jyunko.cn/2025/10/08/Maillard-Reaction">Maillard Reaction</a></summary><p>The Maillard reaction, a complex series of chemical reactions between amino acids and reducing sugars, is responsible for the browning and flavor development i…</p></details>
+<details><summary>2025-10-08 <a href="https://academic.jyunko.cn/2025/10/08/Maillard-Reaction.html">Maillard Reaction</a></summary><p>The Maillard reaction, a complex series of chemical reactions between amino acids and reducing sugars, is responsible for the browning and flavor development i…</p></details>
 
-<details><summary>2025-02-01 <a href="https://academic.jyunko.cn/2025/02/01/Interval-Algebra">Interval Algebra: When Category Theory Reshapes Musical DNA</a></summary><p>While debugging an AI composition system at dawn, I encountered the 42nd "parallel fifth paradox": when optimizing harmonic consonance, the model persistently…</p></details>
+<details><summary>2025-02-01 <a href="https://academic.jyunko.cn/2025/02/01/Interval-Algebra.html">Interval Algebra: When Category Theory Reshapes Musical DNA</a></summary><p>While debugging an AI composition system at dawn, I encountered the 42nd "parallel fifth paradox": when optimizing harmonic consonance, the model persistently…</p></details>
 
-<details><summary>2024-05-25 <a href="https://academic.jyunko.cn/2024/05/25/Can-KAN-beat-MLPs">Can Kolmogorov–Arnold Networks (KAN) beat MLPs?</a></summary><p>Lately, it seems that the entire AI community has become about one and one thing only, LLMs. They are cool in their own way, but they are not the entire AI fie…</p></details>
+<details><summary>2024-05-25 <a href="https://academic.jyunko.cn/2024/05/25/Can-KAN-beat-MLPs.html">Can Kolmogorov–Arnold Networks (KAN) beat MLPs?</a></summary><p>Lately, it seems that the entire AI community has become about one and one thing only, LLMs. They are cool in their own way, but they are not the entire AI fie…</p></details>
 
-<details><summary>2024-01-19 <a href="https://academic.jyunko.cn/2024/01/19/Empowering-Python-Developers-A-Comprehensive-Exploration-of-Remote-Package-Imports">Empowering Python Developers: A Comprehensive Exploration of Remote Package Imports</a></summary><p>In the expansive world of Python programming, the advent of remote package imports has emerged as a transformative and influential feature. This dynamic capabi…</p></details>
+<details><summary>2024-01-19 <a href="https://academic.jyunko.cn/2024/01/19/Empowering-Python-Developers-A-Comprehensive-Exploration-of-Remote-Package-Imports.html">Empowering Python Developers: A Comprehensive Exploration of Remote Package Imports</a></summary><p>In the expansive world of Python programming, the advent of remote package imports has emerged as a transformative and influential feature. This dynamic capabi…</p></details>
 
-<details><summary>2024-01-05 <a href="https://academic.jyunko.cn/2024/01/05/Build-An-Audio-Programming-Language">Build An Audio Programming Language</a></summary><p>aria</p></details>
+<details><summary>2024-01-05 <a href="https://academic.jyunko.cn/2024/01/05/Build-An-Audio-Programming-Language.html">Build An Audio Programming Language</a></summary><p>aria</p></details>
 
-<details><summary>2023-12-27 <a href="https://academic.jyunko.cn/2023/12/27/Build-A-Script-Language">Build A Script Language</a></summary><p>Poly-paradigm Scripting Interface</p></details>
+<details><summary>2023-12-27 <a href="https://academic.jyunko.cn/2023/12/27/Build-A-Script-Language.html">Build A Script Language</a></summary><p>Poly-paradigm Scripting Interface</p></details>
 <!-- blog ends -->
 
 ## Contact

@@ -37,14 +37,20 @@ def gh_get(path, token, params=None):
         try:
             r = _http.get(url, headers=headers, params=params)
         except httpx.HTTPError as exc:
+            if attempt == 3:
+                raise
             print(f"  retry {attempt + 1} for {path}: {exc}")
             time.sleep(1.5 * (attempt + 1))
             continue
-        if r.status_code < 500 and r.status_code not in (401, 403, 429):
+        if r.is_success:
             return r
+        if r.status_code < 500 and r.status_code not in (403, 429):
+            r.raise_for_status()
+        if attempt == 3:
+            r.raise_for_status()
         time.sleep(1.5 * (attempt + 1))
-    r.raise_for_status()
-    return r
+
+    raise RuntimeError(f"GitHub request retry loop exhausted for {path}")
 
 
 def parse_feed(url):
@@ -59,34 +65,49 @@ def fetch_releases(oauth_token):
     GraphQL is deliberately avoided: fine-grained PATs cannot talk to it,
     which is exactly how this section silently died for a long time.
     """
-    repo_names = {"playing-with-actions"}  # Skip this one
+    skipped_repo_names = {"playing-with-actions"}
+    seen_repos = set()
     repos = []
 
-    def collect_repos(path):
+    def collect_repos(path, extra_params=None):
         page = 1
         while True:
-            nodes = gh_get(path, oauth_token, {"per_page": 100, "page": page}).json()
+            params = {"per_page": 100, "page": page, **(extra_params or {})}
+            nodes = gh_get(path, oauth_token, params).json()
             if not nodes:
                 return
             for repo in nodes:
-                if repo["name"] not in repo_names:
-                    repo_names.add(repo["name"])
+                if (
+                    repo["name"] not in skipped_repo_names
+                    and repo["full_name"] not in seen_repos
+                ):
+                    seen_repos.add(repo["full_name"])
                     repos.append(repo)
             page += 1
 
     try:
-        me = gh_get("/user", oauth_token).json()
+        collect_repos(
+            "/user/repos",
+            {
+                "visibility": "public",
+                "affiliation": "owner,collaborator",
+            },
+        )
     except Exception as exc:
         raise RuntimeError(
-            f"token rejected by GitHub ({exc}) — check the TOKEN secret"
+            f"unable to list repositories ({exc}) — check the TOKEN secret"
         ) from exc
-    collect_repos(f"/users/{me['login']}/repos")
     collect_repos("/orgs/retrofor/repos")
 
     releases = []
+    failed_repos = []
     for repo in repos:
         try:
-            r = gh_get(f"/repos/{repo['full_name']}/releases", {"per_page": 1})
+            r = gh_get(
+                f"/repos/{repo['full_name']}/releases",
+                oauth_token,
+                {"per_page": 1},
+            )
             nodes = r.json()
             if not nodes:
                 continue
@@ -100,7 +121,7 @@ def fetch_releases(oauth_token):
                 {
                     "repo": repo["name"],
                     "repo_url": repo["html_url"],
-                    "description": repo.get("description"),
+                    "description": (repo.get("description") or "").strip(),
                     "release": (rel.get("name") or rel.get("tag_name") or "")
                     .replace(repo["name"], "")
                     .strip(),
@@ -112,6 +133,13 @@ def fetch_releases(oauth_token):
             )
         except Exception as exc:
             print(f"  release fetch failed for {repo['full_name']}: {exc}")
+            failed_repos.append(repo["full_name"])
+
+    if failed_repos:
+        raise RuntimeError(
+            f"{len(failed_repos)} release requests failed: "
+            + ", ".join(failed_repos[:5])
+        )
     return releases
 
 
@@ -131,7 +159,7 @@ def fetch_blog_entries():
     return [
         {
             "title": entry["title"],
-            "url": entry["id"],
+            "url": entry.get("link") or entry["id"],
             "published": entry["published"].split("T")[0],
             "summary": entry["summary"],
         }
@@ -180,11 +208,7 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
     rewritten = readme_contents
 
-    try:
-        releases = fetch_releases(TOKEN)
-    except Exception as exc:  # bad token / API down -> keep previous content
-        print("release fetch failed:", exc)
-        releases = []
+    releases = fetch_releases(TOKEN)
 
     if releases:
         releases.sort(key=lambda r: r["published_at"], reverse=True)
@@ -257,33 +281,34 @@ if __name__ == "__main__":
         rewritten = replace_chunk(rewritten, "blog", entries_md)
     except Exception as exc:
         print("blog fetch failed:", exc)
-    # fm (README currently has no fm markers; kept safe for future use)
-    try:
-        fm_entries = fetch_fm_entries()[:6]
-        fm_entries_md = "\n\n".join(
-            [
-                '<details><summary>{published} {categlory}</summary><li><a href="{url}">{title}</a></li></details>'.format(
-                    **entry
-                )
-                for entry in fm_entries
-            ]
-        )
-        rewritten = replace_chunk(rewritten, "fm", fm_entries_md)
-    except Exception as exc:
-        print("fm fetch failed:", exc)
-    # diary (README currently has no diary markers; kept safe for future use)
-    try:
-        diary_entries = fetch_diary_entries()[:5]
-        diary_entries_md = "\n\n".join(
-            [
-                '<details><summary>{published}</summary><li><a href="{url}">{title}</a></li></details>'.format(
-                    **entry
-                )
-                for entry in diary_entries
-            ]
-        )
-        rewritten = replace_chunk(rewritten, "diary", diary_entries_md)
-    except Exception as exc:
-        print("diary fetch failed:", exc)
+    # Only fetch optional feeds when their output markers are present.
+    if "<!-- fm starts -->" in rewritten:
+        try:
+            fm_entries = fetch_fm_entries()[:6]
+            fm_entries_md = "\n\n".join(
+                [
+                    '<details><summary>{published} {categlory}</summary><li><a href="{url}">{title}</a></li></details>'.format(
+                        **entry
+                    )
+                    for entry in fm_entries
+                ]
+            )
+            rewritten = replace_chunk(rewritten, "fm", fm_entries_md)
+        except Exception as exc:
+            print("fm fetch failed:", exc)
+    if "<!-- diary starts -->" in rewritten:
+        try:
+            diary_entries = fetch_diary_entries()[:5]
+            diary_entries_md = "\n\n".join(
+                [
+                    '<details><summary>{published}</summary><li><a href="{url}">{title}</a></li></details>'.format(
+                        **entry
+                    )
+                    for entry in diary_entries
+                ]
+            )
+            rewritten = replace_chunk(rewritten, "diary", diary_entries_md)
+        except Exception as exc:
+            print("diary fetch failed:", exc)
 
     readme.open("w").write(rewritten)

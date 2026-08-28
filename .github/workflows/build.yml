@@ -27,6 +27,8 @@ jobs:
     - name: Install Python dependencies
       run: |
         python -m pip install -r requirements.txt
+    - name: Test README generator
+      run: python -m unittest -v test_build_readme.py
     - name: Update README
       env:
         # The old TOKEN secret (2023) is dead; GH_TOKEN (2026-06) is fresh.
