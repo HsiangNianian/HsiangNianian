@@ -3,7 +3,7 @@
 Listing <!-- releases_count starts -->304<!-- releases_count ends --> releases across <!-- project_count starts -->30<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-08-27
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-08-28
 <br />Unofficial swi-prolog docs for Chinese
 * **[GlyphWeave](https://github.com/HsiangNianian/GlyphWeave)**: [v0.2.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.2.0) - ([2 releases total](https://github.com/HsiangNianian/GlyphWeave/releases))  - 2026-08-27
 <br />Infinite-canvas ASCII roguelike tilemap editor. Paint dungeons, weave glyphs. Multi-layer editing, preset rooms, dual themes, minimap, render API.
