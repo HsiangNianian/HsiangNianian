@@ -35,18 +35,18 @@ I've always had one absurd idea — compose music in a programming language, and
 
 ```text
 💬 Programming Languages: 
-TypeScript               47 mins             ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-Markdown                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-Python                   34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Python                   41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+Markdown                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+TypeScript               32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Lua                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 52 mins       █████████████████████████   99.04 % 
-Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Neovim                   2 hrs 47 mins       █████████████████████████   99.01 % 
+Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 💻 Operating System: 
-Mac                      2 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -56,7 +56,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/08/2026 02:03:39 UTC
+ Last Updated on 29/08/2026 01:29:49 UTC
 <!--END_SECTION:waka-->
 
 ## Recent releases
