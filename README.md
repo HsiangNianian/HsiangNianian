@@ -38,13 +38,13 @@ I've always had one absurd idea — compose music in a programming language, and
 ## Recent releases
 
 <!-- recent_releases starts -->
+- [dsh-auto-continue v0.8.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.8.2) · 2026-08-29
+- [iamai v1.0.0](https://github.com/retrofor/iamai/releases/tag/v1.0.0) · 2026-08-29
 - [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-08-28
 - [GlyphWeave v0.2.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.2.0) · 2026-08-27
-- [dsh-auto-continue v0.8.1](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.8.1) · 2026-08-21
 - [DropOut dropout v0.2.0-rc.1](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.1) · 2026-08-04
 - [soon v0.5.0](https://github.com/HsiangNianian/soon/releases/tag/v0.5.0) · 2026-07-30
 - [proof-pr v0.1.1](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.1) · 2026-07-18
-- [iamai v0.3.0](https://github.com/retrofor/iamai/releases/tag/v0.3.0) · 2026-07-15
 - [hacktyper 🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) · 2026-01-13
 - [online-judge algohub-server v0.1.18](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.18) · 2025-03-26
 - [GetPlayerCard v0.4.4](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.4.4) · 2025-02-18
