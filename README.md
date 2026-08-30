@@ -31,8 +31,32 @@ I've always had one absurd idea — compose music in a programming language, and
 ## This week
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 29/08/2026 20:26:58 UTC
+```text
+💬 Programming Languages: 
+Python                   1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   37.57 % 
+Lua                      49 mins             ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+Markdown                 40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+
+🔥 Editors: 
+Neovim                   3 hrs 39 mins       █████████████████████████   99.19 % 
+Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+
+💻 Operating System: 
+Mac                      3 hrs 40 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 30/08/2026 20:36:12 UTC
 <!--END_SECTION:waka-->
 
 ## Recent releases
