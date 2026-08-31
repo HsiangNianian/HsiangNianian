@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->306<!-- releases_count ends --> releases across <!-- project_count starts -->30<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->308<!-- releases_count ends --> releases across <!-- project_count starts -->30<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.8.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.8.2) - ([32 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-08-29
-<br />DSH Web UI plugin: auto-sends 「继续」 to resume requests interrupted by non-human causes — error classification, adaptive backoff, pause, idempotency guard, loop guard, templated resume texts, stats, all configurable from the settings card
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-08-31
+<br />Unofficial swi-prolog docs for Chinese
+* **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.10.0](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.10.0) - ([34 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-08-31
+<br />DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
 * **[iamai](https://github.com/retrofor/iamai)**: [v1.0.0](https://github.com/retrofor/iamai/releases/tag/v1.0.0) - ([26 releases total](https://github.com/retrofor/iamai/releases))  - 2026-08-29
 <br />Cross-platform AI agent and chatbot runtime with a Rust core, Python plugins, and normalized adapters.
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-08-28
-<br />Unofficial swi-prolog docs for Chinese
 * **[GlyphWeave](https://github.com/HsiangNianian/GlyphWeave)**: [v0.2.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.2.0) - ([2 releases total](https://github.com/HsiangNianian/GlyphWeave/releases))  - 2026-08-27
 <br />Infinite-canvas ASCII roguelike tilemap editor. Paint dungeons, weave glyphs. Multi-layer editing, preset rooms, dual themes, minimap, render API.
 * **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [dropout v0.2.0-rc.1](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.1) - ([55 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-08-04
