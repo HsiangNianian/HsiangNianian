@@ -38,9 +38,9 @@ I've always had one absurd idea — compose music in a programming language, and
 ## Recent releases
 
 <!-- recent_releases starts -->
-- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-09-08
+- [dsh-auto-continue v0.11.5](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.11.5) · 2026-09-09
+- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-09-09
 - [DropOut dropout v0.2.0-rc.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.2) · 2026-09-07
-- [dsh-auto-continue v0.11.4](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.11.4) · 2026-09-04
 - [iamai v1.0.0](https://github.com/retrofor/iamai/releases/tag/v1.0.0) · 2026-08-29
 - [GlyphWeave v0.2.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.2.0) · 2026-08-27
 - [soon v0.5.0](https://github.com/HsiangNianian/soon/releases/tag/v0.5.0) · 2026-07-30
@@ -59,13 +59,13 @@ I've always had one absurd idea — compose music in a programming language, and
 
 <details><summary>2025-02-01 <a href="https://academic.jyunko.cn/2025/02/01/Interval-Algebra.html">Interval Algebra: When Category Theory Reshapes Musical DNA</a></summary><p>While debugging an AI composition system at dawn, I encountered the 42nd "parallel fifth paradox": when optimizing harmonic consonance, the model persistently…</p></details>
 
+<details><summary>2024-08-20 <a href="https://academic.jyunko.cn/2024/08/20/820.html">820</a></summary><p>水系820溯源原文</p></details>
+
 <details><summary>2024-05-25 <a href="https://academic.jyunko.cn/2024/05/25/Can-KAN-beat-MLPs.html">Can Kolmogorov–Arnold Networks (KAN) beat MLPs?</a></summary><p>Lately, it seems that the entire AI community has become about one and one thing only, LLMs. They are cool in their own way, but they are not the entire AI fie…</p></details>
 
 <details><summary>2024-01-19 <a href="https://academic.jyunko.cn/2024/01/19/Empowering-Python-Developers-A-Comprehensive-Exploration-of-Remote-Package-Imports.html">Empowering Python Developers: A Comprehensive Exploration of Remote Package Imports</a></summary><p>In the expansive world of Python programming, the advent of remote package imports has emerged as a transformative and influential feature. This dynamic capabi…</p></details>
 
 <details><summary>2024-01-05 <a href="https://academic.jyunko.cn/2024/01/05/Build-An-Audio-Programming-Language.html">Build An Audio Programming Language</a></summary><p>aria</p></details>
-
-<details><summary>2023-12-27 <a href="https://academic.jyunko.cn/2023/12/27/Build-A-Script-Language.html">Build A Script Language</a></summary><p>Poly-paradigm Scripting Interface</p></details>
 <!-- blog ends -->
 
 ## Contact
