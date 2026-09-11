@@ -1,9 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->317<!-- releases_count ends --> releases across <!-- project_count starts -->30<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->318<!-- releases_count ends --> releases across <!-- project_count starts -->31<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-09-10
+* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.1.1](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.1.1)  - 2026-09-11
+<br />
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-09-11
 <br />Unofficial swi-prolog docs for Chinese
 * **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.11.5](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.11.5) - ([42 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-09-09
 <br />DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置

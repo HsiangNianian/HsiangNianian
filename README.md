@@ -61,7 +61,8 @@ No AI Coding Activity Tracked This Week
 ## Recent releases
 
 <!-- recent_releases starts -->
-- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-09-10
+- [IntelligentMixVideo v0.1.1](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.1.1) · 2026-09-11
+- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-09-11
 - [dsh-auto-continue v0.11.5](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.11.5) · 2026-09-09
 - [DropOut dropout v0.2.0-rc.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.2) · 2026-09-07
 - [iamai v1.0.0](https://github.com/retrofor/iamai/releases/tag/v1.0.0) · 2026-08-29
@@ -70,7 +71,6 @@ No AI Coding Activity Tracked This Week
 - [proof-pr v0.1.1](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.1) · 2026-07-18
 - [hacktyper 🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) · 2026-01-13
 - [online-judge algohub-server v0.1.18](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.18) · 2025-03-26
-- [GetPlayerCard v0.4.4](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.4.4) · 2025-02-18
 <!-- recent_releases ends -->
 
 ## Recent posts
