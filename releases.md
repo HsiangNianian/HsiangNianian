@@ -1,14 +1,14 @@
 # Released projects
 
-Listing <!-- releases_count starts -->321<!-- releases_count ends --> releases across <!-- project_count starts -->31<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->323<!-- releases_count ends --> releases across <!-- project_count starts -->31<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-09-14
+<br />Unofficial swi-prolog docs for Chinese
+* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.3.2](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.3.2) - ([5 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-09-14
+<br />
 * **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.11.6](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.11.6) - ([43 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-09-12
 <br />DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
-* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.3.0](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.3.0) - ([3 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-09-12
-<br />
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-09-11
-<br />Unofficial swi-prolog docs for Chinese
 * **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [dropout v0.2.0-rc.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.2) - ([56 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-09-07
 <br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Rust. Aims to be a Reproducible Minecraft Workspace Manager.
 * **[iamai](https://github.com/retrofor/iamai)**: [v1.0.0](https://github.com/retrofor/iamai/releases/tag/v1.0.0) - ([26 releases total](https://github.com/retrofor/iamai/releases))  - 2026-08-29
