@@ -3,7 +3,7 @@
 Listing <!-- releases_count starts -->324<!-- releases_count ends --> releases across <!-- project_count starts -->31<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-09-16
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-09-17
 <br />Unofficial swi-prolog docs for Chinese
 * **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.4.0](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.4.0) - ([6 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-09-15
 <br />
