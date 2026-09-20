@@ -60,9 +60,9 @@ No AI Coding Activity Tracked This Week
 ## Recent releases
 
 <!-- recent_releases starts -->
+- [dsh-auto-continue v0.11.7](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.11.7) · 2026-09-20
 - [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-09-18
 - [IntelligentMixVideo v0.4.1](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.4.1) · 2026-09-18
-- [dsh-auto-continue v0.11.6](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.11.6) · 2026-09-12
 - [DropOut dropout v0.2.0-rc.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.2) · 2026-09-07
 - [iamai v1.0.0](https://github.com/retrofor/iamai/releases/tag/v1.0.0) · 2026-08-29
 - [GlyphWeave v0.2.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.2.0) · 2026-08-27

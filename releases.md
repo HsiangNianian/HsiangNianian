@@ -1,20 +1,20 @@
 # Released projects
 
-Listing <!-- releases_count starts -->325<!-- releases_count ends --> releases across <!-- project_count starts -->31<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->326<!-- releases_count ends --> releases across <!-- project_count starts -->31<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.11.7](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.11.7) - ([44 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-09-20
+<br />DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-09-18
 <br />Unofficial swi-prolog docs for Chinese
 * **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.4.1](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.4.1) - ([7 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-09-18
 <br />
-* **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.11.6](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.11.6) - ([43 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-09-12
-<br />DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
 * **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [dropout v0.2.0-rc.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.2) - ([56 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-09-07
 <br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Rust. Aims to be a Reproducible Minecraft Workspace Manager.
 * **[iamai](https://github.com/retrofor/iamai)**: [v1.0.0](https://github.com/retrofor/iamai/releases/tag/v1.0.0) - ([26 releases total](https://github.com/retrofor/iamai/releases))  - 2026-08-29
 <br />Cross-platform AI agent and chatbot runtime with a Rust core, Python plugins, and normalized adapters.
 * **[GlyphWeave](https://github.com/HsiangNianian/GlyphWeave)**: [v0.2.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.2.0) - ([2 releases total](https://github.com/HsiangNianian/GlyphWeave/releases))  - 2026-08-27
-<br />Infinite-canvas ASCII roguelike tilemap editor. Paint dungeons, weave glyphs. Multi-layer editing, preset rooms, dual themes, minimap, render API.
+<br />Infinite-canvas ASCII roguelike tilemap editor. Paint dungeons, weave glyphs. Multi-layer editing, preset rooms, dual themes, minimap, render API, support jev/deepseek generate map realtime.
 * **[soon](https://github.com/HsiangNianian/soon)**: [v0.5.0](https://github.com/HsiangNianian/soon/releases/tag/v0.5.0) - ([7 releases total](https://github.com/HsiangNianian/soon/releases))  - 2026-07-30
 <br />A local-first personal terminal agent that learns your routines and predicts the next full command.
 * **[proof-pr](https://github.com/HsiangNianian/proof-pr)**: [v0.1.1](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.1) - ([2 releases total](https://github.com/HsiangNianian/proof-pr/releases))  - 2026-07-18
