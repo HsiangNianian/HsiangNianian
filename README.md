@@ -35,16 +35,18 @@ I've always had one absurd idea — compose music in a programming language, and
 
 ```text
 💬 Programming Languages: 
-Bash                     16 mins             ████████████░░░░░░░░░░░░░   49.50 % 
-Python                   16 mins             ████████████░░░░░░░░░░░░░   49.25 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Bash                     1 hr 5 mins         ███████████░░░░░░░░░░░░░░   43.81 % 
+Python                   52 mins             █████████░░░░░░░░░░░░░░░░   35.37 % 
+KDL                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🔥 Editors: 
-Neovim                   33 mins             █████████████████████████   100.00 % 
+Neovim                   2 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    16 mins             █████████████░░░░░░░░░░░░   50.50 % 
-Mac                      16 mins             ████████████░░░░░░░░░░░░░   49.50 % 
+Linux                    1 hr 42 mins        █████████████████░░░░░░░░   68.86 % 
+Mac                      46 mins             ████████░░░░░░░░░░░░░░░░░   31.14 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -54,7 +56,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 20/09/2026 20:21:54 UTC
+ Last Updated on 21/09/2026 21:44:18 UTC
 <!--END_SECTION:waka-->
 
 ## Recent releases
