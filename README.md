@@ -35,18 +35,18 @@ I've always had one absurd idea — compose music in a programming language, and
 
 ```text
 💬 Programming Languages: 
-Bash                     1 hr 5 mins         ███████████░░░░░░░░░░░░░░   43.81 % 
-Python                   52 mins             █████████░░░░░░░░░░░░░░░░   35.37 % 
-KDL                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+TypeScript               1 hr 57 mins        ███████████░░░░░░░░░░░░░░   42.02 % 
+Bash                     1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+Python                   52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+KDL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 29 mins       █████████████████████████   100.00 % 
+Neovim                   4 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 42 mins        █████████████████░░░░░░░░   68.86 % 
-Mac                      46 mins             ████████░░░░░░░░░░░░░░░░░   31.14 % 
+Mac                      2 hrs 56 mins       ████████████████░░░░░░░░░   63.18 % 
+Linux                    1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   36.82 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -56,7 +56,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 21/09/2026 21:44:18 UTC
+ Last Updated on 22/09/2026 20:55:22 UTC
 <!--END_SECTION:waka-->
 
 ## Recent releases
