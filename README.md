@@ -62,7 +62,7 @@ No AI Coding Activity Tracked This Week
 ## Recent releases
 
 <!-- recent_releases starts -->
-- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-09-24
+- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-09-25
 - [dsh-auto-continue v0.11.8](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.11.8) · 2026-09-23
 - [jev-turtle-soup v0.33.3](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/v0.33.3) · 2026-09-22
 - [IntelligentMixVideo v0.4.1](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.4.1) · 2026-09-18
