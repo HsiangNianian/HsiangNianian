@@ -1,16 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->383<!-- releases_count ends --> releases across <!-- project_count starts -->32<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->387<!-- releases_count ends --> releases across <!-- project_count starts -->32<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [v0.37.0 — Weekly author digests](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/v0.37.0) - ([55 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-09-27
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-09-28
+<br />Unofficial swi-prolog docs for Chinese
+* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.4.2](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.4.2) - ([8 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-09-28
+<br />
+* **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [v0.38.1 — Room connection lifecycle and archive efficiency](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/v0.38.1) - ([58 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-09-28
 <br />
 * **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.11.9](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.11.9) - ([46 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-09-27
 <br />DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-09-25
-<br />Unofficial swi-prolog docs for Chinese
-* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.4.1](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.4.1) - ([7 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-09-18
-<br />
 * **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [dropout v0.2.0-rc.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.2) - ([56 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-09-07
 <br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Rust. Aims to be a Reproducible Minecraft Workspace Manager.
 * **[iamai](https://github.com/retrofor/iamai)**: [v1.0.0](https://github.com/retrofor/iamai/releases/tag/v1.0.0) - ([26 releases total](https://github.com/retrofor/iamai/releases))  - 2026-08-29

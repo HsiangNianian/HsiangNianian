@@ -61,10 +61,10 @@ No AI Coding Activity Tracked This Week
 ## Recent releases
 
 <!-- recent_releases starts -->
-- [jev-turtle-soup v0.37.0 — Weekly author digests](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/v0.37.0) · 2026-09-27
+- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-09-28
+- [IntelligentMixVideo v0.4.2](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.4.2) · 2026-09-28
+- [jev-turtle-soup v0.38.1 — Room connection lifecycle and archive efficiency](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/v0.38.1) · 2026-09-28
 - [dsh-auto-continue v0.11.9](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.11.9) · 2026-09-27
-- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-09-25
-- [IntelligentMixVideo v0.4.1](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.4.1) · 2026-09-18
 - [DropOut dropout v0.2.0-rc.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.2) · 2026-09-07
 - [iamai v1.0.0](https://github.com/retrofor/iamai/releases/tag/v1.0.0) · 2026-08-29
 - [GlyphWeave v0.2.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.2.0) · 2026-08-27
@@ -76,6 +76,10 @@ No AI Coding Activity Tracked This Week
 ## Recent posts
 
 <!-- blog starts -->
+<details><summary>2026-09-28 <a href="https://academic.jyunko.cn/2026/09/28/qqbot-cryptomining-incident-en.html">I meant to fix a QQ bot. A wall of migration threads led me to two cryptominers.</a></summary><p>Investigating a cryptomining incident with Codex: a QQ bot feature request, disguised miners, separate SSH and RAGFlow intrusion trails, and the limits of cont…</p></details>
+
+<details><summary>2026-09-28 <a href="https://academic.jyunko.cn/2026/09/28/qqbot-cryptomining-incident.html">给 QQ bot 加个功能，顺着一排 migration 抓出两个矿工：我这需求又做偏了</a></summary><p>一次与 Codex 共同完成的服务器挖矿事件排查记录：从 QQ bot 功能开发，到识别伪装矿工、关联 SSH 与 RAGFlow 模板注入证据，再到隔离、取证和清理。</p></details>
+
 <details><summary>2026-09-27 <a href="https://academic.jyunko.cn/2026/09/27/cloudflare-worker-incident-en.html">I only meant to fix a deployment: the Cortex Cloudflare incident</a></summary><p>Working through the Cortex Cloudflare incident with Codex: a failed pnpm install, a Worker rewriting HTML, a hard-to-find account token and the checks after cl…</p></details>
 
 <details><summary>2026-09-27 <a href="https://academic.jyunko.cn/2026/09/27/cloudflare-worker-incident-zh.html">本来只是想修一次部署：Cortex 的 Cloudflare 事件记录</a></summary><p>一次和 Codex 共同排查的记录：从 pnpm 安装失败，到发现前置 Worker 改写 HTML，再到寻找、撤销令牌与恢复 Cortex。</p></details>
@@ -85,10 +89,6 @@ No AI Coding Activity Tracked This Week
 <details><summary>2025-10-08 <a href="https://academic.jyunko.cn/2025/10/08/Maillard-Reaction.html">Maillard Reaction</a></summary><p>The Maillard reaction, a complex series of chemical reactions between amino acids and reducing sugars, is responsible for the browning and flavor development i…</p></details>
 
 <details><summary>2025-02-01 <a href="https://academic.jyunko.cn/2025/02/01/Interval-Algebra.html">Interval Algebra: When Category Theory Reshapes Musical DNA</a></summary><p>While debugging an AI composition system at dawn, I encountered the 42nd "parallel fifth paradox": when optimizing harmonic consonance, the model persistently…</p></details>
-
-<details><summary>2024-08-20 <a href="https://academic.jyunko.cn/2024/08/20/820.html">820</a></summary><p>水系820溯源原文</p></details>
-
-<details><summary>2024-05-25 <a href="https://academic.jyunko.cn/2024/05/25/Can-KAN-beat-MLPs.html">Can Kolmogorov–Arnold Networks (KAN) beat MLPs?</a></summary><p>Lately, it seems that the entire AI community has become about one and one thing only, LLMs. They are cool in their own way, but they are not the entire AI fie…</p></details>
 <!-- blog ends -->
 
 ## Contact
