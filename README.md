@@ -35,17 +35,16 @@ I've always had one absurd idea — compose music in a programming language, and
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 57 mins        █████████████████████░░░░   82.86 % 
-Bash                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Image (png)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Bash                     8 mins              █████████████████░░░░░░░░   69.24 % 
+Markdown                 2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+env                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 21 mins       █████████████████████████   100.00 % 
+Neovim                   11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -55,7 +54,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/09/2026 22:58:05 UTC
+ Last Updated on 29/09/2026 21:54:16 UTC
 <!--END_SECTION:waka-->
 
 ## Recent releases
