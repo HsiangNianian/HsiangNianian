@@ -3,7 +3,7 @@
 Listing <!-- releases_count starts -->394<!-- releases_count ends --> releases across <!-- project_count starts -->32<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [iOS nightly](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/ios-nightly) - ([62 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-10-03
+* **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [iOS nightly](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/ios-nightly) - ([62 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-10-04
 <br />
 * **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.12.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.12.2) - ([49 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-10-03
 <br />DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
