@@ -57,9 +57,9 @@ No AI Coding Activity Tracked This Week
 ## Recent releases
 
 <!-- recent_releases starts -->
-- [jev-turtle-soup iOS nightly](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/ios-nightly) · 2026-10-04
+- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-10-05
+- [jev-turtle-soup iOS nightly](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/ios-nightly) · 2026-10-05
 - [dsh-auto-continue v0.12.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.12.2) · 2026-10-03
-- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-10-02
 - [IntelligentMixVideo v0.4.2](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.4.2) · 2026-09-28
 - [DropOut dropout v0.2.0-rc.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.2) · 2026-09-07
 - [iamai v1.0.0](https://github.com/retrofor/iamai/releases/tag/v1.0.0) · 2026-08-29
