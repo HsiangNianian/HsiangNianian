@@ -1,14 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->400<!-- releases_count ends --> releases across <!-- project_count starts -->32<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->401<!-- releases_count ends --> releases across <!-- project_count starts -->33<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-10-08
+<br />Unofficial swi-prolog docs for Chinese
+* **[WindTown](https://github.com/HsiangNianian/WindTown)**: [v0.1.0](https://github.com/HsiangNianian/WindTown/releases/tag/v0.1.0)  - 2026-10-08
+<br />A cozy Bevy pixel town with LAN discovery, Cloudflare multiplayer, and chat.
 * **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.14.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.14.2) - ([53 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-10-07
 <br />DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-10-07
-<br />Unofficial swi-prolog docs for Chinese
 * **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [v0.43.0 — Visual cloze authoring and safer delete confirmation](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/v0.43.0) - ([64 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-10-07
-<br />
+<br />一个可以独自推理、邀朋友同桌，也能亲手出题的海龟汤社群——基于 decision model: jev
 * **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.4.2](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.4.2) - ([8 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-09-28
 <br />
 * **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [dropout v0.2.0-rc.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.2) - ([56 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-09-07
