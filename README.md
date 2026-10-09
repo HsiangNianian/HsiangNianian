@@ -57,8 +57,8 @@ No AI Coding Activity Tracked This Week
 ## Recent releases
 
 <!-- recent_releases starts -->
-- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-10-08
-- [WindTown v0.1.0](https://github.com/HsiangNianian/WindTown/releases/tag/v0.1.0) · 2026-10-08
+- [Yapshire v0.5.2](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.5.2) · 2026-10-09
+- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-10-09
 - [dsh-auto-continue v0.14.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.14.2) · 2026-10-07
 - [jev-turtle-soup v0.43.0 — Visual cloze authoring and safer delete confirmation](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/v0.43.0) · 2026-10-07
 - [IntelligentMixVideo v0.4.2](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.4.2) · 2026-09-28
