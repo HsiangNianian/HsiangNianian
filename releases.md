@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->410<!-- releases_count ends --> releases across <!-- project_count starts -->33<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->411<!-- releases_count ends --> releases across <!-- project_count starts -->33<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[Yapshire](https://github.com/HsiangNianian/Yapshire)**: [v0.7.2](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.7.2) - ([9 releases total](https://github.com/HsiangNianian/Yapshire/releases))  - 2026-10-10
+* **[Yapshire](https://github.com/HsiangNianian/Yapshire)**: [v0.8.0](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.8.0) - ([10 releases total](https://github.com/HsiangNianian/Yapshire/releases))  - 2026-10-11
 <br />Yapshire — a cozy pixel town to walk, jump, and chat together. Rust + Bevy, LAN and online multiplayer.
 * **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.5.0](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.5.0) - ([9 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-10-10
 <br />

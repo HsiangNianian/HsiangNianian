@@ -63,7 +63,7 @@ No AI Coding Activity Tracked This Week
 ## Recent releases
 
 <!-- recent_releases starts -->
-- [Yapshire v0.7.2](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.7.2) · 2026-10-10
+- [Yapshire v0.8.0](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.8.0) · 2026-10-11
 - [IntelligentMixVideo v0.5.0](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.5.0) · 2026-10-10
 - [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-10-09
 - [dsh-auto-continue v0.14.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.14.2) · 2026-10-07
