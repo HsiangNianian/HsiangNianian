@@ -12,7 +12,7 @@ I've always had one absurd idea — compose music in a programming language, and
 ## Research
 
 - **aria** — a music DSL in Rust: compose in code, program in music ([AICMUniversity](https://github.com/AICMUniversity))
-- **Interval algebra** — formalizing interval relations with category theory ([notes](https://academic.jyunko.cn/2025/02/01/Interval-Algebra))
+- **Interval algebra** — formalizing interval relations with category theory ([notes](https://academic.jyunko.cn/2025/02/01/Interval-Algebra.html))
 - **Compiler front-end** — from MIDI to music-theory logic
 - **Audio synthesis** — a real-time backend, targetable to WebAssembly
 - **Game engines** — formal verification through the Rust type system
