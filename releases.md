@@ -1,11 +1,11 @@
 # Released projects
 
-Listing <!-- releases_count starts -->415<!-- releases_count ends --> releases across <!-- project_count starts -->33<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->417<!-- releases_count ends --> releases across <!-- project_count starts -->33<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.2](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.2) - ([12 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-10-14
+* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.4](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.4) - ([14 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-10-15
 <br />
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-10-14
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-10-15
 <br />Unofficial swi-prolog docs for Chinese
 * **[Yapshire](https://github.com/HsiangNianian/Yapshire)**: [v0.9.1](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.9.1) - ([11 releases total](https://github.com/HsiangNianian/Yapshire/releases))  - 2026-10-12
 <br />Yapshire — a cozy pixel town to walk, jump, and chat together. Rust + Bevy, LAN and online multiplayer.
