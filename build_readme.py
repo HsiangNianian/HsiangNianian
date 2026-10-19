@@ -202,10 +202,10 @@ def clean_summary(raw, limit=160):
     return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
 
 
-if __name__ == "__main__":
+def main():
     readme = root / "README.md"
     project_releases = root / "releases.md"
-    readme_contents = readme.open().read()
+    readme_contents = readme.read_text()
     rewritten = readme_contents
 
     releases = fetch_releases(TOKEN)
@@ -222,23 +222,23 @@ if __name__ == "__main__":
 
     #     Write out full project-releases.md file
     if releases:
-        project_releases_md = "\n".join(
+        project_releases_md = "\n\n".join(
             [
                 (
                     (
-                        "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md} - {published_day}\n"
-                        "<br />{description}"
+                        "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md} - {published_day}\n\n"
+                        "  {description}"
                     ).format(
                         total_releases_md=f'- ([{release["total_releases"]} releases total]({release["repo_url"]}/releases)) '
                         if release["total_releases"] > 1
                         else "",
                         **release,
-                    )
+                    ).rstrip()
                 )
                 for release in releases
             ]
         )
-        project_releases_content = project_releases.open().read()
+        project_releases_content = project_releases.read_text()
         project_releases_content = replace_chunk(
             project_releases_content, "recent_releases", project_releases_md
         )
@@ -251,7 +251,7 @@ if __name__ == "__main__":
             str(sum(r["total_releases"] for r in releases)),
             inline=True,
         )
-        project_releases.open("w").write(project_releases_content)
+        project_releases.write_text(project_releases_content)
 
     #     tils = fetch_tils()
     #     tils_md = "\n\n".join(
@@ -311,4 +311,8 @@ if __name__ == "__main__":
         except Exception as exc:
             print("diary fetch failed:", exc)
 
-    readme.open("w").write(rewritten)
+    readme.write_text(rewritten)
+
+
+if __name__ == "__main__":
+    main()

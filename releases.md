@@ -4,69 +4,116 @@ Listing <!-- releases_count starts -->419<!-- releases_count ends --> releases a
 
 <!-- recent_releases starts -->
 * **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.6](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.6) - ([16 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-10-16
-<br />
+
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-10-16
-<br />Unofficial swi-prolog docs for Chinese
+
+  Unofficial swi-prolog docs for Chinese
+
 * **[Yapshire](https://github.com/HsiangNianian/Yapshire)**: [v0.9.1](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.9.1) - ([11 releases total](https://github.com/HsiangNianian/Yapshire/releases))  - 2026-10-12
-<br />Yapshire — a cozy pixel town to walk, jump, and chat together. Rust + Bevy, LAN and online multiplayer.
+
+  Yapshire — a cozy pixel town to walk, jump, and chat together. Rust + Bevy, LAN and online multiplayer.
+
 * **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.14.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.14.2) - ([53 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-10-07
-<br />DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
+
+  DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
+
 * **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [v0.43.0 — Visual cloze authoring and safer delete confirmation](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/v0.43.0) - ([64 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-10-07
-<br />一个可以独自推理、邀朋友同桌，也能亲手出题的海龟汤社群——基于 decision model: jev
+
+  一个可以独自推理、邀朋友同桌，也能亲手出题的海龟汤社群——基于 decision model: jev
+
 * **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [dropout v0.2.0-rc.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.2) - ([56 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-09-07
-<br />This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Rust. Aims to be a Reproducible Minecraft Workspace Manager.
+
+  This is a new Minecraft launcher that is currently in development. It is designed to be a modern, fast and efficient launcher. It is written in Rust. Aims to be a Reproducible Minecraft Workspace Manager.
+
 * **[iamai](https://github.com/retrofor/iamai)**: [v1.0.0](https://github.com/retrofor/iamai/releases/tag/v1.0.0) - ([26 releases total](https://github.com/retrofor/iamai/releases))  - 2026-08-29
-<br />Cross-platform AI agent and chatbot runtime with a Rust core, Python plugins, and normalized adapters.
+
+  Cross-platform AI agent and chatbot runtime with a Rust core, Python plugins, and normalized adapters.
+
 * **[GlyphWeave](https://github.com/HsiangNianian/GlyphWeave)**: [v0.2.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.2.0) - ([2 releases total](https://github.com/HsiangNianian/GlyphWeave/releases))  - 2026-08-27
-<br />Infinite-canvas ASCII roguelike tilemap editor. Paint dungeons, weave glyphs. Multi-layer editing, preset rooms, dual themes, minimap, render API, support jev/deepseek generate map realtime.
+
+  Infinite-canvas ASCII roguelike tilemap editor. Paint dungeons, weave glyphs. Multi-layer editing, preset rooms, dual themes, minimap, render API, support jev/deepseek generate map realtime.
+
 * **[soon](https://github.com/HsiangNianian/soon)**: [v0.5.0](https://github.com/HsiangNianian/soon/releases/tag/v0.5.0) - ([7 releases total](https://github.com/HsiangNianian/soon/releases))  - 2026-07-30
-<br />A local-first personal terminal agent that learns your routines and predicts the next full command.
+
+  A local-first personal terminal agent that learns your routines and predicts the next full command.
+
 * **[proof-pr](https://github.com/HsiangNianian/proof-pr)**: [v0.1.1](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.1) - ([2 releases total](https://github.com/HsiangNianian/proof-pr/releases))  - 2026-07-18
-<br />Commit-bound verification evidence for pull requests
+
+  Commit-bound verification evidence for pull requests
+
 * **[hacktyper](https://github.com/HsiangNianian/hacktyper)**: [🚀 v0.2.7](https://github.com/HsiangNianian/hacktyper/releases/tag/v0.2.7) - ([7 releases total](https://github.com/HsiangNianian/hacktyper/releases))  - 2026-01-13
-<br />一个用于pran的复杂命令行工具 | A sophisticated CLI tool for pranking or acting like a Hollywood hacker | talk is cheap, show me your code :D
+
+  一个用于pran的复杂命令行工具 | A sophisticated CLI tool for pranking or acting like a Hollywood hacker | talk is cheap, show me your code :D
+
 * **[online-judge](https://github.com/swpu-acm/online-judge)**: [algohub-server v0.1.18](https://github.com/swpu-acm/online-judge/releases/tag/algohub-server-v0.1.18) - ([20 releases total](https://github.com/swpu-acm/online-judge/releases))  - 2025-03-26
-<br />Extremely fast async online judge backend based on Rust
+
+  Extremely fast async online judge backend based on Rust
+
 * **[GetPlayerCard](https://github.com/HsiangNianian/GetPlayerCard)**: [v0.4.4](https://github.com/HsiangNianian/GetPlayerCard/releases/tag/v0.4.4) - ([3 releases total](https://github.com/HsiangNianian/GetPlayerCard/releases))  - 2025-02-18
-<br />Experimentally get your character card through an object-oriented program
+
+  Experimentally get your character card through an object-oriented program
+
 * **[testforchangelog](https://github.com/retrofor/testforchangelog)**: [v1.0.0.alpha.3](https://github.com/retrofor/testforchangelog/releases/tag/v1.0.0.alpha.3) - ([3 releases total](https://github.com/retrofor/testforchangelog/releases))  - 2024-01-29
-<br />
+
 * **[unpredictableFate](https://github.com/HsiangNianian/unpredictableFate)**: [v3.0.2](https://github.com/HsiangNianian/unpredictableFate/releases/tag/v3.0.2) - ([5 releases total](https://github.com/HsiangNianian/unpredictableFate/releases))  - 2023-10-19
-<br />
+
 * **[flarum-post-formatter](https://github.com/HsiangNianian/flarum-post-formatter)**: [v0.0.5✨](https://github.com/HsiangNianian/flarum-post-formatter/releases/tag/v0.0.5) - ([5 releases total](https://github.com/HsiangNianian/flarum-post-formatter/releases))  - 2023-05-19
-<br />Flarum plugin that allows posts to be formatted and rendered with a subset of BBCode and HTML
+
+  Flarum plugin that allows posts to be formatted and rendered with a subset of BBCode and HTML
+
 * **[BlackJack](https://github.com/HsiangNianian/BlackJack)**: [v0.1.0](https://github.com/HsiangNianian/BlackJack/releases/tag/v0.1.0)  - 2023-04-21
-<br />A simple interactive 21-point game based on OlivOS and OlivaDiceCore | 基于OlivOS与OlivaDiceCore的交互式21点小游戏
+
+  A simple interactive 21-point game based on OlivOS and OlivaDiceCore | 基于OlivOS与OlivaDiceCore的交互式21点小游戏
+
 * **[Flexirobo](https://github.com/retrofor/Flexirobo)**: [v1.0.0.post1 🎉](https://github.com/retrofor/Flexirobo/releases/tag/v1.0.0.post1) - ([2 releases total](https://github.com/retrofor/Flexirobo/releases))  - 2023-04-11
-<br />
+
 * **[AO3Search](https://github.com/HsiangNianian/AO3Search)**: [v0406.post2](https://github.com/HsiangNianian/AO3Search/releases/tag/0406.post2) - ([3 releases total](https://github.com/HsiangNianian/AO3Search/releases))  - 2023-04-06
-<br />
+
 * **[Civilian-SealDice](https://github.com/HsiangNianian/Civilian-SealDice)**: [v102](https://github.com/HsiangNianian/Civilian-SealDice/releases/tag/102) - ([3 releases total](https://github.com/HsiangNianian/Civilian-SealDice/releases))  - 2023-04-03
-<br />My sealdice plugins
+
+  My sealdice plugins
+
 * **[OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)**: [v3.14 🌈](https://github.com/HsiangNianian/OlivaBiliLive/releases/tag/v3.14) - ([7 releases total](https://github.com/HsiangNianian/OlivaBiliLive/releases))  - 2023-03-09
-<br />可插件化管理的B站直播间机器人 | A Bilibili live room robot that can be managed by plugins.
+
+  可插件化管理的B站直播间机器人 | A Bilibili live room robot that can be managed by plugins.
+
 * **[retrofor.github.io](https://github.com/retrofor/retrofor.github.io)**: [v2023.0.7](https://github.com/retrofor/retrofor.github.io/releases/tag/v2023.0.7) - ([90 releases total](https://github.com/retrofor/retrofor.github.io/releases))  - 2023-02-28
-<br />
+
 * **[OlivaGithub](https://github.com/HsiangNianian/OlivaGithub)**: [v3.1415 🐱‍👤](https://github.com/HsiangNianian/OlivaGithub/releases/tag/v3.1415) - ([2 releases total](https://github.com/HsiangNianian/OlivaGithub/releases))  - 2023-02-28
-<br />基于OlivOS框架的利用webhook实时监控你的Github仓库的插件
+
+  基于OlivOS框架的利用webhook实时监控你的Github仓库的插件
+
 * **[retro_pkg_test](https://github.com/retrofor/retro_pkg_test)**: [v3.1415 🌈](https://github.com/retrofor/retro_pkg_test/releases/tag/v3.1415) - ([5 releases total](https://github.com/retrofor/retro_pkg_test/releases))  - 2023-02-01
-<br />
+
 * **[Oliva_Plugin_GPT](https://github.com/retrofor/Oliva_Plugin_GPT)**: [release-v0.1.0](https://github.com/retrofor/Oliva_Plugin_GPT/releases/tag/v0.1.0)  - 2023-01-24
-<br />GPT calling plug-in based on ovo framework ,supports multi-platforms.
+
+  GPT calling plug-in based on ovo framework ,supports multi-platforms.
+
 * **[OlivaSubHlp](https://github.com/HsiangNianian/OlivaSubHlp)**: [v3](https://github.com/HsiangNianian/OlivaSubHlp/releases/tag/3)  - 2023-01-22
-<br />简单的推送集合，基于OlivOS
+
+  简单的推送集合，基于OlivOS
+
 * **[rssSub](https://github.com/HsiangNianian/rssSub)**: [release-1.1.0](https://github.com/HsiangNianian/rssSub/releases/tag/release-1.1.0) - ([9 releases total](https://github.com/HsiangNianian/rssSub/releases))  - 2023-01-10
-<br />为Dice!编写的插件化管理的rss订阅mod
+
+  为Dice!编写的插件化管理的rss订阅mod
+
 * **[GroupValidater](https://github.com/HsiangNianian/GroupValidater)**: [v0.0.2](https://github.com/HsiangNianian/GroupValidater/releases/tag/v0.0.2) - ([2 releases total](https://github.com/HsiangNianian/GroupValidater/releases))  - 2022-12-26
-<br />简单的基于OlivOS框架的入群验证码插件
+
+  简单的基于OlivOS框架的入群验证码插件
+
 * **[AImage](https://github.com/HsiangNianian/AImage)**: [v1.2.3](https://github.com/HsiangNianian/AImage/releases/tag/v1.2.3) - ([6 releases total](https://github.com/HsiangNianian/AImage/releases))  - 2022-12-22
-<br />
+
 * **[listen2me](https://github.com/HsiangNianian/listen2me)**: [v2.1.0](https://github.com/HsiangNianian/listen2me/releases/tag/v2.1.0) - ([2 releases total](https://github.com/HsiangNianian/listen2me/releases))  - 2022-12-21
-<br />为Dice!编写的使用mml音乐宏语言作曲模块
+
+  为Dice!编写的使用mml音乐宏语言作曲模块
+
 * **[thesaurus](https://github.com/HsiangNianian/thesaurus)**: [v2.0.4](https://github.com/HsiangNianian/thesaurus/releases/tag/v2.0.4) - ([2 releases total](https://github.com/HsiangNianian/thesaurus/releases))  - 2022-12-09
-<br />一个简单的为Dice!编写的词典匹配回复mod
+
+  一个简单的为Dice!编写的词典匹配回复mod
+
 * **[flagLoopTest](https://github.com/HsiangNianian/flagLoopTest)**: [v1.0.0](https://github.com/HsiangNianian/flagLoopTest/releases/tag/v1.0.0)  - 2022-12-07
-<br />
+
 * **[Dice](https://github.com/retrofor/Dice)**: [v1.0.0](https://github.com/retrofor/Dice/releases/tag/v1.0.0)  - 2022-11-30
-<br />QQ Dice Robot For TRPG QQ跑团掷骰机器人
+
+  QQ Dice Robot For TRPG QQ跑团掷骰机器人
 <!-- recent_releases ends -->

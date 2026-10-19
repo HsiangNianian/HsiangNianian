@@ -1,3 +1,5 @@
+import pathlib
+import tempfile
 import unittest
 from unittest import mock
 
@@ -116,6 +118,54 @@ class BlogFeedTests(unittest.TestCase):
             entries[0]["url"],
             "https://academic.jyunko.cn/2026/08/28/Post.html",
         )
+
+
+class ReleasePageTests(unittest.TestCase):
+    def test_descriptions_and_empty_descriptions_keep_separate_list_items(self):
+        releases = [
+            {
+                "repo": name,
+                "repo_url": f"https://github.com/owner/{name}",
+                "description": description,
+                "release": "v1.0.0",
+                "published_at": "2026-10-12T00:00:00Z",
+                "published_day": "2026-10-12",
+                "url": f"https://github.com/owner/{name}/releases/tag/v1.0.0",
+                "total_releases": 1,
+            }
+            for name, description in (
+                ("first", "First project"),
+                ("empty", ""),
+                ("last", "Last project"),
+            )
+        ]
+        marker = "<!-- recent_releases starts -->old<!-- recent_releases ends -->"
+        with tempfile.TemporaryDirectory() as directory:
+            root = pathlib.Path(directory)
+            (root / "README.md").write_text(marker)
+            page = root / "releases.md"
+            page.write_text(
+                "<!-- releases_count starts -->0<!-- releases_count ends -->\n"
+                "<!-- project_count starts -->0<!-- project_count ends -->\n"
+                + marker
+            )
+            with (
+                mock.patch.object(build_readme, "root", root),
+                mock.patch.object(build_readme, "fetch_releases", return_value=releases),
+                mock.patch.object(build_readme, "fetch_blog_entries", return_value=[]),
+            ):
+                build_readme.main()
+            content = page.read_text()
+
+        self.assertNotIn("<br", content)
+        self.assertEqual(content.count("\n* **["), 3)
+        self.assertIn("\n\n  First project\n\n* **[empty]", content)
+        self.assertIn(
+            "/empty/releases/tag/v1.0.0)  - 2026-10-12\n\n* **[last]", content
+        )
+        self.assertIn("\n\n  Last project\n<!-- recent_releases ends -->", content)
+        self.assertIn("<!-- releases_count starts -->3<!-- releases_count ends -->", content)
+        self.assertIn("<!-- project_count starts -->3<!-- project_count ends -->", content)
 
 
 if __name__ == "__main__":
