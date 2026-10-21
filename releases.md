@@ -1,13 +1,13 @@
 # Released projects
 
-Listing <!-- releases_count starts -->425<!-- releases_count ends --> releases across <!-- project_count starts -->33<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->426<!-- releases_count ends --> releases across <!-- project_count starts -->33<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-10-20
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-10-21
 
   Unofficial swi-prolog docs for Chinese
 
-* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.10](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.10) - ([20 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-10-20
+* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.11](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.11) - ([21 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-10-21
 
 * **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.15.0](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.15.0) - ([55 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-10-19
 
