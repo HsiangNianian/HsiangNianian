@@ -7,7 +7,7 @@ Game developer, working at the seam between artificial intelligence and music th
 
 > On the score, we learn the theory; but only through interacting with others do we understand the music.
 
-I've always had one absurd idea — compose music in a programming language, and program in a music language. It turns out we can really try it: **[aria](https://github.com/AICMUniversity/aria)**. Beyond that I'm active in [HydroRoll-Team](https://github.com/HydroRoll-Team), and I keep up terminal agents, chatbot runtimes, game tooling, and Chinese documentation for languages I care about.
+I've always had one absurd idea — compose music in a programming language, and program in a music language.
 
 ## Research
 
