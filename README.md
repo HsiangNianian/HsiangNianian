@@ -24,6 +24,7 @@ I've always had one absurd idea — compose music in a programming language, and
 - **[DropOut](https://github.com/HydroRoll-Team/DropOut)** — modern, fast Rust Minecraft launcher; a reproducible Minecraft workspace manager
 - **[GlyphWeave](https://github.com/HsiangNianian/GlyphWeave)** — infinite-canvas ASCII roguelike tilemap editor
 - **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)** — DSH Web UI plugin that auto-resumes requests interrupted by non-human causes
+- **[Yapshire](https://github.com/HsiangNianian/yapshire)** - A cozy pixel town to walk, jump, and chat together. Rust + Bevy, LAN and online multiplayer
 - **[LCTI](https://github.com/HsiangNianian/lcti)** — What's your soul open source license? 32 soul-searching questions, using pure algorithmic gradient scoring to match your ideal open source persona
 
 …and more in [released projects](releases.md).
