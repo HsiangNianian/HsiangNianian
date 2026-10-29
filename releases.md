@@ -1,13 +1,21 @@
 # Released projects
 
-Listing <!-- releases_count starts -->435<!-- releases_count ends --> releases across <!-- project_count starts -->33<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->438<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-10-28
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-10-29
 
   Unofficial swi-prolog docs for Chinese
 
-* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.17](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.17) - ([27 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-10-28
+* **[boardcast](https://github.com/HsiangNianian/boardcast)**: [v0.2.0](https://github.com/HsiangNianian/boardcast/releases/tag/v0.2.0) - ([2 releases total](https://github.com/HsiangNianian/boardcast/releases))  - 2026-10-29
+
+  Talk, and the whiteboard draws itself. Local-first live meeting diagrams on Linux / Windows ARM / macOS.
+
+* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.18](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.18) - ([28 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-10-29
+
+* **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [iOS nightly](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/ios-nightly) - ([64 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-10-29
+
+  一个可以独自推理、邀朋友同桌，也能亲手出题的海龟汤社群——基于 decision model: jev
 
 * **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.17.1-rc.1](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.17.1-rc.1) - ([58 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-10-27
 
@@ -16,10 +24,6 @@ Listing <!-- releases_count starts -->435<!-- releases_count ends --> releases a
 * **[Yapshire](https://github.com/HsiangNianian/Yapshire)**: [v0.9.1](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.9.1) - ([11 releases total](https://github.com/HsiangNianian/Yapshire/releases))  - 2026-10-12
 
   Yapshire — a cozy pixel town to walk, jump, and chat together. Rust + Bevy, LAN and online multiplayer.
-
-* **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [v0.43.0 — Visual cloze authoring and safer delete confirmation](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/v0.43.0) - ([64 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-10-07
-
-  一个可以独自推理、邀朋友同桌，也能亲手出题的海龟汤社群——基于 decision model: jev
 
 * **[DropOut](https://github.com/HydroRoll-Team/DropOut)**: [dropout v0.2.0-rc.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.2) - ([56 releases total](https://github.com/HydroRoll-Team/DropOut/releases))  - 2026-09-07
 

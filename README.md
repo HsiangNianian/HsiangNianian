@@ -61,16 +61,16 @@ No AI Coding Activity Tracked This Week
 ## Recent releases
 
 <!-- recent_releases starts -->
-- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-10-28
-- [IntelligentMixVideo v0.9.17](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.17) · 2026-10-28
+- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-10-29
+- [boardcast v0.2.0](https://github.com/HsiangNianian/boardcast/releases/tag/v0.2.0) · 2026-10-29
+- [IntelligentMixVideo v0.9.18](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.18) · 2026-10-29
+- [jev-turtle-soup iOS nightly](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/ios-nightly) · 2026-10-29
 - [dsh-auto-continue v0.17.1-rc.1](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.17.1-rc.1) · 2026-10-27
 - [Yapshire v0.9.1](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.9.1) · 2026-10-12
-- [jev-turtle-soup v0.43.0 — Visual cloze authoring and safer delete confirmation](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/v0.43.0) · 2026-10-07
 - [DropOut dropout v0.2.0-rc.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.2) · 2026-09-07
 - [iamai v1.0.0](https://github.com/retrofor/iamai/releases/tag/v1.0.0) · 2026-08-29
 - [GlyphWeave v0.2.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.2.0) · 2026-08-27
 - [soon v0.5.0](https://github.com/HsiangNianian/soon/releases/tag/v0.5.0) · 2026-07-30
-- [proof-pr v0.1.1](https://github.com/HsiangNianian/proof-pr/releases/tag/v0.1.1) · 2026-07-18
 <!-- recent_releases ends -->
 
 ## Recent posts
