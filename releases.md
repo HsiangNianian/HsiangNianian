@@ -1,8 +1,16 @@
 # Released projects
 
-Listing <!-- releases_count starts -->447<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->458<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[boardcast](https://github.com/HsiangNianian/boardcast)**: [v0.19.0-1](https://github.com/HsiangNianian/boardcast/releases/tag/untagged-fa02d90d5555933b79fd) - ([20 releases total](https://github.com/HsiangNianian/boardcast/releases))  - 2026-10-31
+
+  Talk, and the whiteboard draws itself. Local-first live meeting diagrams on Linux / Windows ARM / macOS.
+
+* **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [iOS nightly](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/ios-nightly) - ([64 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-10-31
+
+  一个可以独自推理、邀朋友同桌，也能亲手出题的海龟汤社群——基于 decision model: jev
+
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-10-30
 
   Unofficial swi-prolog docs for Chinese
@@ -11,15 +19,7 @@ Listing <!-- releases_count starts -->447<!-- releases_count ends --> releases a
 
   DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
 
-* **[boardcast](https://github.com/HsiangNianian/boardcast)**: [v0.9.0](https://github.com/HsiangNianian/boardcast/releases/tag/v0.9.0) - ([9 releases total](https://github.com/HsiangNianian/boardcast/releases))  - 2026-10-30
-
-  Talk, and the whiteboard draws itself. Local-first live meeting diagrams on Linux / Windows ARM / macOS.
-
 * **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.19](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.19) - ([29 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-10-30
-
-* **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [iOS nightly](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/ios-nightly) - ([64 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-10-30
-
-  一个可以独自推理、邀朋友同桌，也能亲手出题的海龟汤社群——基于 decision model: jev
 
 * **[Yapshire](https://github.com/HsiangNianian/Yapshire)**: [v0.9.1](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.9.1) - ([11 releases total](https://github.com/HsiangNianian/Yapshire/releases))  - 2026-10-12
 
