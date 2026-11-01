@@ -1,13 +1,13 @@
 # Released projects
 
-Listing <!-- releases_count starts -->458<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->461<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[boardcast](https://github.com/HsiangNianian/boardcast)**: [v0.19.0-1](https://github.com/HsiangNianian/boardcast/releases/tag/untagged-fa02d90d5555933b79fd) - ([20 releases total](https://github.com/HsiangNianian/boardcast/releases))  - 2026-10-31
+* **[boardcast](https://github.com/HsiangNianian/boardcast)**: [v0.20.0](https://github.com/HsiangNianian/boardcast/releases/tag/v0.20.0) - ([23 releases total](https://github.com/HsiangNianian/boardcast/releases))  - 2026-11-01
 
   Talk, and the whiteboard draws itself. Local-first live meeting diagrams on Linux / Windows ARM / macOS.
 
-* **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [iOS nightly](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/ios-nightly) - ([64 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-10-31
+* **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [iOS nightly](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/ios-nightly) - ([64 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-11-01
 
   一个可以独自推理、邀朋友同桌，也能亲手出题的海龟汤社群——基于 decision model: jev
 
