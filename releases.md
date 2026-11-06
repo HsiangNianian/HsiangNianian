@@ -1,21 +1,21 @@
 # Released projects
 
-Listing <!-- releases_count starts -->472<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->473<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-05
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-06
 
   Unofficial swi-prolog docs for Chinese
 
-* **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [iOS nightly](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/ios-nightly) - ([64 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-11-05
+* **[boardcast](https://github.com/HsiangNianian/boardcast)**: [on GPUI](https://github.com/HsiangNianian/boardcast/releases/tag/gpui-latest) - ([32 releases total](https://github.com/HsiangNianian/boardcast/releases))  - 2026-11-06
+
+  Talk, and the whiteboard draws itself. Local-first live meeting diagrams on Linux / Windows ARM / macOS.
+
+* **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [iOS nightly](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/ios-nightly) - ([64 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-11-06
 
   一个可以独自推理、邀朋友同桌，也能亲手出题的海龟汤社群——基于 decision model: jev
 
 * **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.20](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.20) - ([30 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-11-04
-
-* **[boardcast](https://github.com/HsiangNianian/boardcast)**: [v0.21.1-5](https://github.com/HsiangNianian/boardcast/releases/tag/v0.21.1-5) - ([31 releases total](https://github.com/HsiangNianian/boardcast/releases))  - 2026-11-03
-
-  Talk, and the whiteboard draws itself. Local-first live meeting diagrams on Linux / Windows ARM / macOS.
 
 * **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.17.3](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.17.3) - ([61 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-11-02
 
