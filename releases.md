@@ -1,8 +1,12 @@
 # Released projects
 
-Listing <!-- releases_count starts -->473<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->410<!-- releases_count ends --> releases across <!-- project_count starts -->33<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.17.4](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.17.4) - ([62 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-11-07
+
+  DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
+
 * **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-06
 
   Unofficial swi-prolog docs for Chinese
@@ -11,15 +15,7 @@ Listing <!-- releases_count starts -->473<!-- releases_count ends --> releases a
 
   Talk, and the whiteboard draws itself. Local-first live meeting diagrams on Linux / Windows ARM / macOS.
 
-* **[jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup)**: [iOS nightly](https://github.com/HsiangNianian/jev-turtle-soup/releases/tag/ios-nightly) - ([64 releases total](https://github.com/HsiangNianian/jev-turtle-soup/releases))  - 2026-11-06
-
-  一个可以独自推理、邀朋友同桌，也能亲手出题的海龟汤社群——基于 decision model: jev
-
 * **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.20](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.20) - ([30 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-11-04
-
-* **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.17.3](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.17.3) - ([61 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-11-02
-
-  DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
 
 * **[Yapshire](https://github.com/HsiangNianian/Yapshire)**: [v0.9.1](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.9.1) - ([11 releases total](https://github.com/HsiangNianian/Yapshire/releases))  - 2026-10-12
 
