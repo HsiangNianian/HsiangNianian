@@ -1,21 +1,21 @@
 # Released projects
 
-Listing <!-- releases_count starts -->410<!-- releases_count ends --> releases across <!-- project_count starts -->33<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->411<!-- releases_count ends --> releases across <!-- project_count starts -->33<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-09
+
+  Unofficial swi-prolog docs for Chinese
+
+* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.21](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.21) - ([31 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-11-09
+
 * **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.17.4](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.17.4) - ([62 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-11-07
 
   DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
 
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-06
-
-  Unofficial swi-prolog docs for Chinese
-
 * **[boardcast](https://github.com/HsiangNianian/boardcast)**: [on GPUI](https://github.com/HsiangNianian/boardcast/releases/tag/gpui-latest) - ([32 releases total](https://github.com/HsiangNianian/boardcast/releases))  - 2026-11-06
 
   Talk, and the whiteboard draws itself. Local-first live meeting diagrams on Linux / Windows ARM / macOS.
-
-* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.20](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.20) - ([30 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-11-04
 
 * **[Yapshire](https://github.com/HsiangNianian/Yapshire)**: [v0.9.1](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.9.1) - ([11 releases total](https://github.com/HsiangNianian/Yapshire/releases))  - 2026-10-12
 
