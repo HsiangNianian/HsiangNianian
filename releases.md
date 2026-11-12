@@ -3,13 +3,13 @@
 Listing <!-- releases_count starts -->417<!-- releases_count ends --> releases across <!-- project_count starts -->33<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-11
+
+  Unofficial swi-prolog docs for Chinese
+
 * **[boardcast](https://github.com/HsiangNianian/boardcast)**: [0.27.0](https://github.com/HsiangNianian/boardcast/releases/tag/v0.27.0) - ([37 releases total](https://github.com/HsiangNianian/boardcast/releases))  - 2026-11-10
 
   Talk, and the whiteboard draws itself. Local-first live meeting diagrams on Linux / Windows ARM / macOS.
-
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-10
-
-  Unofficial swi-prolog docs for Chinese
 
 * **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.18.0](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.18.0) - ([63 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-11-10
 
