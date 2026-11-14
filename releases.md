@@ -13,7 +13,7 @@ Listing <!-- releases_count starts -->421<!-- releases_count ends --> releases a
 
 * **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.19.0](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.19.0) - ([64 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-11-13
 
-  DSH Web UI plugin: auto-sends 「继续」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
+  DSH Web UI plugin: auto-sends 「continue」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
 
 * **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.21](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.21) - ([31 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-11-09
 
