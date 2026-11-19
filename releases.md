@@ -1,13 +1,15 @@
 # Released projects
 
-Listing <!-- releases_count starts -->427<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->429<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-17
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-18
 
   Unofficial swi-prolog docs for Chinese
 
-* **[sherpa-onnx](https://github.com/HsiangNianian/sherpa-onnx)**: [boardcast-2.0.1-2](https://github.com/HsiangNianian/sherpa-onnx/releases/tag/boardcast-2.0.1-2) - ([2 releases total](https://github.com/HsiangNianian/sherpa-onnx/releases))  - 2026-11-17
+* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.22](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.22) - ([32 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-11-18
+
+* **[sherpa-onnx](https://github.com/HsiangNianian/sherpa-onnx)**: [boardcast-2.0.1-3](https://github.com/HsiangNianian/sherpa-onnx/releases/tag/boardcast-2.0.1-3) - ([3 releases total](https://github.com/HsiangNianian/sherpa-onnx/releases))  - 2026-11-18
 
   Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages
 
@@ -18,8 +20,6 @@ Listing <!-- releases_count starts -->427<!-- releases_count ends --> releases a
 * **[boardcast](https://github.com/HsiangNianian/boardcast)**: [0.32.0](https://github.com/HsiangNianian/boardcast/releases/tag/v0.32.0) - ([42 releases total](https://github.com/HsiangNianian/boardcast/releases))  - 2026-11-16
 
   Talk, and the whiteboard draws itself. Local-first live meeting diagrams on Linux / Windows ARM / macOS.
-
-* **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.21](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.21) - ([31 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-11-09
 
 * **[Yapshire](https://github.com/HsiangNianian/Yapshire)**: [v0.9.1](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.9.1) - ([11 releases total](https://github.com/HsiangNianian/Yapshire/releases))  - 2026-10-12
 
