@@ -3,7 +3,7 @@
 Listing <!-- releases_count starts -->429<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-18
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-19
 
   Unofficial swi-prolog docs for Chinese
 
