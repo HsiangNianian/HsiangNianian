@@ -59,11 +59,11 @@ No AI Coding Activity Tracked This Week
 ## Recent releases
 
 <!-- recent_releases starts -->
-- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-11-19
+- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-11-20
+- [boardcast 0.33.0](https://github.com/HsiangNianian/boardcast/releases/tag/v0.33.0) · 2026-11-20
+- [dsh-auto-continue v0.20.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.20.2) · 2026-11-20
 - [IntelligentMixVideo v0.9.22](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.22) · 2026-11-18
 - [sherpa-onnx boardcast-2.0.1-3](https://github.com/HsiangNianian/sherpa-onnx/releases/tag/boardcast-2.0.1-3) · 2026-11-18
-- [dsh-auto-continue v0.20.1](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.20.1) · 2026-11-17
-- [boardcast 0.32.0](https://github.com/HsiangNianian/boardcast/releases/tag/v0.32.0) · 2026-11-16
 - [Yapshire v0.9.1](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.9.1) · 2026-10-12
 - [DropOut dropout v0.2.0-rc.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.2) · 2026-09-07
 - [iamai v1.0.0](https://github.com/retrofor/iamai/releases/tag/v1.0.0) · 2026-08-29

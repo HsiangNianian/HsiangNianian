@@ -1,25 +1,23 @@
 # Released projects
 
-Listing <!-- releases_count starts -->429<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->431<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-19
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-20
 
   Unofficial swi-prolog docs for Chinese
+
+* **[boardcast](https://github.com/HsiangNianian/boardcast)**: [0.33.0](https://github.com/HsiangNianian/boardcast/releases/tag/v0.33.0) - ([43 releases total](https://github.com/HsiangNianian/boardcast/releases))  - 2026-11-20
+
+* **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.20.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.20.2) - ([67 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-11-20
+
+  DSH Web UI plugin: auto-sends 「continue」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
 
 * **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.22](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.22) - ([32 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-11-18
 
 * **[sherpa-onnx](https://github.com/HsiangNianian/sherpa-onnx)**: [boardcast-2.0.1-3](https://github.com/HsiangNianian/sherpa-onnx/releases/tag/boardcast-2.0.1-3) - ([3 releases total](https://github.com/HsiangNianian/sherpa-onnx/releases))  - 2026-11-18
 
   Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages
-
-* **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.20.1](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.20.1) - ([66 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-11-17
-
-  DSH Web UI plugin: auto-sends 「continue」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
-
-* **[boardcast](https://github.com/HsiangNianian/boardcast)**: [0.32.0](https://github.com/HsiangNianian/boardcast/releases/tag/v0.32.0) - ([42 releases total](https://github.com/HsiangNianian/boardcast/releases))  - 2026-11-16
-
-  Talk, and the whiteboard draws itself. Local-first live meeting diagrams on Linux / Windows ARM / macOS.
 
 * **[Yapshire](https://github.com/HsiangNianian/Yapshire)**: [v0.9.1](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.9.1) - ([11 releases total](https://github.com/HsiangNianian/Yapshire/releases))  - 2026-10-12
 
