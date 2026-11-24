@@ -1,17 +1,17 @@
 # Released projects
 
-Listing <!-- releases_count starts -->433<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->435<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[alcyo](https://github.com/HsiangNianian/alcyo)**: [Alcyo 0.34.0](https://github.com/HsiangNianian/alcyo/releases/tag/v0.34.0) - ([44 releases total](https://github.com/HsiangNianian/alcyo/releases))  - 2026-11-21
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-23
 
-* **[sherpa-onnx](https://github.com/HsiangNianian/sherpa-onnx)**: [alcyo-2.0.1-3](https://github.com/HsiangNianian/sherpa-onnx/releases/tag/alcyo-2.0.1-3) - ([4 releases total](https://github.com/HsiangNianian/sherpa-onnx/releases))  - 2026-11-21
+  Unofficial swi-prolog docs for Chinese
+
+* **[sherpa-onnx](https://github.com/HsiangNianian/sherpa-onnx)**: [alcyo-2.0.1-4](https://github.com/HsiangNianian/sherpa-onnx/releases/tag/alcyo-2.0.1-4) - ([5 releases total](https://github.com/HsiangNianian/sherpa-onnx/releases))  - 2026-11-23
 
   Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages
 
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-20
-
-  Unofficial swi-prolog docs for Chinese
+* **[alcyo](https://github.com/HsiangNianian/alcyo)**: [Alcyo 0.34.1](https://github.com/HsiangNianian/alcyo/releases/tag/v0.34.1) - ([45 releases total](https://github.com/HsiangNianian/alcyo/releases))  - 2026-11-23
 
 * **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.20.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.20.2) - ([67 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-11-20
 

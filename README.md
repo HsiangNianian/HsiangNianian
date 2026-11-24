@@ -59,9 +59,9 @@ No AI Coding Activity Tracked This Week
 ## Recent releases
 
 <!-- recent_releases starts -->
-- [alcyo Alcyo 0.34.0](https://github.com/HsiangNianian/alcyo/releases/tag/v0.34.0) · 2026-11-21
-- [sherpa-onnx alcyo-2.0.1-3](https://github.com/HsiangNianian/sherpa-onnx/releases/tag/alcyo-2.0.1-3) · 2026-11-21
-- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-11-20
+- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-11-23
+- [sherpa-onnx alcyo-2.0.1-4](https://github.com/HsiangNianian/sherpa-onnx/releases/tag/alcyo-2.0.1-4) · 2026-11-23
+- [alcyo Alcyo 0.34.1](https://github.com/HsiangNianian/alcyo/releases/tag/v0.34.1) · 2026-11-23
 - [dsh-auto-continue v0.20.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.20.2) · 2026-11-20
 - [IntelligentMixVideo v0.9.22](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.22) · 2026-11-18
 - [Yapshire v0.9.1](https://github.com/HsiangNianian/Yapshire/releases/tag/v0.9.1) · 2026-10-12
