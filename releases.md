@@ -1,11 +1,15 @@
 # Released projects
 
-Listing <!-- releases_count starts -->435<!-- releases_count ends --> releases across <!-- project_count starts -->34<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->437<!-- releases_count ends --> releases across <!-- project_count starts -->35<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-23
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-24
 
   Unofficial swi-prolog docs for Chinese
+
+* **[llama.cpp](https://github.com/HsiangNianian/llama.cpp)**: [alcyo-b11954-2](https://github.com/HsiangNianian/llama.cpp/releases/tag/alcyo-b11954-2) - ([2 releases total](https://github.com/HsiangNianian/llama.cpp/releases))  - 2026-11-24
+
+  LLM inference in C/C++
 
 * **[sherpa-onnx](https://github.com/HsiangNianian/sherpa-onnx)**: [alcyo-2.0.1-4](https://github.com/HsiangNianian/sherpa-onnx/releases/tag/alcyo-2.0.1-4) - ([5 releases total](https://github.com/HsiangNianian/sherpa-onnx/releases))  - 2026-11-23
 

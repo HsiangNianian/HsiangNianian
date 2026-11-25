@@ -59,7 +59,8 @@ No AI Coding Activity Tracked This Week
 ## Recent releases
 
 <!-- recent_releases starts -->
-- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-11-23
+- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-11-24
+- [llama.cpp alcyo-b11954-2](https://github.com/HsiangNianian/llama.cpp/releases/tag/alcyo-b11954-2) · 2026-11-24
 - [sherpa-onnx alcyo-2.0.1-4](https://github.com/HsiangNianian/sherpa-onnx/releases/tag/alcyo-2.0.1-4) · 2026-11-23
 - [alcyo Alcyo 0.34.1](https://github.com/HsiangNianian/alcyo/releases/tag/v0.34.1) · 2026-11-23
 - [dsh-auto-continue v0.20.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.20.2) · 2026-11-20
@@ -68,7 +69,6 @@ No AI Coding Activity Tracked This Week
 - [DropOut dropout v0.2.0-rc.2](https://github.com/HydroRoll-Team/DropOut/releases/tag/dropout-v0.2.0-rc.2) · 2026-09-07
 - [iamai v1.0.0](https://github.com/retrofor/iamai/releases/tag/v1.0.0) · 2026-08-29
 - [GlyphWeave v0.2.0](https://github.com/HsiangNianian/GlyphWeave/releases/tag/v0.2.0) · 2026-08-27
-- [soon v0.5.0](https://github.com/HsiangNianian/soon/releases/tag/v0.5.0) · 2026-07-30
 <!-- recent_releases ends -->
 
 ## Recent posts
