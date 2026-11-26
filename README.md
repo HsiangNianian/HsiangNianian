@@ -59,7 +59,7 @@ No AI Coding Activity Tracked This Week
 ## Recent releases
 
 <!-- recent_releases starts -->
-- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-11-24
+- [swi-prolog-docs nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly) · 2026-11-25
 - [llama.cpp alcyo-b11954-2](https://github.com/HsiangNianian/llama.cpp/releases/tag/alcyo-b11954-2) · 2026-11-24
 - [sherpa-onnx alcyo-2.0.1-4](https://github.com/HsiangNianian/sherpa-onnx/releases/tag/alcyo-2.0.1-4) · 2026-11-23
 - [alcyo Alcyo 0.34.1](https://github.com/HsiangNianian/alcyo/releases/tag/v0.34.1) · 2026-11-23
