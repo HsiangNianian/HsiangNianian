@@ -1,13 +1,17 @@
 # Released projects
 
-Listing <!-- releases_count starts -->437<!-- releases_count ends --> releases across <!-- project_count starts -->35<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->440<!-- releases_count ends --> releases across <!-- project_count starts -->35<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-25
+* **[swi-prolog-docs](https://github.com/HsiangNianian/swi-prolog-docs)**: [nightly](https://github.com/HsiangNianian/swi-prolog-docs/releases/tag/nightly)  - 2026-11-26
 
   Unofficial swi-prolog docs for Chinese
 
-* **[llama.cpp](https://github.com/HsiangNianian/llama.cpp)**: [alcyo-b11954-2](https://github.com/HsiangNianian/llama.cpp/releases/tag/alcyo-b11954-2) - ([2 releases total](https://github.com/HsiangNianian/llama.cpp/releases))  - 2026-11-24
+* **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.21.1](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.21.1) - ([69 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-11-26
+
+  DSH Web UI plugin: auto-sends 「continue」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
+
+* **[llama.cpp](https://github.com/HsiangNianian/llama.cpp)**: [alcyo-b11954-3](https://github.com/HsiangNianian/llama.cpp/releases/tag/alcyo-b11954-3) - ([3 releases total](https://github.com/HsiangNianian/llama.cpp/releases))  - 2026-11-26
 
   LLM inference in C/C++
 
@@ -16,10 +20,6 @@ Listing <!-- releases_count starts -->437<!-- releases_count ends --> releases a
   Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages
 
 * **[alcyo](https://github.com/HsiangNianian/alcyo)**: [Alcyo 0.34.1](https://github.com/HsiangNianian/alcyo/releases/tag/v0.34.1) - ([45 releases total](https://github.com/HsiangNianian/alcyo/releases))  - 2026-11-23
-
-* **[dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue)**: [v0.20.2](https://github.com/HsiangNianian/dsh-auto-continue/releases/tag/v0.20.2) - ([67 releases total](https://github.com/HsiangNianian/dsh-auto-continue/releases))  - 2026-11-20
-
-  DSH Web UI plugin: auto-sends 「continue」 after non-human interruptions, with error classification, adaptive backoff, pause, idempotency/loop guards, resume templates, and stats—all configurable in settings UI | DSH 前端 UI 插件：非人为中断后自动发送「继续」，支持错误分类、自适应退避、暂停、幂等/循环保护、续跑模板与统计，均可在设置界面配置
 
 * **[IntelligentMixVideo](https://github.com/HsiangNianian/IntelligentMixVideo)**: [v0.9.22](https://github.com/HsiangNianian/IntelligentMixVideo/releases/tag/v0.9.22) - ([32 releases total](https://github.com/HsiangNianian/IntelligentMixVideo/releases))  - 2026-11-18
 
